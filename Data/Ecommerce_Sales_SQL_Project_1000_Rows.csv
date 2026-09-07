@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Region,State,Category,Sub_Category,Product,Quantity,Unit_Price,Discount_Pct,Sales,Cost,Profit,Payment_Mode,Order_Status,Ship_Date,Salesperson
+ORD00285,2025-01-01,CUST0172,Amit Sharma,East,Odisha,Electronics,Electronics,Laptop Pro 14,5,83311,5,395727.25,308747.07,86980.18,Credit Card,Processing,2025-01-07,Yash
+ORD00095,2025-01-01,CUST0108,Simran Kumar,West,Rajasthan,Furniture,Furniture,Bookshelf,2,11620,5,22078.0,19721.16,2356.84,Debit Card,Shipped,2025-01-02,Tarun
+ORD00505,2025-01-01,CUST0148,Ravi Malhotra,East,Odisha,Electronics,Electronics,Smartphone X,5,23596,20,94384.0,92445.91,1938.09,Net Banking,Delivered,2025-01-08,Raj
+ORD00220,2025-01-02,CUST0239,Sneha Singh,West,Rajasthan,Electronics,Electronics,Smartphone X,3,26876,10,72565.2,66837.44,5727.76,UPI,Shipped,2025-01-09,Kavita
+ORD00201,2025-01-02,CUST0107,Amit Malhotra,East,West Bengal,Electronics,Electronics,LED TV 55,2,60274,5,114520.6,85966.93,28553.67,UPI,Delivered,2025-01-06,Pallavi
+ORD00044,2025-01-03,CUST0126,Rohan Malhotra,West,Rajasthan,Furniture,Furniture,Bed Frame,2,25933,10,46679.4,37629.4,9050.0,UPI,Delivered,2025-01-04,Pallavi
+ORD00973,2025-01-04,CUST0206,Simran Patel,West,Rajasthan,Appliances,Appliances,Washing Machine,4,32875,0,131500.0,104346.31,27153.69,Cash on Delivery,Delivered,2025-01-06,Sonia
+ORD00295,2025-01-04,CUST0124,Vikram Yadav,North,Uttar Pradesh,Electronics,Electronics,Laptop Pro 14,3,84162,15,214613.1,206477.25,8135.85,UPI,Delivered,2025-01-10,Aman
+ORD00048,2025-01-04,CUST0235,Simran Joshi,East,Bihar,Electronics,Electronics,LED TV 55,4,61123,10,220042.8,191028.48,29014.32,Credit Card,Processing,2025-01-11,Mohit
+ORD00834,2025-01-05,CUST0246,Nisha Joshi,North,Delhi,Furniture,Furniture,Bed Frame,3,39811,10,107489.7,100902.9,6586.8,Debit Card,Cancelled,2025-01-12,Mohit
+ORD00654,2025-01-05,CUST0136,Priya Kumar,West,Maharashtra,Electronics,Electronics,LED TV 55,3,43683,5,124496.55,91205.71,33290.84,UPI,Delivered,2025-01-12,Varun
+ORD00398,2025-01-05,CUST0219,Sneha Joshi,South,Telangana,Appliances,Appliances,Air Conditioner,3,44605,15,113742.75,115117.58,-1374.83,Credit Card,Delivered,2025-01-10,Kavita
+ORD00996,2025-01-07,CUST0201,Kavya Sharma,North,Delhi,Electronics,Electronics,Tablet Plus,2,28440,5,54036.0,43471.98,10564.02,UPI,Delivered,2025-01-11,Tarun
+ORD00186,2025-01-08,CUST0166,Pooja Yadav,East,Bihar,Appliances,Appliances,Air Conditioner,3,33786,10,91222.2,77474.59,13747.61,UPI,Delivered,2025-01-10,Kavita
+ORD00842,2025-01-08,CUST0260,Sneha Kumar,East,West Bengal,Furniture,Furniture,Bookshelf,4,13344,10,48038.4,37395.47,10642.93,Net Banking,Processing,2025-01-12,Mohit
+ORD00580,2025-01-08,CUST0194,Vikram Singh,North,Haryana,Accessories,Accessories,Keyboard,5,1618,0,8090.0,6195.99,1894.01,Credit Card,Delivered,2025-01-15,Deepak
+ORD00883,2025-01-08,CUST0185,Sneha Verma,North,Delhi,Accessories,Accessories,Phone Cover,3,278,0,834.0,592.76,241.24,Net Banking,Delivered,2025-01-10,Yash
+ORD00463,2025-01-08,CUST0107,Amit Malhotra,West,Rajasthan,Electronics,Electronics,Wireless Headphones,3,3756,10,10141.2,9927.33,213.87,Credit Card,Delivered,2025-01-13,Aman
+ORD00818,2025-01-08,CUST0248,Kavya Malhotra,South,Telangana,Furniture,Furniture,Office Chair,4,6716,10,24177.6,18494.24,5683.36,Net Banking,Delivered,2025-01-13,Mohit
+ORD00972,2025-01-08,CUST0275,Priya Verma,West,Gujarat,Appliances,Appliances,Refrigerator,2,29674,10,53413.2,43358.58,10054.62,UPI,Delivered,2025-01-14,Yash
+ORD00914,2025-01-09,CUST0157,Neha Yadav,South,Kerala,Appliances,Appliances,Air Conditioner,4,64565,15,219521.0,190504.9,29016.1,Cash on Delivery,Delivered,2025-01-16,Varun
+ORD00683,2025-01-09,CUST0159,Aarav Yadav,North,Uttar Pradesh,Electronics,Electronics,Smartphone X,2,26320,20,42112.0,42890.57,-778.57,Debit Card,Delivered,2025-01-10,Deepak
+ORD00258,2025-01-10,CUST0250,Simran Kumar,East,Odisha,Electronics,Electronics,Laptop Pro 14,4,62966,5,239270.8,171775.38,67495.42,Credit Card,Shipped,2025-01-16,Aman
+ORD00481,2025-01-10,CUST0279,Rohan Gupta,East,West Bengal,Accessories,Accessories,Phone Cover,5,701,5,3329.75,2925.38,404.37,Net Banking,Cancelled,2025-01-17,Kavita
+ORD00841,2025-01-11,CUST0268,Kavya Patel,North,Delhi,Electronics,Electronics,Tablet Plus,4,38349,5,145726.2,120589.69,25136.51,Net Banking,Shipped,2025-01-13,Yash
+ORD00259,2025-01-12,CUST0253,Pooja Gupta,East,Jharkhand,Appliances,Appliances,Microwave Oven,3,9580,10,25866.0,20816.61,5049.39,Credit Card,Delivered,2025-01-19,Deepak
+ORD00518,2025-01-12,CUST0263,Aarav Sharma,West,Gujarat,Electronics,Electronics,Tablet Plus,1,21449,0,21449.0,17909.67,3539.33,Net Banking,Shipped,2025-01-17,Yash
+ORD00281,2025-01-12,CUST0179,Amit Patel,West,Gujarat,Accessories,Accessories,Mouse,5,1591,20,6364.0,6948.55,-584.55,Net Banking,Delivered,2025-01-13,Tarun
+ORD00902,2025-01-12,CUST0167,Ravi Sharma,North,Haryana,Appliances,Appliances,Microwave Oven,5,12311,10,55399.5,48132.69,7266.81,UPI,Delivered,2025-01-17,Mohit
+ORD00501,2025-01-13,CUST0172,Amit Sharma,East,Odisha,Electronics,Electronics,Smartphone X,3,43464,15,110833.2,102703.39,8129.81,UPI,Delivered,2025-01-19,Aman
+ORD00628,2025-01-13,CUST0263,Aarav Sharma,West,Gujarat,Appliances,Appliances,Refrigerator,3,55025,10,148567.5,141954.42,6613.08,Cash on Delivery,Delivered,2025-01-16,Sonia
+ORD00918,2025-01-13,CUST0290,Nisha Patel,West,Rajasthan,Furniture,Furniture,Office Chair,2,11666,5,22165.4,19016.66,3148.74,Net Banking,Delivered,2025-01-18,Aman
+ORD00798,2025-01-14,CUST0144,Kavya Malhotra,East,Jharkhand,Electronics,Electronics,Tablet Plus,5,15156,15,64413.0,59033.02,5379.98,Cash on Delivery,Delivered,2025-01-15,Deepak
+ORD00371,2025-01-14,CUST0202,Vikram Verma,North,Uttar Pradesh,Appliances,Appliances,Washing Machine,4,29601,5,112483.8,93776.55,18707.25,UPI,Shipped,2025-01-20,Aman
+ORD00877,2025-01-15,CUST0197,Priya Yadav,West,Gujarat,Accessories,Accessories,Phone Cover,5,1015,5,4821.25,4551.34,269.91,Debit Card,Delivered,2025-01-20,Sonia
+ORD00916,2025-01-15,CUST0125,Meera Mehta,South,Karnataka,Appliances,Appliances,Mixer Grinder,3,3315,20,7956.0,8713.81,-757.81,Debit Card,Delivered,2025-01-16,Varun
+ORD00963,2025-01-15,CUST0213,Simran Sharma,North,Uttar Pradesh,Furniture,Furniture,Sofa Set,5,54063,15,229767.75,190176.9,39590.85,Net Banking,Delivered,2025-01-19,Pallavi
+ORD00092,2025-01-15,CUST0120,Amit Singh,West,Goa,Electronics,Electronics,LED TV 55,5,47466,5,225463.5,210862.3,14601.2,Credit Card,Processing,2025-01-18,Pallavi
+ORD00304,2025-01-16,CUST0209,Pooja Sharma,East,West Bengal,Electronics,Electronics,Laptop Pro 14,1,82464,10,74217.6,69751.27,4466.33,Credit Card,Delivered,2025-01-21,Pallavi
+ORD00372,2025-01-16,CUST0223,Kavya Verma,North,Uttar Pradesh,Electronics,Electronics,Tablet Plus,1,17795,15,15125.75,12677.87,2447.88,Credit Card,Delivered,2025-01-20,Mohit
+ORD00327,2025-01-17,CUST0191,Rohan Patel,East,Odisha,Furniture,Furniture,Sofa Set,5,25515,0,127575.0,93536.48,34038.52,Credit Card,Cancelled,2025-01-18,Pallavi
+ORD00701,2025-01-17,CUST0193,Amit Patel,East,West Bengal,Furniture,Furniture,Office Chair,5,13758,5,65350.5,61747.81,3602.69,Net Banking,Delivered,2025-01-21,Varun
+ORD00478,2025-01-17,CUST0258,Vikram Joshi,East,Jharkhand,Electronics,Electronics,Wireless Headphones,2,4439,10,7990.2,6517.52,1472.68,Credit Card,Delivered,2025-01-22,Deepak
+ORD00052,2025-01-17,CUST0257,Amit Malhotra,West,Rajasthan,Accessories,Accessories,Keyboard,1,1604,10,1443.6,1264.24,179.36,Net Banking,Delivered,2025-01-19,Tarun
+ORD00499,2025-01-18,CUST0203,Aarav Joshi,West,Rajasthan,Furniture,Furniture,Bed Frame,4,54942,10,197791.2,168601.83,29189.37,Debit Card,Delivered,2025-01-21,Tarun
+ORD00900,2025-01-18,CUST0253,Pooja Gupta,North,Haryana,Electronics,Electronics,Smartphone X,1,42813,10,38531.7,36044.68,2487.02,UPI,Delivered,2025-01-25,Tarun
+ORD00804,2025-01-18,CUST0284,Manish Malhotra,East,Jharkhand,Appliances,Appliances,Washing Machine,2,26654,15,45311.8,42284.21,3027.59,Credit Card,Delivered,2025-01-19,Tarun
+ORD00763,2025-01-18,CUST0228,Tanya Yadav,North,Punjab,Appliances,Appliances,Washing Machine,4,54167,0,216668.0,179283.21,37384.79,Credit Card,Delivered,2025-01-20,Pallavi
+ORD00377,2025-01-19,CUST0265,Tanya Joshi,West,Rajasthan,Electronics,Electronics,Wireless Headphones,1,2231,5,2119.45,1964.83,154.62,Credit Card,Delivered,2025-01-23,Aman
+ORD00618,2025-01-19,CUST0109,Meera Malhotra,South,Telangana,Furniture,Furniture,Sofa Set,5,38276,5,181811.0,150325.18,31485.82,Debit Card,Delivered,2025-01-26,Deepak
+ORD00439,2025-01-19,CUST0128,Priya Verma,West,Rajasthan,Appliances,Appliances,Refrigerator,2,58022,10,104439.6,80277.71,24161.89,Net Banking,Delivered,2025-01-20,Raj
+ORD00122,2025-01-19,CUST0148,Ravi Malhotra,West,Goa,Appliances,Appliances,Microwave Oven,5,7556,10,34002.0,28168.51,5833.49,UPI,Delivered,2025-01-20,Yash
+ORD00783,2025-01-19,CUST0257,Amit Malhotra,North,Punjab,Electronics,Electronics,LED TV 55,2,36364,5,69091.6,59864.85,9226.75,Cash on Delivery,Delivered,2025-01-26,Deepak
+ORD00631,2025-01-20,CUST0157,Neha Yadav,West,Rajasthan,Appliances,Appliances,Microwave Oven,5,11368,20,45472.0,45063.03,408.97,Debit Card,Delivered,2025-01-26,Mohit
+ORD00235,2025-01-21,CUST0129,Meera Patel,North,Delhi,Electronics,Electronics,Laptop Pro 14,2,77092,10,138765.6,126466.19,12299.41,UPI,Delivered,2025-01-28,Kavita
+ORD00070,2025-01-21,CUST0155,Arjun Yadav,West,Rajasthan,Accessories,Accessories,Webcam,4,7040,10,25344.0,20391.34,4952.66,UPI,Delivered,2025-01-22,Varun
+ORD00255,2025-01-21,CUST0166,Pooja Yadav,North,Uttar Pradesh,Electronics,Electronics,Wireless Headphones,4,5840,15,19856.0,16109.18,3746.82,UPI,Delivered,2025-01-24,Aman
+ORD00299,2025-01-21,CUST0132,Arjun Verma,East,Bihar,Appliances,Appliances,Air Conditioner,1,30220,5,28709.0,21431.01,7277.99,Credit Card,Delivered,2025-01-23,Tarun
+ORD00974,2025-01-21,CUST0200,Kavya Patel,North,Punjab,Accessories,Accessories,Phone Cover,2,508,5,965.2,747.54,217.66,Cash on Delivery,Delivered,2025-01-22,Kavita
+ORD00771,2025-01-22,CUST0159,Aarav Yadav,North,Punjab,Electronics,Electronics,Wireless Headphones,1,6971,0,6971.0,5349.41,1621.59,Cash on Delivery,Shipped,2025-01-26,Tarun
+ORD00156,2025-01-24,CUST0167,Ravi Sharma,North,Uttar Pradesh,Furniture,Furniture,Bookshelf,3,5079,10,13713.3,11519.73,2193.57,UPI,Delivered,2025-01-26,Aman
+ORD00915,2025-01-24,CUST0127,Aarav Yadav,East,West Bengal,Electronics,Electronics,Tablet Plus,3,17131,10,46253.7,44916.34,1337.36,Credit Card,Delivered,2025-01-26,Aman
+ORD00737,2025-01-24,CUST0217,Nisha Sharma,South,Telangana,Electronics,Electronics,Wireless Headphones,2,5651,10,10171.8,9439.54,732.26,Debit Card,Delivered,2025-01-30,Aman
+ORD00976,2025-01-25,CUST0297,Neha Singh,North,Punjab,Appliances,Appliances,Microwave Oven,1,8545,15,7263.25,7513.68,-250.43,Debit Card,Delivered,2025-01-26,Kavita
+ORD00277,2025-01-25,CUST0257,Amit Malhotra,West,Goa,Accessories,Accessories,Mouse,2,2364,10,4255.2,3809.9,445.3,Credit Card,Delivered,2025-01-29,Yash
+ORD00535,2025-01-25,CUST0267,Simran Sharma,West,Gujarat,Appliances,Appliances,Refrigerator,5,41799,15,177645.75,160636.24,17009.51,Debit Card,Delivered,2025-02-01,Tarun
+ORD00828,2025-01-26,CUST0181,Tanya Joshi,South,Karnataka,Electronics,Electronics,Wireless Headphones,1,7494,5,7119.3,6365.03,754.27,UPI,Returned,2025-02-02,Tarun
+ORD00265,2025-01-26,CUST0270,Rahul Verma,West,Gujarat,Furniture,Furniture,Study Table,4,21678,0,86712.0,63633.07,23078.93,Net Banking,Processing,2025-01-28,Yash
+ORD00099,2025-01-26,CUST0220,Ankit Yadav,North,Haryana,Appliances,Appliances,Microwave Oven,4,8353,5,31741.4,29094.28,2647.12,UPI,Delivered,2025-01-29,Aman
+ORD00971,2025-01-26,CUST0223,Kavya Verma,East,Jharkhand,Furniture,Furniture,Study Table,2,23121,15,39305.7,35834.4,3471.3,Debit Card,Shipped,2025-02-02,Pallavi
+ORD00051,2025-01-26,CUST0263,Aarav Sharma,West,Gujarat,Furniture,Furniture,Office Chair,4,8494,5,32277.2,25970.74,6306.46,Credit Card,Delivered,2025-01-29,Yash
+ORD00844,2025-01-28,CUST0216,Vikram Gupta,West,Rajasthan,Accessories,Accessories,Mouse,4,2911,5,11061.8,9832.07,1229.73,Debit Card,Delivered,2025-02-03,Aman
+ORD00455,2025-01-28,CUST0187,Amit Kumar,North,Delhi,Furniture,Furniture,Office Chair,2,9938,0,19876.0,15647.24,4228.76,UPI,Delivered,2025-02-01,Pallavi
+ORD00601,2025-01-29,CUST0227,Manish Gupta,North,Haryana,Electronics,Electronics,LED TV 55,5,42465,0,212325.0,174498.55,37826.45,UPI,Delivered,2025-02-05,Mohit
+ORD00125,2025-01-29,CUST0218,Nisha Joshi,North,Haryana,Appliances,Appliances,Mixer Grinder,5,5766,0,28830.0,21901.57,6928.43,Debit Card,Delivered,2025-02-01,Raj
+ORD00911,2025-01-29,CUST0254,Rohan Joshi,East,Jharkhand,Electronics,Electronics,Laptop Pro 14,2,63167,0,126334.0,97729.26,28604.74,Cash on Delivery,Delivered,2025-02-05,Tarun
+ORD00165,2025-01-29,CUST0230,Amit Joshi,North,Haryana,Appliances,Appliances,Air Conditioner,3,44287,0,132861.0,90352.52,42508.48,UPI,Shipped,2025-02-01,Pallavi
+ORD00241,2025-01-29,CUST0131,Priya Malhotra,West,Maharashtra,Furniture,Furniture,Office Chair,4,6940,5,26372.0,21833.81,4538.19,UPI,Delivered,2025-02-02,Deepak
+ORD00711,2025-01-31,CUST0217,Nisha Sharma,West,Gujarat,Furniture,Furniture,Sofa Set,2,35754,0,71508.0,55938.42,15569.58,UPI,Delivered,2025-02-05,Varun
+ORD00055,2025-01-31,CUST0276,Arjun Patel,East,Bihar,Appliances,Appliances,Air Conditioner,2,56140,5,106666.0,76440.72,30225.28,UPI,Delivered,2025-02-03,Aman
+ORD00233,2025-01-31,CUST0164,Vikram Kumar,East,Odisha,Appliances,Appliances,Washing Machine,2,23375,0,46750.0,33668.3,13081.7,Debit Card,Delivered,2025-02-03,Varun
+ORD00187,2025-02-01,CUST0143,Tanya Verma,West,Maharashtra,Electronics,Electronics,Laptop Pro 14,3,76650,0,229950.0,164067.07,65882.93,Net Banking,Delivered,2025-02-05,Mohit
+ORD00843,2025-02-01,CUST0277,Simran Joshi,North,Delhi,Appliances,Appliances,Mixer Grinder,4,7737,0,30948.0,26274.22,4673.78,Credit Card,Cancelled,2025-02-07,Aman
+ORD00279,2025-02-01,CUST0233,Pooja Joshi,West,Maharashtra,Accessories,Accessories,USB Hub,4,2177,0,8708.0,6156.08,2551.92,Debit Card,Delivered,2025-02-05,Mohit
+ORD00267,2025-02-02,CUST0185,Sneha Verma,East,Jharkhand,Electronics,Electronics,LED TV 55,2,36627,15,62265.9,56515.53,5750.37,UPI,Delivered,2025-02-06,Raj
+ORD00508,2025-02-03,CUST0167,Ravi Sharma,West,Gujarat,Furniture,Furniture,Sofa Set,1,52388,0,52388.0,39419.39,12968.61,Cash on Delivery,Delivered,2025-02-08,Kavita
+ORD00529,2025-02-03,CUST0131,Priya Malhotra,North,Uttar Pradesh,Electronics,Electronics,Tablet Plus,3,31344,5,89330.4,77042.22,12288.18,UPI,Delivered,2025-02-08,Kavita
+ORD00988,2025-02-03,CUST0208,Ankit Sharma,South,Telangana,Appliances,Appliances,Refrigerator,1,46667,15,39666.95,33791.72,5875.23,UPI,Processing,2025-02-06,Raj
+ORD00433,2025-02-03,CUST0236,Arjun Kumar,East,Odisha,Electronics,Electronics,LED TV 55,4,39922,10,143719.2,139328.09,4391.11,Cash on Delivery,Delivered,2025-02-06,Varun
+ORD00272,2025-02-04,CUST0141,Arjun Verma,West,Maharashtra,Appliances,Appliances,Refrigerator,1,70481,5,66956.95,55945.42,11011.53,Credit Card,Delivered,2025-02-10,Varun
+ORD00811,2025-02-04,CUST0226,Aarav Verma,West,Maharashtra,Appliances,Appliances,Refrigerator,1,65394,5,62124.3,56154.47,5969.83,Cash on Delivery,Delivered,2025-02-10,Pallavi
+ORD00497,2025-02-04,CUST0180,Amit Malhotra,East,Jharkhand,Accessories,Accessories,Phone Cover,3,952,5,2713.2,2277.36,435.84,Credit Card,Cancelled,2025-02-07,Yash
+ORD00532,2025-02-04,CUST0109,Meera Malhotra,West,Gujarat,Furniture,Furniture,Bookshelf,4,15923,5,60507.4,45005.49,15501.91,UPI,Processing,2025-02-05,Yash
+ORD00066,2025-02-04,CUST0240,Rohan Gupta,East,Jharkhand,Electronics,Electronics,LED TV 55,3,53690,5,153016.5,139700.46,13316.04,Credit Card,Delivered,2025-02-07,Mohit
+ORD00109,2025-02-05,CUST0149,Tanya Singh,North,Punjab,Electronics,Electronics,Laptop Pro 14,1,63226,5,60064.7,49583.73,10480.97,Credit Card,Delivered,2025-02-06,Deepak
+ORD00637,2025-02-06,CUST0280,Karan Gupta,East,Bihar,Electronics,Electronics,Smartphone X,3,35517,0,106551.0,82926.8,23624.2,Credit Card,Delivered,2025-02-08,Raj
+ORD00802,2025-02-06,CUST0181,Tanya Joshi,North,Haryana,Accessories,Accessories,USB Hub,3,1518,5,4326.3,3261.75,1064.55,UPI,Delivered,2025-02-07,Raj
+ORD00969,2025-02-06,CUST0200,Kavya Patel,East,Bihar,Appliances,Appliances,Washing Machine,5,51697,0,258485.0,178983.66,79501.34,UPI,Shipped,2025-02-13,Tarun
+ORD00805,2025-02-07,CUST0120,Amit Singh,South,Karnataka,Electronics,Electronics,Wireless Headphones,1,7750,15,6587.5,5611.26,976.24,UPI,Delivered,2025-02-11,Sonia
+ORD00143,2025-02-07,CUST0106,Rohan Singh,South,Tamil Nadu,Appliances,Appliances,Mixer Grinder,1,4017,0,4017.0,2999.52,1017.48,Credit Card,Cancelled,2025-02-10,Raj
+ORD00998,2025-02-07,CUST0227,Manish Gupta,North,Delhi,Electronics,Electronics,Smartphone X,5,39797,15,169137.25,160188.94,8948.31,Cash on Delivery,Cancelled,2025-02-09,Tarun
+ORD00089,2025-02-07,CUST0218,Nisha Joshi,West,Goa,Electronics,Electronics,LED TV 55,4,57366,5,217990.8,160756.61,57234.19,Credit Card,Delivered,2025-02-10,Aman
+ORD00386,2025-02-08,CUST0113,Aarav Gupta,West,Gujarat,Accessories,Accessories,Keyboard,2,2550,15,4335.0,4531.01,-196.01,Credit Card,Processing,2025-02-14,Varun
+ORD00955,2025-02-08,CUST0111,Priya Joshi,South,Tamil Nadu,Electronics,Electronics,LED TV 55,4,38203,5,145171.4,109443.28,35728.12,UPI,Delivered,2025-02-13,Deepak
+ORD00887,2025-02-09,CUST0137,Tanya Sharma,East,Jharkhand,Appliances,Appliances,Refrigerator,2,67041,15,113969.7,107175.1,6794.6,Debit Card,Delivered,2025-02-15,Yash
+ORD00689,2025-02-09,CUST0251,Neha Singh,West,Maharashtra,Accessories,Accessories,Webcam,4,7688,15,26139.2,21718.29,4420.91,Debit Card,Shipped,2025-02-10,Deepak
+ORD00197,2025-02-10,CUST0134,Amit Sharma,West,Rajasthan,Furniture,Furniture,Bookshelf,2,11082,15,18839.4,18307.41,531.99,Cash on Delivery,Delivered,2025-02-12,Raj
+ORD00730,2025-02-10,CUST0160,Arjun Gupta,North,Delhi,Electronics,Electronics,LED TV 55,3,58760,0,176280.0,125613.99,50666.01,Cash on Delivery,Delivered,2025-02-11,Deepak
+ORD00042,2025-02-10,CUST0216,Vikram Gupta,South,Telangana,Electronics,Electronics,Tablet Plus,3,24316,10,65653.2,64741.58,911.62,Debit Card,Delivered,2025-02-11,Deepak
+ORD00317,2025-02-10,CUST0295,Arjun Gupta,South,Tamil Nadu,Appliances,Appliances,Microwave Oven,1,8033,15,6828.05,6489.16,338.89,Credit Card,Delivered,2025-02-15,Kavita
+ORD00757,2025-02-11,CUST0169,Simran Kumar,East,West Bengal,Electronics,Electronics,Smartphone X,5,45160,10,203220.0,167506.63,35713.37,Net Banking,Delivered,2025-02-18,Raj
+ORD00373,2025-02-11,CUST0151,Tanya Malhotra,North,Uttar Pradesh,Appliances,Appliances,Mixer Grinder,5,6804,15,28917.0,27711.48,1205.52,Net Banking,Shipped,2025-02-14,Raj
+ORD00982,2025-02-11,CUST0238,Pooja Malhotra,West,Goa,Accessories,Accessories,Webcam,2,2373,5,4508.7,3698.85,809.85,Debit Card,Delivered,2025-02-18,Pallavi
+ORD00323,2025-02-11,CUST0111,Priya Joshi,East,Odisha,Electronics,Electronics,Tablet Plus,5,19476,10,87642.0,67331.7,20310.3,Cash on Delivery,Delivered,2025-02-15,Varun
+ORD00979,2025-02-12,CUST0131,Priya Malhotra,South,Karnataka,Electronics,Electronics,Laptop Pro 14,3,64327,10,173682.9,147408.98,26273.92,UPI,Returned,2025-02-13,Pallavi
+ORD00861,2025-02-13,CUST0276,Arjun Patel,West,Rajasthan,Furniture,Furniture,Bookshelf,1,9555,5,9077.25,7244.25,1833.0,UPI,Delivered,2025-02-14,Deepak
+ORD00797,2025-02-14,CUST0172,Amit Sharma,West,Rajasthan,Electronics,Electronics,Tablet Plus,3,34888,10,94197.6,71721.48,22476.12,Debit Card,Delivered,2025-02-15,Raj
+ORD00765,2025-02-14,CUST0156,Rohan Gupta,North,Delhi,Electronics,Electronics,LED TV 55,4,50479,10,181724.4,165057.24,16667.16,Debit Card,Shipped,2025-02-21,Pallavi
+ORD00855,2025-02-14,CUST0127,Aarav Yadav,North,Haryana,Furniture,Furniture,Sofa Set,2,44097,5,83784.3,73350.73,10433.57,UPI,Processing,2025-02-19,Raj
+ORD00712,2025-02-16,CUST0144,Kavya Malhotra,East,Bihar,Electronics,Electronics,Tablet Plus,2,38865,15,66070.5,63639.85,2430.65,UPI,Returned,2025-02-21,Sonia
+ORD00653,2025-02-16,CUST0253,Pooja Gupta,East,Jharkhand,Appliances,Appliances,Microwave Oven,4,16088,0,64352.0,44868.43,19483.57,UPI,Processing,2025-02-17,Mohit
+ORD00427,2025-02-17,CUST0240,Rohan Gupta,South,Telangana,Electronics,Electronics,Wireless Headphones,3,8590,10,23193.0,19536.21,3656.79,UPI,Delivered,2025-02-22,Sonia
+ORD00332,2025-02-17,CUST0245,Simran Sharma,West,Gujarat,Accessories,Accessories,Webcam,1,4780,10,4302.0,3352.21,949.79,Debit Card,Processing,2025-02-20,Sonia
+ORD00958,2025-02-17,CUST0179,Amit Patel,North,Punjab,Appliances,Appliances,Washing Machine,5,25083,0,125415.0,86325.71,39089.29,Debit Card,Delivered,2025-02-21,Kavita
+ORD00096,2025-02-18,CUST0114,Priya Verma,South,Telangana,Accessories,Accessories,Webcam,5,4274,5,20301.5,16872.66,3428.84,UPI,Delivered,2025-02-19,Deepak
+ORD00303,2025-02-18,CUST0164,Vikram Kumar,East,Bihar,Electronics,Electronics,Tablet Plus,3,20618,5,58761.3,51857.84,6903.46,Cash on Delivery,Delivered,2025-02-20,Yash
+ORD00177,2025-02-18,CUST0287,Neha Gupta,East,Jharkhand,Furniture,Furniture,Bed Frame,4,50113,0,200452.0,169278.39,31173.61,UPI,Delivered,2025-02-23,Sonia
+ORD00632,2025-02-19,CUST0153,Arjun Malhotra,West,Rajasthan,Electronics,Electronics,LED TV 55,4,69085,10,248706.0,212122.74,36583.26,Net Banking,Shipped,2025-02-24,Deepak
+ORD00464,2025-02-20,CUST0176,Aarav Yadav,East,Odisha,Furniture,Furniture,Bed Frame,4,46386,5,176266.8,160172.47,16094.33,Debit Card,Delivered,2025-02-21,Aman
+ORD00950,2025-02-20,CUST0275,Priya Verma,East,Jharkhand,Accessories,Accessories,Webcam,5,2382,5,11314.5,9222.57,2091.93,Cash on Delivery,Delivered,2025-02-22,Mohit
+ORD00833,2025-02-20,CUST0148,Ravi Malhotra,North,Delhi,Electronics,Electronics,Wireless Headphones,5,5283,15,22452.75,21320.42,1132.33,Net Banking,Delivered,2025-02-24,Aman
+ORD00107,2025-02-20,CUST0136,Priya Kumar,South,Telangana,Electronics,Electronics,Wireless Headphones,4,9720,15,33048.0,26610.51,6437.49,Debit Card,Delivered,2025-02-22,Pallavi
+ORD00999,2025-02-21,CUST0126,Rohan Malhotra,West,Gujarat,Appliances,Appliances,Air Conditioner,4,31269,5,118822.2,97145.49,21676.71,Credit Card,Delivered,2025-02-26,Deepak
+ORD00986,2025-02-22,CUST0228,Tanya Yadav,South,Tamil Nadu,Accessories,Accessories,Webcam,4,2353,10,8470.8,7561.16,909.64,UPI,Delivered,2025-03-01,Sonia
+ORD00803,2025-02-22,CUST0206,Simran Patel,East,Jharkhand,Electronics,Electronics,LED TV 55,2,43055,10,77499.0,71610.07,5888.93,UPI,Delivered,2025-02-23,Kavita
+ORD00566,2025-02-23,CUST0234,Rahul Singh,East,Jharkhand,Electronics,Electronics,Tablet Plus,2,37102,10,66783.6,53327.25,13456.35,Debit Card,Delivered,2025-02-25,Kavita
+ORD00643,2025-02-23,CUST0155,Arjun Yadav,North,Delhi,Electronics,Electronics,Smartphone X,3,32904,10,88840.8,81862.38,6978.42,UPI,Delivered,2025-03-01,Aman
+ORD00447,2025-02-23,CUST0107,Amit Malhotra,West,Maharashtra,Appliances,Appliances,Washing Machine,4,42213,10,151966.8,146114.74,5852.06,Net Banking,Delivered,2025-02-25,Mohit
+ORD00163,2025-02-24,CUST0196,Nisha Sharma,East,Bihar,Furniture,Furniture,Bookshelf,3,12514,20,30033.6,28640.73,1392.87,Cash on Delivery,Delivered,2025-02-27,Varun
+ORD00076,2025-02-24,CUST0183,Tanya Patel,West,Rajasthan,Electronics,Electronics,Tablet Plus,5,30882,5,146689.5,125902.29,20787.21,UPI,Returned,2025-02-25,Tarun
+ORD00874,2025-02-24,CUST0156,Rohan Gupta,South,Kerala,Furniture,Furniture,Bed Frame,1,53709,0,53709.0,39160.1,14548.9,Net Banking,Processing,2025-02-27,Yash
+ORD00876,2025-02-25,CUST0173,Pooja Malhotra,North,Haryana,Electronics,Electronics,Wireless Headphones,3,8567,5,24415.95,19884.77,4531.18,UPI,Shipped,2025-02-27,Sonia
+ORD00582,2025-02-25,CUST0187,Amit Kumar,West,Rajasthan,Appliances,Appliances,Refrigerator,1,61266,10,55139.4,47984.7,7154.7,UPI,Delivered,2025-03-04,Mohit
+ORD00959,2025-02-26,CUST0230,Amit Joshi,North,Punjab,Electronics,Electronics,Tablet Plus,4,36584,0,146336.0,103470.01,42865.99,Cash on Delivery,Delivered,2025-02-27,Varun
+ORD00278,2025-02-26,CUST0257,Amit Malhotra,East,Odisha,Furniture,Furniture,Office Chair,3,14290,0,42870.0,37710.25,5159.75,UPI,Delivered,2025-03-02,Aman
+ORD00703,2025-02-26,CUST0212,Nisha Singh,South,Kerala,Appliances,Appliances,Air Conditioner,3,44201,0,132603.0,91531.96,41071.04,Cash on Delivery,Processing,2025-03-02,Sonia
+ORD00528,2025-02-27,CUST0131,Priya Malhotra,South,Karnataka,Accessories,Accessories,Phone Cover,2,1198,10,2156.4,1984.66,171.74,Debit Card,Returned,2025-02-28,Pallavi
+ORD00677,2025-02-27,CUST0261,Ankit Mehta,North,Delhi,Electronics,Electronics,Tablet Plus,2,39700,5,75430.0,54976.88,20453.12,Debit Card,Delivered,2025-03-06,Kavita
+ORD00586,2025-02-27,CUST0264,Meera Verma,North,Haryana,Electronics,Electronics,Smartphone X,5,54547,5,259098.25,225284.99,33813.26,Cash on Delivery,Delivered,2025-03-05,Raj
+ORD00537,2025-02-28,CUST0282,Ankit Singh,West,Rajasthan,Electronics,Electronics,Laptop Pro 14,5,56449,15,239908.25,197466.75,42441.5,Cash on Delivery,Delivered,2025-03-01,Sonia
+ORD00437,2025-02-28,CUST0159,Aarav Yadav,North,Haryana,Electronics,Electronics,Laptop Pro 14,4,75181,5,285687.8,244585.76,41102.04,UPI,Delivered,2025-03-02,Aman
+ORD00585,2025-02-28,CUST0270,Rahul Verma,East,Bihar,Electronics,Electronics,Tablet Plus,2,24017,15,40828.9,35935.15,4893.75,Cash on Delivery,Processing,2025-03-05,Pallavi
+ORD00733,2025-02-28,CUST0102,Rahul Joshi,East,Jharkhand,Electronics,Electronics,Smartphone X,4,38462,10,138463.2,110323.14,28140.06,Net Banking,Delivered,2025-03-01,Kavita
+ORD00555,2025-02-28,CUST0138,Rohan Mehta,West,Maharashtra,Electronics,Electronics,Laptop Pro 14,2,56706,5,107741.4,99451.83,8289.57,Credit Card,Delivered,2025-03-04,Yash
+ORD00013,2025-03-01,CUST0114,Priya Verma,West,Gujarat,Electronics,Electronics,LED TV 55,1,55900,15,47515.0,42033.53,5481.47,Debit Card,Delivered,2025-03-08,Deepak
+ORD00946,2025-03-01,CUST0154,Tanya Verma,North,Haryana,Electronics,Electronics,Laptop Pro 14,5,68968,15,293114.0,236341.62,56772.38,Net Banking,Delivered,2025-03-05,Varun
+ORD00392,2025-03-02,CUST0161,Priya Malhotra,South,Tamil Nadu,Electronics,Electronics,LED TV 55,4,38432,5,146041.6,115984.99,30056.61,Debit Card,Shipped,2025-03-05,Pallavi
+ORD00926,2025-03-02,CUST0105,Rohan Kumar,North,Haryana,Electronics,Electronics,Wireless Headphones,1,11102,15,9436.7,7800.8,1635.9,Debit Card,Delivered,2025-03-09,Yash
+ORD00247,2025-03-02,CUST0250,Simran Kumar,South,Karnataka,Furniture,Furniture,Office Chair,5,8159,0,40795.0,28510.6,12284.4,Credit Card,Delivered,2025-03-07,Deepak
+ORD00625,2025-03-02,CUST0211,Pooja Mehta,East,Jharkhand,Electronics,Electronics,LED TV 55,5,41080,0,205400.0,169079.82,36320.18,Debit Card,Delivered,2025-03-06,Yash
+ORD00193,2025-03-02,CUST0229,Kavya Sharma,West,Gujarat,Electronics,Electronics,Tablet Plus,1,24643,5,23410.85,21290.22,2120.63,Cash on Delivery,Delivered,2025-03-06,Mohit
+ORD00412,2025-03-02,CUST0151,Tanya Malhotra,West,Rajasthan,Electronics,Electronics,Smartphone X,2,35297,10,63534.6,52984.03,10550.57,Credit Card,Delivered,2025-03-07,Pallavi
+ORD00691,2025-03-03,CUST0175,Kavya Kumar,South,Kerala,Furniture,Furniture,Bed Frame,3,23398,0,70194.0,55456.32,14737.68,Credit Card,Delivered,2025-03-09,Varun
+ORD00268,2025-03-03,CUST0159,Aarav Yadav,West,Goa,Electronics,Electronics,Tablet Plus,2,26664,20,42662.4,44714.11,-2051.71,Debit Card,Delivered,2025-03-05,Mohit
+ORD00967,2025-03-03,CUST0228,Tanya Yadav,West,Maharashtra,Furniture,Furniture,Office Chair,2,11795,5,22410.5,16149.72,6260.78,Credit Card,Delivered,2025-03-10,Sonia
+ORD00678,2025-03-04,CUST0257,Amit Malhotra,South,Tamil Nadu,Appliances,Appliances,Washing Machine,5,36820,5,174895.0,140148.74,34746.26,Credit Card,Shipped,2025-03-10,Aman
+ORD00040,2025-03-05,CUST0224,Manish Kumar,South,Telangana,Furniture,Furniture,Bookshelf,2,6645,5,12625.5,9977.75,2647.75,Credit Card,Processing,2025-03-08,Pallavi
+ORD00747,2025-03-06,CUST0168,Ravi Singh,South,Karnataka,Appliances,Appliances,Washing Machine,3,43118,15,109950.9,90071.62,19879.28,Credit Card,Delivered,2025-03-12,Kavita
+ORD00313,2025-03-07,CUST0240,Rohan Gupta,North,Punjab,Electronics,Electronics,Smartphone X,5,24191,0,120955.0,104143.13,16811.87,Cash on Delivery,Returned,2025-03-12,Aman
+ORD00378,2025-03-07,CUST0277,Simran Joshi,North,Uttar Pradesh,Accessories,Accessories,Phone Cover,4,305,15,1037.0,1083.53,-46.53,UPI,Delivered,2025-03-13,Mohit
+ORD00301,2025-03-07,CUST0194,Vikram Singh,North,Delhi,Furniture,Furniture,Sofa Set,1,29818,15,25345.3,22013.42,3331.88,UPI,Delivered,2025-03-11,Raj
+ORD00110,2025-03-08,CUST0251,Neha Singh,North,Haryana,Electronics,Electronics,Wireless Headphones,5,7015,15,29813.75,27298.52,2515.23,Credit Card,Delivered,2025-03-14,Deepak
+ORD00454,2025-03-09,CUST0186,Amit Singh,West,Rajasthan,Electronics,Electronics,Tablet Plus,4,35008,5,133030.4,100105.3,32925.1,Debit Card,Delivered,2025-03-15,Deepak
+ORD00339,2025-03-09,CUST0229,Kavya Sharma,South,Kerala,Electronics,Electronics,Wireless Headphones,4,5176,5,19668.8,15944.22,3724.58,Credit Card,Delivered,2025-03-15,Sonia
+ORD00932,2025-03-09,CUST0277,Simran Joshi,West,Rajasthan,Appliances,Appliances,Air Conditioner,4,64409,10,231872.4,194135.78,37736.62,UPI,Processing,2025-03-16,Tarun
+ORD00636,2025-03-10,CUST0261,Ankit Mehta,South,Tamil Nadu,Furniture,Furniture,Sofa Set,3,26230,10,70821.0,68597.33,2223.67,Credit Card,Delivered,2025-03-12,Tarun
+ORD00556,2025-03-10,CUST0111,Priya Joshi,South,Tamil Nadu,Electronics,Electronics,Smartphone X,4,52335,10,188406.0,173945.91,14460.09,UPI,Shipped,2025-03-16,Kavita
+ORD00693,2025-03-10,CUST0157,Neha Yadav,East,Jharkhand,Appliances,Appliances,Washing Machine,2,27529,5,52305.1,45934.04,6371.06,Debit Card,Delivered,2025-03-17,Deepak
+ORD00956,2025-03-10,CUST0229,Kavya Sharma,South,Karnataka,Electronics,Electronics,Wireless Headphones,1,3744,0,3744.0,2738.32,1005.68,UPI,Delivered,2025-03-11,Pallavi
+ORD00434,2025-03-11,CUST0268,Kavya Patel,North,Punjab,Appliances,Appliances,Mixer Grinder,4,7947,5,30198.6,23724.03,6474.57,Credit Card,Delivered,2025-03-18,Yash
+ORD00477,2025-03-12,CUST0157,Neha Yadav,North,Uttar Pradesh,Furniture,Furniture,Sofa Set,3,55480,0,166440.0,147925.48,18514.52,Credit Card,Shipped,2025-03-16,Deepak
+ORD00249,2025-03-12,CUST0165,Pooja Patel,West,Goa,Electronics,Electronics,Smartphone X,2,35065,15,59610.5,61932.45,-2321.95,Debit Card,Delivered,2025-03-15,Kavita
+ORD00745,2025-03-12,CUST0145,Vikram Yadav,North,Delhi,Electronics,Electronics,Tablet Plus,1,25426,0,25426.0,21376.89,4049.11,UPI,Delivered,2025-03-13,Yash
+ORD00546,2025-03-12,CUST0131,Priya Malhotra,South,Karnataka,Appliances,Appliances,Refrigerator,1,37824,5,35932.8,28102.36,7830.44,Debit Card,Delivered,2025-03-18,Tarun
+ORD00715,2025-03-13,CUST0297,Neha Singh,South,Tamil Nadu,Electronics,Electronics,Smartphone X,4,21114,0,84456.0,66866.98,17589.02,Credit Card,Delivered,2025-03-15,Mohit
+ORD00360,2025-03-13,CUST0214,Vikram Singh,East,West Bengal,Electronics,Electronics,LED TV 55,2,67567,15,114863.9,107302.87,7561.03,UPI,Shipped,2025-03-16,Aman
+ORD00700,2025-03-13,CUST0272,Aarav Verma,South,Tamil Nadu,Electronics,Electronics,Laptop Pro 14,1,65860,20,52688.0,53346.7,-658.7,UPI,Delivered,2025-03-18,Yash
+ORD00761,2025-03-13,CUST0138,Rohan Mehta,North,Haryana,Furniture,Furniture,Sofa Set,2,29136,15,49531.2,51214.54,-1683.34,UPI,Delivered,2025-03-14,Pallavi
+ORD00682,2025-03-13,CUST0287,Neha Gupta,North,Punjab,Electronics,Electronics,Wireless Headphones,4,8443,0,33772.0,25601.41,8170.59,UPI,Cancelled,2025-03-18,Aman
+ORD00380,2025-03-14,CUST0215,Amit Yadav,South,Kerala,Electronics,Electronics,Wireless Headphones,5,3105,5,14748.75,11006.36,3742.39,Credit Card,Delivered,2025-03-15,Pallavi
+ORD00591,2025-03-15,CUST0290,Nisha Patel,North,Haryana,Electronics,Electronics,LED TV 55,2,48929,10,88072.2,71072.49,16999.71,UPI,Shipped,2025-03-16,Mohit
+ORD00723,2025-03-15,CUST0223,Kavya Verma,North,Uttar Pradesh,Electronics,Electronics,Tablet Plus,1,18174,5,17265.3,15933.18,1332.12,UPI,Delivered,2025-03-22,Sonia
+ORD00337,2025-03-15,CUST0192,Manish Sharma,West,Rajasthan,Appliances,Appliances,Microwave Oven,4,7622,5,28963.6,24095.19,4868.41,Debit Card,Delivered,2025-03-16,Tarun
+ORD00350,2025-03-15,CUST0277,Simran Joshi,East,Jharkhand,Electronics,Electronics,Smartphone X,2,29772,15,50612.4,47104.38,3508.02,UPI,Delivered,2025-03-21,Varun
+ORD00310,2025-03-16,CUST0268,Kavya Patel,South,Telangana,Electronics,Electronics,Smartphone X,1,52836,0,52836.0,47114.94,5721.06,Cash on Delivery,Processing,2025-03-20,Deepak
+ORD00274,2025-03-17,CUST0181,Tanya Joshi,West,Gujarat,Appliances,Appliances,Microwave Oven,5,9181,10,41314.5,39338.86,1975.64,Debit Card,Processing,2025-03-19,Raj
+ORD00924,2025-03-17,CUST0196,Nisha Sharma,West,Maharashtra,Appliances,Appliances,Mixer Grinder,4,3532,20,11302.4,10485.22,817.18,UPI,Delivered,2025-03-19,Deepak
+ORD00989,2025-03-17,CUST0218,Nisha Joshi,North,Punjab,Furniture,Furniture,Sofa Set,2,34521,0,69042.0,53228.79,15813.21,UPI,Delivered,2025-03-18,Sonia
+ORD00181,2025-03-18,CUST0259,Neha Sharma,South,Kerala,Accessories,Accessories,Keyboard,3,1194,0,3582.0,3060.41,521.59,Debit Card,Delivered,2025-03-20,Kavita
+ORD00341,2025-03-18,CUST0250,Simran Kumar,South,Tamil Nadu,Accessories,Accessories,Webcam,2,4760,20,7616.0,8088.85,-472.85,Debit Card,Delivered,2025-03-20,Tarun
+ORD00913,2025-03-18,CUST0267,Simran Sharma,East,Odisha,Electronics,Electronics,Tablet Plus,1,19575,10,17617.5,16533.88,1083.62,Cash on Delivery,Delivered,2025-03-19,Tarun
+ORD00775,2025-03-18,CUST0130,Meera Gupta,West,Goa,Electronics,Electronics,LED TV 55,1,38720,5,36784.0,32670.86,4113.14,Cash on Delivery,Delivered,2025-03-21,Raj
+ORD00835,2025-03-18,CUST0214,Vikram Singh,South,Telangana,Electronics,Electronics,LED TV 55,3,55085,5,156992.25,147445.78,9546.47,Debit Card,Cancelled,2025-03-22,Kavita
+ORD00764,2025-03-18,CUST0123,Rahul Singh,West,Maharashtra,Electronics,Electronics,Tablet Plus,5,27653,0,138265.0,99735.91,38529.09,UPI,Delivered,2025-03-21,Deepak
+ORD00224,2025-03-19,CUST0129,Meera Patel,South,Karnataka,Furniture,Furniture,Office Chair,2,14959,10,26926.2,20569.99,6356.21,Debit Card,Returned,2025-03-25,Aman
+ORD00120,2025-03-20,CUST0168,Ravi Singh,East,Jharkhand,Appliances,Appliances,Air Conditioner,4,52403,10,188650.8,186515.86,2134.94,Credit Card,Delivered,2025-03-25,Aman
+ORD00738,2025-03-21,CUST0297,Neha Singh,West,Gujarat,Appliances,Appliances,Washing Machine,2,40984,15,69672.8,67852.41,1820.39,Credit Card,Delivered,2025-03-27,Varun
+ORD00495,2025-03-21,CUST0210,Tanya Mehta,South,Karnataka,Furniture,Furniture,Study Table,3,22581,5,64355.85,50066.82,14289.03,UPI,Delivered,2025-03-22,Aman
+ORD00025,2025-03-21,CUST0179,Amit Patel,South,Karnataka,Accessories,Accessories,Mouse,2,2669,5,5071.1,3840.82,1230.28,Debit Card,Processing,2025-03-26,Yash
+ORD00867,2025-03-21,CUST0164,Vikram Kumar,North,Uttar Pradesh,Furniture,Furniture,Bed Frame,3,43739,15,111534.45,113499.12,-1964.67,UPI,Delivered,2025-03-27,Mohit
+ORD00515,2025-03-21,CUST0213,Simran Sharma,North,Delhi,Furniture,Furniture,Study Table,1,22804,10,20523.6,20251.56,272.04,Net Banking,Shipped,2025-03-23,Tarun
+ORD00443,2025-03-22,CUST0287,Neha Gupta,South,Kerala,Electronics,Electronics,Tablet Plus,4,31574,10,113666.4,99886.93,13779.47,UPI,Delivered,2025-03-26,Tarun
+ORD00725,2025-03-22,CUST0202,Vikram Verma,East,West Bengal,Electronics,Electronics,Smartphone X,1,53398,10,48058.2,36958.6,11099.6,Net Banking,Delivered,2025-03-25,Mohit
+ORD00560,2025-03-22,CUST0240,Rohan Gupta,East,Odisha,Electronics,Electronics,Laptop Pro 14,5,56128,5,266608.0,226176.11,40431.89,UPI,Delivered,2025-03-29,Yash
+ORD00108,2025-03-22,CUST0167,Ravi Sharma,West,Rajasthan,Electronics,Electronics,Smartphone X,5,33310,0,166550.0,140834.68,25715.32,Debit Card,Delivered,2025-03-26,Mohit
+ORD00666,2025-03-23,CUST0218,Nisha Joshi,North,Delhi,Appliances,Appliances,Air Conditioner,5,34011,15,144546.75,138334.92,6211.83,UPI,Delivered,2025-03-24,Varun
+ORD00256,2025-03-23,CUST0279,Rohan Gupta,East,Jharkhand,Electronics,Electronics,Tablet Plus,4,17156,5,65192.8,50236.84,14955.96,UPI,Delivered,2025-03-27,Mohit
+ORD00868,2025-03-23,CUST0173,Pooja Malhotra,North,Haryana,Furniture,Furniture,Sofa Set,2,46209,0,92418.0,63523.87,28894.13,Debit Card,Delivered,2025-03-28,Raj
+ORD00276,2025-03-24,CUST0134,Amit Sharma,East,West Bengal,Accessories,Accessories,Webcam,2,2401,5,4561.9,3997.02,564.88,UPI,Delivered,2025-03-31,Aman
+ORD00784,2025-03-24,CUST0185,Sneha Verma,South,Tamil Nadu,Appliances,Appliances,Air Conditioner,3,32708,15,83405.4,85930.25,-2524.85,Debit Card,Delivered,2025-03-28,Sonia
+ORD00472,2025-03-24,CUST0251,Neha Singh,West,Gujarat,Electronics,Electronics,Smartphone X,4,26307,5,99966.6,73092.33,26874.27,UPI,Delivered,2025-03-30,Yash
+ORD00987,2025-03-25,CUST0162,Arjun Malhotra,East,Odisha,Accessories,Accessories,USB Hub,2,2184,10,3931.2,3061.59,869.61,UPI,Delivered,2025-04-01,Deepak
+ORD00630,2025-03-26,CUST0189,Pooja Sharma,North,Punjab,Electronics,Electronics,Wireless Headphones,3,9813,10,26495.1,25658.31,836.79,UPI,Shipped,2025-04-01,Aman
+ORD00384,2025-03-26,CUST0254,Rohan Joshi,West,Gujarat,Furniture,Furniture,Bookshelf,3,13407,0,40221.0,34954.12,5266.88,Cash on Delivery,Shipped,2025-04-01,Deepak
+ORD00290,2025-03-27,CUST0190,Vikram Mehta,East,West Bengal,Electronics,Electronics,Smartphone X,5,40499,10,182245.5,167602.47,14643.03,UPI,Delivered,2025-03-31,Raj
+ORD00557,2025-03-27,CUST0274,Ankit Yadav,North,Uttar Pradesh,Appliances,Appliances,Refrigerator,2,38400,15,65280.0,56446.34,8833.66,UPI,Delivered,2025-03-30,Aman
+ORD00540,2025-03-27,CUST0177,Nisha Mehta,North,Punjab,Electronics,Electronics,Laptop Pro 14,5,79277,0,396385.0,355621.57,40763.43,Debit Card,Shipped,2025-04-02,Sonia
+ORD00316,2025-03-28,CUST0248,Kavya Malhotra,East,West Bengal,Appliances,Appliances,Microwave Oven,4,8001,0,32004.0,23976.61,8027.39,UPI,Delivered,2025-03-29,Raj
+ORD00993,2025-03-29,CUST0261,Ankit Mehta,South,Tamil Nadu,Appliances,Appliances,Mixer Grinder,2,8859,5,16832.1,13824.39,3007.71,UPI,Delivered,2025-04-01,Yash
+ORD00082,2025-03-29,CUST0271,Amit Patel,East,Jharkhand,Furniture,Furniture,Sofa Set,2,44627,5,84791.3,72779.64,12011.66,Net Banking,Processing,2025-04-01,Sonia
+ORD00880,2025-03-29,CUST0278,Tanya Kumar,North,Uttar Pradesh,Furniture,Furniture,Sofa Set,4,52369,15,178054.6,142690.19,35364.41,UPI,Cancelled,2025-04-02,Sonia
+ORD00221,2025-03-29,CUST0235,Simran Joshi,East,Jharkhand,Electronics,Electronics,LED TV 55,2,37887,10,68196.6,64504.4,3692.2,Net Banking,Returned,2025-04-05,Mohit
+ORD00635,2025-03-29,CUST0220,Ankit Yadav,North,Haryana,Electronics,Electronics,Laptop Pro 14,2,68272,0,136544.0,93233.39,43310.61,Credit Card,Delivered,2025-04-04,Sonia
+ORD00676,2025-03-30,CUST0123,Rahul Singh,West,Maharashtra,Appliances,Appliances,Refrigerator,5,69993,20,279972.0,298567.28,-18595.28,Cash on Delivery,Delivered,2025-04-05,Kavita
+ORD00421,2025-03-30,CUST0279,Rohan Gupta,West,Maharashtra,Appliances,Appliances,Mixer Grinder,2,6053,20,9684.8,8233.15,1451.65,Debit Card,Delivered,2025-04-05,Varun
+ORD00815,2025-03-31,CUST0242,Priya Yadav,West,Goa,Furniture,Furniture,Sofa Set,2,32853,5,62420.7,54356.26,8064.44,Net Banking,Delivered,2025-04-03,Tarun
+ORD00185,2025-04-01,CUST0149,Tanya Singh,North,Delhi,Furniture,Furniture,Office Chair,2,8510,0,17020.0,15259.3,1760.7,Net Banking,Delivered,2025-04-05,Deepak
+ORD00983,2025-04-02,CUST0145,Vikram Yadav,North,Delhi,Electronics,Electronics,Smartphone X,1,28492,15,24218.2,24744.75,-526.55,Credit Card,Returned,2025-04-04,Yash
+ORD00054,2025-04-02,CUST0101,Neha Malhotra,West,Goa,Accessories,Accessories,Webcam,2,1904,15,3236.8,3265.27,-28.47,UPI,Processing,2025-04-08,Raj
+ORD00085,2025-04-02,CUST0205,Kavya Joshi,South,Karnataka,Furniture,Furniture,Office Chair,2,8096,10,14572.8,13323.0,1249.8,Credit Card,Shipped,2025-04-08,Yash
+ORD00634,2025-04-02,CUST0113,Aarav Gupta,East,Jharkhand,Accessories,Accessories,Webcam,1,4018,10,3616.2,3322.21,293.99,Cash on Delivery,Shipped,2025-04-03,Yash
+ORD00773,2025-04-02,CUST0287,Neha Gupta,North,Uttar Pradesh,Appliances,Appliances,Mixer Grinder,4,4543,10,16354.8,14149.62,2205.18,UPI,Delivered,2025-04-07,Aman
+ORD00770,2025-04-02,CUST0273,Kavya Kumar,West,Maharashtra,Electronics,Electronics,Smartphone X,3,37585,5,107117.25,99046.42,8070.83,Credit Card,Delivered,2025-04-05,Varun
+ORD00284,2025-04-02,CUST0113,Aarav Gupta,North,Uttar Pradesh,Electronics,Electronics,Smartphone X,1,35632,10,32068.8,24782.1,7286.7,Credit Card,Delivered,2025-04-04,Tarun
+ORD00906,2025-04-03,CUST0219,Sneha Joshi,West,Rajasthan,Electronics,Electronics,Tablet Plus,2,35659,20,57054.4,53244.65,3809.75,Debit Card,Delivered,2025-04-09,Tarun
+ORD00603,2025-04-03,CUST0235,Simran Joshi,North,Haryana,Electronics,Electronics,Tablet Plus,3,26461,10,71444.7,66344.22,5100.48,Debit Card,Delivered,2025-04-07,Pallavi
+ORD00549,2025-04-03,CUST0212,Nisha Singh,East,Odisha,Accessories,Accessories,Phone Cover,3,1094,10,2953.8,2249.59,704.21,UPI,Delivered,2025-04-10,Varun
+ORD00473,2025-04-03,CUST0116,Tanya Kumar,North,Punjab,Appliances,Appliances,Mixer Grinder,2,2946,15,5008.2,5288.99,-280.79,UPI,Delivered,2025-04-07,Varun
+ORD00160,2025-04-03,CUST0266,Manish Singh,West,Maharashtra,Electronics,Electronics,Laptop Pro 14,1,72197,15,61367.45,62296.92,-929.47,UPI,Returned,2025-04-09,Pallavi
+ORD00406,2025-04-03,CUST0259,Neha Sharma,West,Maharashtra,Appliances,Appliances,Air Conditioner,5,58350,10,262575.0,208845.91,53729.09,Cash on Delivery,Delivered,2025-04-06,Kavita
+ORD00324,2025-04-03,CUST0131,Priya Malhotra,South,Kerala,Furniture,Furniture,Sofa Set,3,55024,10,148564.8,143471.42,5093.38,Credit Card,Delivered,2025-04-07,Mohit
+ORD00684,2025-04-04,CUST0246,Nisha Joshi,East,West Bengal,Accessories,Accessories,USB Hub,5,937,0,4685.0,3789.15,895.85,Debit Card,Delivered,2025-04-06,Deepak
+ORD00271,2025-04-05,CUST0148,Ravi Malhotra,West,Maharashtra,Electronics,Electronics,LED TV 55,2,65232,10,117417.6,94205.58,23212.02,UPI,Processing,2025-04-07,Kavita
+ORD00441,2025-04-05,CUST0109,Meera Malhotra,North,Delhi,Appliances,Appliances,Refrigerator,4,64736,10,233049.6,211547.11,21502.49,UPI,Delivered,2025-04-07,Mohit
+ORD00196,2025-04-05,CUST0201,Kavya Sharma,South,Tamil Nadu,Electronics,Electronics,Smartphone X,4,39042,0,156168.0,124667.71,31500.29,Net Banking,Delivered,2025-04-07,Mohit
+ORD00335,2025-04-05,CUST0233,Pooja Joshi,North,Delhi,Appliances,Appliances,Washing Machine,5,22787,5,108238.25,96787.36,11450.89,UPI,Delivered,2025-04-07,Sonia
+ORD00939,2025-04-05,CUST0173,Pooja Malhotra,North,Delhi,Furniture,Furniture,Office Chair,5,8723,10,39253.5,29953.97,9299.53,UPI,Delivered,2025-04-07,Aman
+ORD00610,2025-04-05,CUST0104,Pooja Verma,East,Jharkhand,Accessories,Accessories,Mouse,3,935,10,2524.5,2072.7,451.8,Debit Card,Delivered,2025-04-09,Yash
+ORD00148,2025-04-05,CUST0217,Nisha Sharma,East,West Bengal,Appliances,Appliances,Air Conditioner,3,58805,0,176415.0,156712.73,19702.27,Debit Card,Delivered,2025-04-10,Raj
+ORD00827,2025-04-06,CUST0120,Amit Singh,South,Tamil Nadu,Appliances,Appliances,Microwave Oven,4,15834,0,63336.0,47838.54,15497.46,Cash on Delivery,Cancelled,2025-04-09,Pallavi
+ORD00097,2025-04-06,CUST0109,Meera Malhotra,East,Odisha,Electronics,Electronics,Wireless Headphones,2,7173,5,13628.7,10733.78,2894.92,Credit Card,Delivered,2025-04-12,Mohit
+ORD00073,2025-04-07,CUST0141,Arjun Verma,North,Uttar Pradesh,Appliances,Appliances,Air Conditioner,1,62698,0,62698.0,45017.58,17680.42,UPI,Delivered,2025-04-14,Sonia
+ORD00334,2025-04-07,CUST0290,Nisha Patel,North,Delhi,Accessories,Accessories,Keyboard,1,4032,10,3628.8,3621.43,7.37,Credit Card,Delivered,2025-04-10,Kavita
+ORD00881,2025-04-07,CUST0224,Manish Kumar,North,Haryana,Appliances,Appliances,Air Conditioner,5,47864,10,215388.0,202132.67,13255.33,Credit Card,Delivered,2025-04-09,Yash
+ORD00756,2025-04-08,CUST0199,Ravi Verma,West,Rajasthan,Appliances,Appliances,Washing Machine,2,24121,15,41005.7,43390.45,-2384.75,Debit Card,Processing,2025-04-13,Aman
+ORD00431,2025-04-09,CUST0116,Tanya Kumar,North,Uttar Pradesh,Furniture,Furniture,Bed Frame,2,39045,10,70281.0,53503.77,16777.23,Debit Card,Delivered,2025-04-14,Mohit
+ORD00962,2025-04-09,CUST0126,Rohan Malhotra,East,West Bengal,Electronics,Electronics,Wireless Headphones,2,2273,10,4091.4,3206.59,884.81,UPI,Delivered,2025-04-15,Aman
+ORD00753,2025-04-09,CUST0173,Pooja Malhotra,East,Bihar,Electronics,Electronics,Laptop Pro 14,5,70871,5,336637.25,318157.27,18479.98,Credit Card,Shipped,2025-04-13,Pallavi
+ORD00393,2025-04-10,CUST0248,Kavya Malhotra,South,Kerala,Appliances,Appliances,Refrigerator,1,63139,15,53668.15,49510.81,4157.34,Net Banking,Shipped,2025-04-16,Raj
+ORD00060,2025-04-11,CUST0193,Amit Patel,South,Telangana,Appliances,Appliances,Refrigerator,1,73825,0,73825.0,50814.68,23010.32,Credit Card,Delivered,2025-04-12,Tarun
+ORD00446,2025-04-13,CUST0133,Arjun Verma,West,Maharashtra,Electronics,Electronics,LED TV 55,1,43181,20,34544.8,38372.95,-3828.15,Debit Card,Delivered,2025-04-20,Deepak
+ORD00132,2025-04-15,CUST0298,Aarav Yadav,North,Delhi,Furniture,Furniture,Bookshelf,5,15671,5,74437.25,62704.0,11733.25,Net Banking,Shipped,2025-04-20,Sonia
+ORD00387,2025-04-15,CUST0298,Aarav Yadav,South,Tamil Nadu,Appliances,Appliances,Air Conditioner,1,30893,5,29348.35,23884.58,5463.77,Credit Card,Delivered,2025-04-19,Aman
+ORD00300,2025-04-15,CUST0263,Aarav Sharma,North,Uttar Pradesh,Accessories,Accessories,Mouse,5,2338,0,11690.0,9941.5,1748.5,Credit Card,Delivered,2025-04-19,Deepak
+ORD00856,2025-04-15,CUST0285,Kavya Verma,North,Delhi,Electronics,Electronics,Wireless Headphones,5,5685,15,24161.25,21480.08,2681.17,Debit Card,Processing,2025-04-19,Sonia
+ORD00648,2025-04-16,CUST0224,Manish Kumar,East,Bihar,Appliances,Appliances,Air Conditioner,3,59491,10,160625.7,125655.4,34970.3,Debit Card,Delivered,2025-04-20,Tarun
+ORD00023,2025-04-17,CUST0250,Simran Kumar,South,Tamil Nadu,Electronics,Electronics,Wireless Headphones,1,8870,10,7983.0,6623.59,1359.41,Credit Card,Delivered,2025-04-22,Yash
+ORD00058,2025-04-17,CUST0189,Pooja Sharma,North,Punjab,Accessories,Accessories,Keyboard,1,3888,10,3499.2,2840.33,658.87,Credit Card,Delivered,2025-04-21,Yash
+ORD00705,2025-04-17,CUST0245,Simran Sharma,North,Uttar Pradesh,Electronics,Electronics,LED TV 55,4,43997,10,158389.2,129451.3,28937.9,Net Banking,Delivered,2025-04-23,Varun
+ORD00714,2025-04-18,CUST0244,Pooja Singh,South,Kerala,Electronics,Electronics,Tablet Plus,4,37814,5,143693.2,109131.07,34562.13,Credit Card,Shipped,2025-04-20,Kavita
+ORD00717,2025-04-18,CUST0247,Ankit Gupta,West,Gujarat,Electronics,Electronics,Tablet Plus,5,30360,20,121440.0,130294.93,-8854.93,Debit Card,Delivered,2025-04-23,Pallavi
+ORD00589,2025-04-18,CUST0283,Rohan Verma,North,Haryana,Appliances,Appliances,Microwave Oven,5,13391,15,56911.75,52306.76,4604.99,Credit Card,Delivered,2025-04-20,Pallavi
+ORD00119,2025-04-19,CUST0282,Ankit Singh,West,Maharashtra,Accessories,Accessories,Keyboard,3,4970,15,12673.5,11449.96,1223.54,Debit Card,Delivered,2025-04-26,Kavita
+ORD00374,2025-04-20,CUST0151,Tanya Malhotra,East,Jharkhand,Appliances,Appliances,Mixer Grinder,4,7088,5,26934.4,22808.17,4126.23,UPI,Delivered,2025-04-26,Deepak
+ORD00046,2025-04-20,CUST0255,Amit Kumar,East,Jharkhand,Accessories,Accessories,USB Hub,2,2493,15,4238.1,3554.36,683.74,UPI,Delivered,2025-04-26,Mohit
+ORD00001,2025-04-21,CUST0147,Rohan Mehta,South,Telangana,Appliances,Appliances,Washing Machine,4,27930,0,111720.0,78068.8,33651.2,Debit Card,Shipped,2025-04-27,Kavita
+ORD00829,2025-04-21,CUST0168,Ravi Singh,West,Rajasthan,Electronics,Electronics,Laptop Pro 14,1,78600,15,66810.0,63154.96,3655.04,UPI,Delivered,2025-04-23,Aman
+ORD00114,2025-04-21,CUST0266,Manish Singh,West,Maharashtra,Accessories,Accessories,Webcam,3,4638,5,13218.3,11116.85,2101.45,Net Banking,Returned,2025-04-22,Aman
+ORD00382,2025-04-22,CUST0161,Priya Malhotra,East,West Bengal,Electronics,Electronics,Wireless Headphones,2,4433,0,8866.0,7774.76,1091.24,Cash on Delivery,Delivered,2025-04-29,Varun
+ORD00522,2025-04-22,CUST0217,Nisha Sharma,South,Tamil Nadu,Accessories,Accessories,Keyboard,4,1141,10,4107.6,3585.61,521.99,Credit Card,Delivered,2025-04-24,Yash
+ORD00787,2025-04-22,CUST0282,Ankit Singh,East,Odisha,Furniture,Furniture,Bed Frame,3,50919,10,137481.3,129102.15,8379.15,UPI,Cancelled,2025-04-27,Mohit
+ORD00417,2025-04-23,CUST0133,Arjun Verma,South,Tamil Nadu,Furniture,Furniture,Bed Frame,1,19462,5,18488.9,15137.26,3351.64,UPI,Returned,2025-04-29,Deepak
+ORD00329,2025-04-24,CUST0130,Meera Gupta,South,Telangana,Accessories,Accessories,Mouse,2,1560,10,2808.0,2730.32,77.68,Net Banking,Delivered,2025-04-28,Raj
+ORD00038,2025-04-24,CUST0133,Arjun Verma,North,Punjab,Appliances,Appliances,Air Conditioner,1,39927,5,37930.65,33889.69,4040.96,Credit Card,Delivered,2025-04-29,Sonia
+ORD00621,2025-04-24,CUST0145,Vikram Yadav,North,Punjab,Electronics,Electronics,Wireless Headphones,5,11214,5,53266.5,42670.67,10595.83,UPI,Delivered,2025-04-26,Aman
+ORD00264,2025-04-24,CUST0249,Rohan Gupta,East,Odisha,Furniture,Furniture,Bookshelf,5,15440,10,69480.0,52974.8,16505.2,Credit Card,Delivered,2025-04-28,Yash
+ORD00561,2025-04-24,CUST0248,Kavya Malhotra,West,Gujarat,Electronics,Electronics,Laptop Pro 14,5,74894,15,318299.5,287965.29,30334.21,Credit Card,Delivered,2025-04-27,Sonia
+ORD00364,2025-04-25,CUST0196,Nisha Sharma,East,Jharkhand,Electronics,Electronics,LED TV 55,5,48798,5,231790.5,179481.12,52309.38,Credit Card,Delivered,2025-05-02,Varun
+ORD00170,2025-04-25,CUST0169,Simran Kumar,East,Jharkhand,Appliances,Appliances,Air Conditioner,3,31141,20,74738.4,69275.79,5462.61,Cash on Delivery,Delivered,2025-04-28,Sonia
+ORD00662,2025-04-25,CUST0156,Rohan Gupta,West,Gujarat,Electronics,Electronics,LED TV 55,1,65890,0,65890.0,52876.73,13013.27,Debit Card,Delivered,2025-04-27,Deepak
+ORD00897,2025-04-25,CUST0234,Rahul Singh,South,Tamil Nadu,Electronics,Electronics,Tablet Plus,4,26602,15,90446.8,74199.75,16247.05,Debit Card,Processing,2025-05-01,Aman
+ORD00721,2025-04-26,CUST0146,Arjun Joshi,West,Gujarat,Furniture,Furniture,Bookshelf,5,13951,10,62779.5,58492.05,4287.45,Debit Card,Shipped,2025-05-02,Raj
+ORD00968,2025-04-29,CUST0107,Amit Malhotra,South,Karnataka,Appliances,Appliances,Refrigerator,2,67752,15,115178.4,98793.23,16385.17,Credit Card,Shipped,2025-05-02,Yash
+ORD00460,2025-04-29,CUST0292,Karan Kumar,North,Haryana,Furniture,Furniture,Bookshelf,1,6212,10,5590.8,4599.58,991.22,Debit Card,Delivered,2025-05-03,Deepak
+ORD00476,2025-04-30,CUST0120,Amit Singh,West,Rajasthan,Appliances,Appliances,Air Conditioner,3,59086,10,159532.2,137800.71,21731.49,Credit Card,Delivered,2025-05-04,Sonia
+ORD00547,2025-05-01,CUST0278,Tanya Kumar,North,Uttar Pradesh,Appliances,Appliances,Microwave Oven,5,17566,10,79047.0,67913.48,11133.52,UPI,Delivered,2025-05-02,Pallavi
+ORD00598,2025-05-02,CUST0207,Pooja Malhotra,North,Delhi,Accessories,Accessories,USB Hub,2,2320,5,4408.0,3807.76,600.24,UPI,Delivered,2025-05-08,Tarun
+ORD00174,2025-05-02,CUST0148,Ravi Malhotra,North,Haryana,Furniture,Furniture,Study Table,2,16281,0,32562.0,23871.1,8690.9,UPI,Processing,2025-05-07,Raj
+ORD00480,2025-05-02,CUST0238,Pooja Malhotra,East,West Bengal,Appliances,Appliances,Air Conditioner,3,39265,10,106015.5,92600.81,13414.69,UPI,Delivered,2025-05-06,Sonia
+ORD00672,2025-05-02,CUST0285,Kavya Verma,West,Goa,Furniture,Furniture,Office Chair,1,10325,10,9292.5,8405.41,887.09,Credit Card,Shipped,2025-05-07,Kavita
+ORD00830,2025-05-03,CUST0230,Amit Joshi,South,Karnataka,Furniture,Furniture,Bed Frame,2,47238,5,89752.2,82593.19,7159.01,Cash on Delivery,Delivered,2025-05-06,Mohit
+ORD00426,2025-05-03,CUST0141,Arjun Verma,East,Bihar,Electronics,Electronics,Wireless Headphones,1,7721,5,7334.95,6073.87,1261.08,Debit Card,Delivered,2025-05-08,Sonia
+ORD00390,2025-05-03,CUST0282,Ankit Singh,West,Gujarat,Electronics,Electronics,LED TV 55,1,39239,10,35315.1,27080.22,8234.88,Cash on Delivery,Processing,2025-05-07,Mohit
+ORD00942,2025-05-03,CUST0140,Arjun Patel,East,Bihar,Appliances,Appliances,Air Conditioner,1,33240,10,29916.0,29511.97,404.03,UPI,Shipped,2025-05-04,Varun
+ORD00351,2025-05-05,CUST0258,Vikram Joshi,East,Jharkhand,Appliances,Appliances,Air Conditioner,3,53849,15,137314.95,116121.7,21193.25,Credit Card,Processing,2025-05-11,Sonia
+ORD00248,2025-05-05,CUST0213,Simran Sharma,West,Rajasthan,Furniture,Furniture,Office Chair,1,17967,10,16170.3,12577.0,3593.3,UPI,Processing,2025-05-08,Deepak
+ORD00410,2025-05-05,CUST0290,Nisha Patel,North,Uttar Pradesh,Furniture,Furniture,Office Chair,3,8992,5,25627.2,19918.07,5709.13,Cash on Delivery,Delivered,2025-05-12,Sonia
+ORD00314,2025-05-05,CUST0216,Vikram Gupta,West,Maharashtra,Electronics,Electronics,LED TV 55,4,52898,10,190432.8,168010.66,22422.14,Debit Card,Delivered,2025-05-06,Yash
+ORD00947,2025-05-05,CUST0236,Arjun Kumar,North,Delhi,Furniture,Furniture,Bed Frame,3,43538,10,117552.6,105524.81,12027.79,UPI,Delivered,2025-05-08,Sonia
+ORD00623,2025-05-05,CUST0165,Pooja Patel,South,Kerala,Furniture,Furniture,Bookshelf,3,6601,0,19803.0,15136.97,4666.03,Net Banking,Delivered,2025-05-11,Mohit
+ORD00583,2025-05-06,CUST0143,Tanya Verma,South,Tamil Nadu,Electronics,Electronics,Tablet Plus,4,17809,5,67674.2,54203.18,13471.02,Cash on Delivery,Delivered,2025-05-13,Tarun
+ORD00296,2025-05-06,CUST0293,Nisha Singh,East,Jharkhand,Electronics,Electronics,Smartphone X,3,37937,10,102429.9,94143.52,8286.38,Net Banking,Delivered,2025-05-12,Pallavi
+ORD00123,2025-05-07,CUST0207,Pooja Malhotra,South,Telangana,Electronics,Electronics,Wireless Headphones,5,9522,15,40468.5,33699.41,6769.09,Credit Card,Shipped,2025-05-09,Yash
+ORD00182,2025-05-07,CUST0248,Kavya Malhotra,North,Delhi,Furniture,Furniture,Sofa Set,1,64884,0,64884.0,52740.09,12143.91,Debit Card,Delivered,2025-05-12,Kavita
+ORD00036,2025-05-07,CUST0240,Rohan Gupta,West,Gujarat,Electronics,Electronics,Smartphone X,2,39061,10,70309.8,66335.59,3974.21,Credit Card,Delivered,2025-05-09,Kavita
+ORD00078,2025-05-07,CUST0217,Nisha Sharma,North,Punjab,Furniture,Furniture,Office Chair,5,14082,0,70410.0,62353.01,8056.99,UPI,Delivered,2025-05-12,Tarun
+ORD00847,2025-05-08,CUST0170,Ankit Verma,North,Haryana,Electronics,Electronics,Tablet Plus,2,22367,0,44734.0,38664.72,6069.28,Credit Card,Delivered,2025-05-15,Tarun
+ORD00511,2025-05-08,CUST0268,Kavya Patel,East,Jharkhand,Accessories,Accessories,Mouse,5,791,10,3559.5,3163.14,396.36,UPI,Delivered,2025-05-09,Mohit
+ORD00581,2025-05-08,CUST0250,Simran Kumar,South,Tamil Nadu,Electronics,Electronics,Tablet Plus,5,26445,5,125613.75,102007.68,23606.07,UPI,Delivered,2025-05-10,Mohit
+ORD00651,2025-05-08,CUST0237,Tanya Patel,North,Uttar Pradesh,Appliances,Appliances,Washing Machine,1,28464,5,27040.8,22921.66,4119.14,Debit Card,Shipped,2025-05-11,Sonia
+ORD00727,2025-05-08,CUST0189,Pooja Sharma,North,Uttar Pradesh,Appliances,Appliances,Refrigerator,5,32321,10,145444.5,111231.66,34212.84,UPI,Delivered,2025-05-11,Tarun
+ORD00159,2025-05-08,CUST0131,Priya Malhotra,North,Haryana,Electronics,Electronics,Wireless Headphones,5,8735,5,41491.25,31493.6,9997.65,Net Banking,Delivered,2025-05-09,Sonia
+ORD00231,2025-05-08,CUST0203,Aarav Joshi,West,Gujarat,Appliances,Appliances,Microwave Oven,3,7626,10,20590.2,15931.65,4658.55,Credit Card,Delivered,2025-05-15,Yash
+ORD00462,2025-05-09,CUST0200,Kavya Patel,East,Odisha,Electronics,Electronics,LED TV 55,1,51766,5,49177.7,35663.09,13514.61,Credit Card,Delivered,2025-05-15,Pallavi
+ORD00111,2025-05-09,CUST0118,Ravi Patel,South,Kerala,Furniture,Furniture,Office Chair,2,7670,10,13806.0,10455.15,3350.85,Net Banking,Delivered,2025-05-16,Sonia
+ORD00223,2025-05-10,CUST0243,Rahul Sharma,North,Haryana,Electronics,Electronics,LED TV 55,4,37841,15,128659.4,122939.44,5719.96,Debit Card,Processing,2025-05-12,Yash
+ORD00822,2025-05-11,CUST0227,Manish Gupta,North,Punjab,Furniture,Furniture,Sofa Set,4,55699,15,189376.6,169024.84,20351.76,Net Banking,Returned,2025-05-14,Sonia
+ORD00239,2025-05-11,CUST0249,Rohan Gupta,East,Jharkhand,Appliances,Appliances,Microwave Oven,5,10534,20,42136.0,44681.2,-2545.2,Credit Card,Shipped,2025-05-15,Aman
+ORD00144,2025-05-11,CUST0184,Tanya Verma,South,Karnataka,Electronics,Electronics,Laptop Pro 14,4,58917,10,212101.2,182519.81,29581.39,Net Banking,Delivered,2025-05-13,Kavita
+ORD00424,2025-05-12,CUST0141,Arjun Verma,South,Karnataka,Furniture,Furniture,Bed Frame,4,31386,20,100435.2,90658.8,9776.4,Credit Card,Delivered,2025-05-14,Aman
+ORD00289,2025-05-13,CUST0165,Pooja Patel,South,Karnataka,Appliances,Appliances,Microwave Oven,1,8058,15,6849.3,6296.45,552.85,Credit Card,Processing,2025-05-19,Mohit
+ORD00162,2025-05-13,CUST0135,Sneha Malhotra,East,West Bengal,Electronics,Electronics,Smartphone X,5,20031,5,95147.25,75831.5,19315.75,Net Banking,Shipped,2025-05-19,Varun
+ORD00402,2025-05-13,CUST0112,Ravi Gupta,West,Goa,Electronics,Electronics,Wireless Headphones,4,2667,15,9067.8,7921.98,1145.82,Net Banking,Delivered,2025-05-20,Kavita
+ORD00415,2025-05-14,CUST0125,Meera Mehta,East,Odisha,Accessories,Accessories,Keyboard,2,3897,10,7014.6,5375.16,1639.44,UPI,Delivered,2025-05-15,Mohit
+ORD00970,2025-05-14,CUST0259,Neha Sharma,South,Karnataka,Appliances,Appliances,Washing Machine,5,24567,0,122835.0,86321.91,36513.09,Debit Card,Shipped,2025-05-16,Yash
+ORD00461,2025-05-14,CUST0186,Amit Singh,North,Uttar Pradesh,Appliances,Appliances,Refrigerator,4,50504,15,171713.6,176825.68,-5112.08,Debit Card,Processing,2025-05-20,Raj
+ORD00739,2025-05-14,CUST0180,Amit Malhotra,South,Kerala,Accessories,Accessories,Mouse,4,2479,15,8428.6,7603.14,825.46,Debit Card,Delivered,2025-05-17,Sonia
+ORD00713,2025-05-14,CUST0260,Sneha Kumar,South,Tamil Nadu,Appliances,Appliances,Refrigerator,5,54655,10,245947.5,212857.11,33090.39,Cash on Delivery,Delivered,2025-05-18,Sonia
+ORD00620,2025-05-14,CUST0227,Manish Gupta,West,Rajasthan,Electronics,Electronics,Wireless Headphones,2,3673,15,6244.1,6472.11,-228.01,Debit Card,Delivered,2025-05-15,Tarun
+ORD00029,2025-05-14,CUST0242,Priya Yadav,East,Odisha,Appliances,Appliances,Air Conditioner,3,38448,5,109576.8,80537.93,29038.87,Net Banking,Delivered,2025-05-19,Sonia
+ORD00801,2025-05-14,CUST0183,Tanya Patel,West,Goa,Electronics,Electronics,Wireless Headphones,2,9005,15,15308.5,13287.64,2020.86,Credit Card,Delivered,2025-05-20,Sonia
+ORD00578,2025-05-15,CUST0126,Rohan Malhotra,West,Maharashtra,Electronics,Electronics,Tablet Plus,4,19284,20,61708.8,55782.56,5926.24,Debit Card,Delivered,2025-05-18,Pallavi
+ORD00780,2025-05-15,CUST0251,Neha Singh,East,Bihar,Accessories,Accessories,Mouse,2,1517,10,2730.6,2168.07,562.53,Debit Card,Delivered,2025-05-19,Aman
+ORD00094,2025-05-15,CUST0125,Meera Mehta,East,Odisha,Electronics,Electronics,Smartphone X,4,24559,10,88412.4,73657.06,14755.34,UPI,Returned,2025-05-16,Deepak
+ORD00616,2025-05-15,CUST0205,Kavya Joshi,West,Goa,Electronics,Electronics,Smartphone X,5,47245,0,236225.0,172336.9,63888.1,UPI,Shipped,2025-05-22,Sonia
+ORD00037,2025-05-15,CUST0118,Ravi Patel,South,Tamil Nadu,Appliances,Appliances,Washing Machine,2,29211,10,52579.8,43140.51,9439.29,Debit Card,Delivered,2025-05-19,Raj
+ORD00869,2025-05-15,CUST0184,Tanya Verma,West,Goa,Furniture,Furniture,Office Chair,2,13747,5,26119.3,20914.29,5205.01,Credit Card,Processing,2025-05-21,Mohit
+ORD00041,2025-05-15,CUST0295,Arjun Gupta,North,Delhi,Accessories,Accessories,Phone Cover,4,218,20,697.6,682.26,15.34,Cash on Delivery,Processing,2025-05-22,Mohit
+ORD00287,2025-05-16,CUST0248,Kavya Malhotra,South,Telangana,Appliances,Appliances,Air Conditioner,1,37036,5,35184.2,32885.26,2298.94,Credit Card,Delivered,2025-05-17,Yash
+ORD00864,2025-05-16,CUST0297,Neha Singh,South,Telangana,Electronics,Electronics,LED TV 55,4,69305,15,235637.0,222308.23,13328.77,UPI,Shipped,2025-05-20,Pallavi
+ORD00612,2025-05-17,CUST0292,Karan Kumar,West,Goa,Appliances,Appliances,Air Conditioner,5,54658,15,232296.5,238225.09,-5928.59,Debit Card,Delivered,2025-05-24,Varun
+ORD00649,2025-05-17,CUST0231,Tanya Malhotra,West,Rajasthan,Furniture,Furniture,Sofa Set,4,60525,5,229995.0,185788.53,44206.47,UPI,Returned,2025-05-18,Yash
+ORD00408,2025-05-18,CUST0287,Neha Gupta,North,Punjab,Appliances,Appliances,Mixer Grinder,2,5093,10,9167.4,8838.87,328.53,Debit Card,Processing,2025-05-24,Yash
+ORD00234,2025-05-18,CUST0220,Ankit Yadav,South,Telangana,Appliances,Appliances,Air Conditioner,1,63949,5,60751.55,51560.45,9191.1,UPI,Delivered,2025-05-25,Deepak
+ORD00385,2025-05-19,CUST0191,Rohan Patel,West,Maharashtra,Accessories,Accessories,Mouse,4,724,20,2316.8,2039.37,277.43,Credit Card,Shipped,2025-05-24,Aman
+ORD00952,2025-05-19,CUST0141,Arjun Verma,East,Bihar,Electronics,Electronics,LED TV 55,2,65825,10,118485.0,110581.9,7903.1,Credit Card,Returned,2025-05-25,Aman
+ORD00622,2025-05-19,CUST0254,Rohan Joshi,North,Punjab,Accessories,Accessories,Phone Cover,2,624,15,1060.8,951.17,109.63,UPI,Shipped,2025-05-24,Varun
+ORD00212,2025-05-19,CUST0289,Kavya Kumar,East,Bihar,Electronics,Electronics,Tablet Plus,4,34023,15,115678.2,107226.72,8451.48,UPI,Delivered,2025-05-24,Raj
+ORD00758,2025-05-19,CUST0189,Pooja Sharma,East,Jharkhand,Electronics,Electronics,Laptop Pro 14,2,67388,10,121298.4,111454.94,9843.46,UPI,Returned,2025-05-23,Deepak
+ORD00090,2025-05-19,CUST0249,Rohan Gupta,South,Karnataka,Electronics,Electronics,Wireless Headphones,4,7298,5,27732.4,22593.58,5138.82,UPI,Processing,2025-05-24,Raj
+ORD00640,2025-05-20,CUST0174,Neha Singh,South,Kerala,Electronics,Electronics,LED TV 55,2,63610,10,114498.0,98809.53,15688.47,Credit Card,Cancelled,2025-05-26,Raj
+ORD00587,2025-05-20,CUST0288,Ankit Malhotra,North,Haryana,Furniture,Furniture,Office Chair,2,15050,10,27090.0,24876.82,2213.18,Net Banking,Shipped,2025-05-21,Tarun
+ORD00767,2025-05-20,CUST0169,Simran Kumar,West,Gujarat,Electronics,Electronics,Tablet Plus,1,19823,5,18831.85,14400.73,4431.12,Credit Card,Delivered,2025-05-24,Mohit
+ORD00227,2025-05-21,CUST0214,Vikram Singh,West,Rajasthan,Electronics,Electronics,Laptop Pro 14,3,74944,5,213590.4,161933.68,51656.72,Debit Card,Delivered,2025-05-23,Sonia
+ORD00875,2025-05-21,CUST0165,Pooja Patel,North,Uttar Pradesh,Electronics,Electronics,Tablet Plus,3,25849,10,69792.3,68466.84,1325.46,Credit Card,Shipped,2025-05-27,Tarun
+ORD00668,2025-05-21,CUST0103,Ankit Singh,North,Uttar Pradesh,Appliances,Appliances,Air Conditioner,2,32155,0,64310.0,55571.82,8738.18,Credit Card,Processing,2025-05-27,Yash
+ORD00866,2025-05-22,CUST0197,Priya Yadav,East,Bihar,Appliances,Appliances,Air Conditioner,1,35680,10,32112.0,28480.61,3631.39,UPI,Delivered,2025-05-23,Mohit
+ORD00825,2025-05-22,CUST0264,Meera Verma,East,Odisha,Furniture,Furniture,Bookshelf,4,7767,10,27961.2,25861.51,2099.69,Debit Card,Processing,2025-05-28,Mohit
+ORD00116,2025-05-22,CUST0245,Simran Sharma,West,Gujarat,Appliances,Appliances,Refrigerator,5,51047,15,216949.75,213013.65,3936.1,UPI,Delivered,2025-05-26,Pallavi
+ORD00863,2025-05-22,CUST0197,Priya Yadav,East,Bihar,Appliances,Appliances,Microwave Oven,2,9506,15,16160.2,13058.06,3102.14,Cash on Delivery,Delivered,2025-05-27,Varun
+ORD00977,2025-05-23,CUST0209,Pooja Sharma,East,Jharkhand,Furniture,Furniture,Sofa Set,2,54140,10,97452.0,87132.63,10319.37,Debit Card,Delivered,2025-05-29,Mohit
+ORD01000,2025-05-23,CUST0168,Ravi Singh,South,Kerala,Appliances,Appliances,Microwave Oven,4,14868,0,59472.0,41320.73,18151.27,Cash on Delivery,Returned,2025-05-29,Kavita
+ORD00882,2025-05-24,CUST0266,Manish Singh,East,West Bengal,Appliances,Appliances,Mixer Grinder,4,8730,10,31428.0,30683.2,744.8,Cash on Delivery,Delivered,2025-05-26,Deepak
+ORD00617,2025-05-24,CUST0197,Priya Yadav,North,Haryana,Appliances,Appliances,Mixer Grinder,3,8929,5,25447.65,19730.26,5717.39,UPI,Delivered,2025-05-29,Raj
+ORD00005,2025-05-24,CUST0216,Vikram Gupta,North,Uttar Pradesh,Appliances,Appliances,Washing Machine,1,22507,10,20256.3,17527.27,2729.03,UPI,Delivered,2025-05-28,Pallavi
+ORD00261,2025-05-25,CUST0154,Tanya Verma,East,West Bengal,Furniture,Furniture,Bookshelf,4,6159,15,20940.6,20077.07,863.53,Cash on Delivery,Delivered,2025-06-01,Tarun
+ORD00305,2025-05-25,CUST0179,Amit Patel,West,Maharashtra,Appliances,Appliances,Air Conditioner,4,48255,10,173718.0,140555.82,33162.18,Cash on Delivery,Delivered,2025-05-28,Yash
+ORD00034,2025-05-26,CUST0167,Ravi Sharma,West,Gujarat,Electronics,Electronics,LED TV 55,1,40209,15,34177.65,29047.98,5129.67,Debit Card,Delivered,2025-06-02,Deepak
+ORD00006,2025-05-26,CUST0253,Pooja Gupta,North,Punjab,Appliances,Appliances,Air Conditioner,3,31436,5,89592.6,76557.58,13035.02,UPI,Processing,2025-06-02,Raj
+ORD00670,2025-05-26,CUST0102,Rahul Joshi,South,Telangana,Electronics,Electronics,Wireless Headphones,4,10696,15,36366.4,29305.55,7060.85,Net Banking,Delivered,2025-05-29,Yash
+ORD00059,2025-05-26,CUST0188,Rahul Mehta,North,Haryana,Electronics,Electronics,Laptop Pro 14,5,79846,10,359307.0,289004.89,70302.11,Credit Card,Delivered,2025-05-31,Aman
+ORD00141,2025-05-27,CUST0163,Neha Verma,West,Goa,Electronics,Electronics,Wireless Headphones,1,11415,0,11415.0,9859.03,1555.97,Debit Card,Delivered,2025-05-28,Deepak
+ORD00240,2025-05-28,CUST0299,Priya Kumar,North,Delhi,Electronics,Electronics,LED TV 55,4,54680,5,207784.0,169553.66,38230.34,Credit Card,Delivered,2025-05-29,Tarun
+ORD00198,2025-05-29,CUST0197,Priya Yadav,West,Goa,Electronics,Electronics,Wireless Headphones,4,8369,10,30128.4,28537.41,1590.99,Debit Card,Shipped,2025-05-30,Kavita
+ORD00975,2025-05-29,CUST0103,Ankit Singh,North,Delhi,Furniture,Furniture,Study Table,3,7739,15,19734.45,20591.58,-857.13,Debit Card,Returned,2025-06-03,Kavita
+ORD00545,2025-05-29,CUST0271,Amit Patel,East,Odisha,Electronics,Electronics,Laptop Pro 14,1,57925,10,52132.5,51825.01,307.49,Credit Card,Delivered,2025-06-02,Mohit
+ORD00407,2025-05-30,CUST0263,Aarav Sharma,South,Tamil Nadu,Appliances,Appliances,Washing Machine,1,53898,0,53898.0,46283.88,7614.12,Credit Card,Shipped,2025-06-05,Deepak
+ORD00657,2025-05-30,CUST0248,Kavya Malhotra,South,Telangana,Electronics,Electronics,Laptop Pro 14,2,78065,15,132710.5,129139.14,3571.36,Credit Card,Delivered,2025-05-31,Yash
+ORD00128,2025-05-31,CUST0275,Priya Verma,West,Rajasthan,Appliances,Appliances,Air Conditioner,1,36470,15,30999.5,26395.69,4603.81,UPI,Processing,2025-06-06,Yash
+ORD00687,2025-06-01,CUST0209,Pooja Sharma,East,Bihar,Electronics,Electronics,Smartphone X,5,48930,15,207952.5,180326.33,27626.17,UPI,Delivered,2025-06-05,Aman
+ORD00209,2025-06-02,CUST0146,Arjun Joshi,North,Haryana,Electronics,Electronics,Wireless Headphones,2,1626,20,2601.6,2588.58,13.02,Debit Card,Delivered,2025-06-08,Aman
+ORD00667,2025-06-03,CUST0170,Ankit Verma,North,Uttar Pradesh,Furniture,Furniture,Bed Frame,2,37782,10,68007.6,66851.37,1156.23,Credit Card,Processing,2025-06-10,Pallavi
+ORD00167,2025-06-03,CUST0235,Simran Joshi,South,Kerala,Electronics,Electronics,Tablet Plus,5,34037,5,161675.75,123522.14,38153.61,UPI,Returned,2025-06-05,Tarun
+ORD00575,2025-06-03,CUST0101,Neha Malhotra,West,Maharashtra,Furniture,Furniture,Office Chair,2,5228,15,8887.6,7528.3,1359.3,Cash on Delivery,Delivered,2025-06-06,Yash
+ORD00142,2025-06-03,CUST0134,Amit Sharma,North,Haryana,Electronics,Electronics,Tablet Plus,4,16689,0,66756.0,57767.81,8988.19,Debit Card,Shipped,2025-06-06,Kavita
+ORD00215,2025-06-03,CUST0154,Tanya Verma,West,Gujarat,Furniture,Furniture,Office Chair,1,14211,10,12789.9,10435.6,2354.3,UPI,Cancelled,2025-06-09,Mohit
+ORD00894,2025-06-04,CUST0148,Ravi Malhotra,South,Karnataka,Appliances,Appliances,Washing Machine,1,54355,15,46201.75,47898.48,-1696.73,UPI,Processing,2025-06-10,Tarun
+ORD00928,2025-06-04,CUST0279,Rohan Gupta,East,Odisha,Furniture,Furniture,Bed Frame,5,19172,0,95860.0,75811.41,20048.59,UPI,Delivered,2025-06-11,Kavita
+ORD00112,2025-06-04,CUST0199,Ravi Verma,North,Delhi,Accessories,Accessories,Mouse,2,988,0,1976.0,1699.89,276.11,Credit Card,Delivered,2025-06-07,Pallavi
+ORD00363,2025-06-05,CUST0243,Rahul Sharma,South,Telangana,Accessories,Accessories,Phone Cover,1,814,15,691.9,586.4,105.5,Net Banking,Delivered,2025-06-06,Sonia
+ORD00732,2025-06-06,CUST0149,Tanya Singh,West,Gujarat,Furniture,Furniture,Bed Frame,3,28313,0,84939.0,57914.64,27024.36,UPI,Delivered,2025-06-11,Mohit
+ORD00800,2025-06-06,CUST0206,Simran Patel,West,Maharashtra,Electronics,Electronics,LED TV 55,5,65851,10,296329.5,255642.04,40687.46,UPI,Returned,2025-06-08,Mohit
+ORD00138,2025-06-06,CUST0284,Manish Malhotra,West,Goa,Furniture,Furniture,Bed Frame,4,27837,10,100213.2,80472.13,19741.07,Debit Card,Delivered,2025-06-10,Kavita
+ORD00171,2025-06-07,CUST0268,Kavya Patel,East,Bihar,Appliances,Appliances,Washing Machine,2,47425,10,85365.0,68494.48,16870.52,UPI,Processing,2025-06-14,Mohit
+ORD00755,2025-06-07,CUST0104,Pooja Verma,North,Uttar Pradesh,Electronics,Electronics,Smartphone X,5,24858,5,118075.5,84839.31,33236.19,UPI,Delivered,2025-06-13,Yash
+ORD00164,2025-06-07,CUST0263,Aarav Sharma,East,Jharkhand,Accessories,Accessories,USB Hub,2,1421,10,2557.8,2266.16,291.64,Net Banking,Returned,2025-06-10,Tarun
+ORD00210,2025-06-07,CUST0154,Tanya Verma,North,Delhi,Appliances,Appliances,Refrigerator,2,33602,10,60483.6,59446.74,1036.86,Debit Card,Delivered,2025-06-10,Sonia
+ORD00135,2025-06-07,CUST0237,Tanya Patel,West,Rajasthan,Appliances,Appliances,Microwave Oven,2,9313,0,18626.0,16058.28,2567.72,Net Banking,Delivered,2025-06-12,Aman
+ORD00584,2025-06-08,CUST0121,Aarav Verma,South,Tamil Nadu,Accessories,Accessories,Phone Cover,1,1065,15,905.25,747.78,157.47,UPI,Delivered,2025-06-15,Tarun
+ORD00836,2025-06-09,CUST0188,Rahul Mehta,South,Telangana,Appliances,Appliances,Microwave Oven,5,16261,10,73174.5,56603.24,16571.26,UPI,Delivered,2025-06-13,Sonia
+ORD00935,2025-06-10,CUST0296,Amit Mehta,North,Delhi,Accessories,Accessories,Keyboard,2,4297,10,7734.6,7362.71,371.89,Debit Card,Delivered,2025-06-12,Aman
+ORD00121,2025-06-10,CUST0274,Ankit Yadav,West,Goa,Electronics,Electronics,Smartphone X,2,47122,15,80107.4,77399.23,2708.17,Net Banking,Delivered,2025-06-15,Deepak
+ORD00931,2025-06-11,CUST0222,Nisha Mehta,North,Haryana,Electronics,Electronics,Laptop Pro 14,4,75901,5,288423.8,228120.88,60302.92,UPI,Delivered,2025-06-16,Yash
+ORD00244,2025-06-11,CUST0137,Tanya Sharma,South,Tamil Nadu,Accessories,Accessories,USB Hub,4,1312,15,4460.8,4323.72,137.08,Credit Card,Delivered,2025-06-18,Pallavi
+ORD00064,2025-06-12,CUST0173,Pooja Malhotra,South,Kerala,Electronics,Electronics,Smartphone X,2,34555,10,62199.0,50506.66,11692.34,UPI,Delivered,2025-06-14,Yash
+ORD00229,2025-06-12,CUST0217,Nisha Sharma,West,Maharashtra,Electronics,Electronics,LED TV 55,4,65341,5,248295.8,202592.69,45703.11,Debit Card,Delivered,2025-06-19,Pallavi
+ORD00192,2025-06-12,CUST0169,Simran Kumar,West,Maharashtra,Appliances,Appliances,Refrigerator,5,42892,10,193014.0,166862.87,26151.13,UPI,Delivered,2025-06-14,Sonia
+ORD00072,2025-06-12,CUST0288,Ankit Malhotra,North,Punjab,Accessories,Accessories,Mouse,5,2811,10,12649.5,10459.88,2189.62,Net Banking,Delivered,2025-06-19,Pallavi
+ORD00633,2025-06-13,CUST0111,Priya Joshi,East,West Bengal,Appliances,Appliances,Mixer Grinder,3,6993,15,17832.15,16560.34,1271.81,UPI,Delivered,2025-06-17,Tarun
+ORD00917,2025-06-13,CUST0212,Nisha Singh,South,Telangana,Furniture,Furniture,Sofa Set,3,69100,5,196935.0,149922.9,47012.1,Net Banking,Delivered,2025-06-16,Deepak
+ORD00925,2025-06-13,CUST0141,Arjun Verma,South,Tamil Nadu,Electronics,Electronics,Wireless Headphones,2,4842,5,9199.8,7390.49,1809.31,Credit Card,Delivered,2025-06-17,Pallavi
+ORD00008,2025-06-13,CUST0111,Priya Joshi,West,Rajasthan,Electronics,Electronics,LED TV 55,3,46618,5,132861.3,102077.6,30783.7,Cash on Delivery,Delivered,2025-06-18,Aman
+ORD00140,2025-06-13,CUST0101,Neha Malhotra,West,Gujarat,Appliances,Appliances,Washing Machine,5,54088,20,216352.0,239518.12,-23166.12,Net Banking,Delivered,2025-06-17,Raj
+ORD00789,2025-06-13,CUST0219,Sneha Joshi,South,Tamil Nadu,Appliances,Appliances,Washing Machine,3,35865,0,107595.0,87443.41,20151.59,Debit Card,Delivered,2025-06-18,Pallavi
+ORD00500,2025-06-14,CUST0252,Nisha Mehta,West,Goa,Furniture,Furniture,Sofa Set,3,51957,10,140283.9,129785.98,10497.92,Debit Card,Delivered,2025-06-20,Tarun
+ORD00516,2025-06-14,CUST0109,Meera Malhotra,North,Uttar Pradesh,Furniture,Furniture,Sofa Set,3,39626,15,101046.3,85991.99,15054.31,Cash on Delivery,Cancelled,2025-06-18,Tarun
+ORD00016,2025-06-14,CUST0186,Amit Singh,North,Uttar Pradesh,Furniture,Furniture,Bookshelf,4,8399,0,33596.0,29568.14,4027.86,UPI,Processing,2025-06-18,Yash
+ORD00050,2025-06-15,CUST0205,Kavya Joshi,North,Delhi,Appliances,Appliances,Refrigerator,2,36346,10,65422.8,64303.43,1119.37,Debit Card,Delivered,2025-06-21,Kavita
+ORD00742,2025-06-15,CUST0246,Nisha Joshi,South,Tamil Nadu,Electronics,Electronics,Laptop Pro 14,2,71667,10,129000.6,114323.49,14677.11,UPI,Delivered,2025-06-19,Pallavi
+ORD00379,2025-06-16,CUST0162,Arjun Malhotra,West,Maharashtra,Accessories,Accessories,USB Hub,3,1898,10,5124.6,4178.47,946.13,UPI,Shipped,2025-06-23,Mohit
+ORD00592,2025-06-16,CUST0217,Nisha Sharma,East,Odisha,Electronics,Electronics,LED TV 55,2,59326,15,100854.2,81284.97,19569.23,Debit Card,Delivered,2025-06-17,Deepak
+ORD00791,2025-06-17,CUST0179,Amit Patel,North,Haryana,Furniture,Furniture,Bed Frame,2,20148,10,36266.4,36120.99,145.41,Credit Card,Processing,2025-06-19,Aman
+ORD00642,2025-06-17,CUST0169,Simran Kumar,South,Kerala,Appliances,Appliances,Microwave Oven,4,15082,5,57311.6,46380.3,10931.3,UPI,Shipped,2025-06-19,Aman
+ORD00115,2025-06-17,CUST0188,Rahul Mehta,East,West Bengal,Electronics,Electronics,Laptop Pro 14,4,64095,5,243561.0,212540.6,31020.4,Credit Card,Delivered,2025-06-19,Aman
+ORD00832,2025-06-17,CUST0264,Meera Verma,South,Tamil Nadu,Electronics,Electronics,Smartphone X,1,37810,0,37810.0,30016.55,7793.45,Debit Card,Delivered,2025-06-20,Aman
+ORD00009,2025-06-18,CUST0232,Sneha Kumar,East,West Bengal,Electronics,Electronics,Smartphone X,2,26750,20,42800.0,47343.64,-4543.64,Credit Card,Delivered,2025-06-21,Yash
+ORD00665,2025-06-19,CUST0116,Tanya Kumar,North,Haryana,Electronics,Electronics,Smartphone X,4,37846,15,128676.4,113829.76,14846.64,UPI,Delivered,2025-06-25,Pallavi
+ORD00796,2025-06-19,CUST0143,Tanya Verma,West,Goa,Electronics,Electronics,Wireless Headphones,4,4585,0,18340.0,12698.49,5641.51,Cash on Delivery,Delivered,2025-06-24,Raj
+ORD00954,2025-06-19,CUST0297,Neha Singh,West,Gujarat,Electronics,Electronics,Tablet Plus,3,22288,20,53491.2,59248.71,-5757.51,Credit Card,Shipped,2025-06-26,Yash
+ORD00696,2025-06-19,CUST0199,Ravi Verma,East,Odisha,Appliances,Appliances,Air Conditioner,2,47451,10,85411.8,72981.9,12429.9,Credit Card,Delivered,2025-06-22,Mohit
+ORD00720,2025-06-20,CUST0297,Neha Singh,West,Gujarat,Accessories,Accessories,Webcam,4,2703,5,10271.4,7621.87,2649.53,Net Banking,Delivered,2025-06-27,Sonia
+ORD00151,2025-06-20,CUST0268,Kavya Patel,West,Maharashtra,Furniture,Furniture,Bookshelf,2,15288,10,27518.4,21352.55,6165.85,Net Banking,Shipped,2025-06-22,Raj
+ORD00435,2025-06-20,CUST0228,Tanya Yadav,North,Haryana,Furniture,Furniture,Study Table,4,17003,5,64611.4,47662.97,16948.43,UPI,Delivered,2025-06-25,Mohit
+ORD00136,2025-06-21,CUST0177,Nisha Mehta,South,Karnataka,Appliances,Appliances,Washing Machine,1,31706,10,28535.4,26939.75,1595.65,Debit Card,Processing,2025-06-26,Sonia
+ORD00920,2025-06-21,CUST0252,Nisha Mehta,North,Haryana,Electronics,Electronics,Smartphone X,5,52178,5,247845.5,199877.79,47967.71,Cash on Delivery,Processing,2025-06-24,Tarun
+ORD00772,2025-06-21,CUST0207,Pooja Malhotra,West,Maharashtra,Electronics,Electronics,LED TV 55,5,52272,0,261360.0,191828.16,69531.84,Net Banking,Processing,2025-06-23,Kavita
+ORD00065,2025-06-22,CUST0138,Rohan Mehta,South,Telangana,Electronics,Electronics,Smartphone X,5,42849,15,182108.25,183483.93,-1375.68,Cash on Delivery,Delivered,2025-06-25,Yash
+ORD00885,2025-06-22,CUST0187,Amit Kumar,West,Goa,Appliances,Appliances,Microwave Oven,1,13447,0,13447.0,10399.99,3047.01,Debit Card,Delivered,2025-06-25,Yash
+ORD00707,2025-06-22,CUST0215,Amit Yadav,South,Karnataka,Electronics,Electronics,Smartphone X,2,21225,10,38205.0,35440.06,2764.94,Debit Card,Delivered,2025-06-29,Pallavi
+ORD00134,2025-06-22,CUST0110,Rahul Patel,South,Karnataka,Furniture,Furniture,Sofa Set,5,51027,0,255135.0,215514.54,39620.46,Net Banking,Delivered,2025-06-28,Aman
+ORD00895,2025-06-24,CUST0291,Tanya Singh,East,Bihar,Accessories,Accessories,Webcam,1,1577,0,1577.0,1144.75,432.25,Debit Card,Delivered,2025-07-01,Tarun
+ORD00297,2025-06-24,CUST0124,Vikram Yadav,West,Maharashtra,Accessories,Accessories,Mouse,4,744,15,2529.6,2106.36,423.24,Credit Card,Delivered,2025-06-27,Aman
+ORD00467,2025-06-24,CUST0142,Vikram Singh,South,Kerala,Electronics,Electronics,Smartphone X,2,32559,15,55350.3,44727.4,10622.9,UPI,Delivered,2025-06-29,Raj
+ORD00444,2025-06-24,CUST0120,Amit Singh,South,Kerala,Furniture,Furniture,Study Table,1,20511,15,17434.35,16406.22,1028.13,UPI,Returned,2025-06-26,Mohit
+ORD00865,2025-06-25,CUST0297,Neha Singh,South,Tamil Nadu,Furniture,Furniture,Sofa Set,3,36549,10,98682.3,92941.97,5740.33,Credit Card,Cancelled,2025-06-27,Mohit
+ORD00588,2025-06-25,CUST0196,Nisha Sharma,North,Haryana,Furniture,Furniture,Sofa Set,5,59886,10,269487.0,222467.31,47019.69,UPI,Delivered,2025-06-30,Aman
+ORD00606,2025-06-25,CUST0243,Rahul Sharma,South,Telangana,Appliances,Appliances,Washing Machine,5,34197,0,170985.0,140751.8,30233.2,UPI,Shipped,2025-06-28,Kavita
+ORD00872,2025-06-26,CUST0121,Aarav Verma,South,Tamil Nadu,Appliances,Appliances,Microwave Oven,2,10661,15,18123.7,14838.47,3285.23,UPI,Delivered,2025-06-30,Pallavi
+ORD00768,2025-06-26,CUST0140,Arjun Patel,West,Rajasthan,Accessories,Accessories,Mouse,1,2676,15,2274.6,2004.06,270.54,UPI,Shipped,2025-07-03,Deepak
+ORD00644,2025-06-27,CUST0200,Kavya Patel,South,Karnataka,Furniture,Furniture,Bed Frame,2,44081,20,70529.6,68113.72,2415.88,Debit Card,Delivered,2025-07-04,Tarun
+ORD00202,2025-06-27,CUST0249,Rohan Gupta,North,Haryana,Appliances,Appliances,Washing Machine,2,39696,10,71452.8,70276.42,1176.38,Cash on Delivery,Delivered,2025-07-04,Deepak
+ORD00697,2025-06-27,CUST0291,Tanya Singh,South,Kerala,Appliances,Appliances,Refrigerator,3,34937,10,94329.9,80349.16,13980.74,UPI,Shipped,2025-07-03,Pallavi
+ORD00951,2025-06-27,CUST0203,Aarav Joshi,East,Odisha,Electronics,Electronics,Tablet Plus,1,35224,5,33462.8,29006.9,4455.9,Credit Card,Returned,2025-07-02,Mohit
+ORD00965,2025-06-28,CUST0139,Rahul Yadav,South,Tamil Nadu,Furniture,Furniture,Office Chair,4,15546,10,55965.6,53976.03,1989.57,Credit Card,Delivered,2025-07-04,Mohit
+ORD00778,2025-06-28,CUST0135,Sneha Malhotra,West,Rajasthan,Electronics,Electronics,Smartphone X,4,41345,0,165380.0,143785.89,21594.11,Net Banking,Returned,2025-07-01,Aman
+ORD00429,2025-06-28,CUST0204,Sneha Gupta,South,Karnataka,Appliances,Appliances,Mixer Grinder,3,3187,15,8126.85,8529.0,-402.15,Credit Card,Delivered,2025-07-05,Raj
+ORD00294,2025-06-29,CUST0109,Meera Malhotra,South,Kerala,Appliances,Appliances,Air Conditioner,5,57773,10,259978.5,251517.11,8461.39,Net Banking,Delivered,2025-07-06,Aman
+ORD00542,2025-06-29,CUST0213,Simran Sharma,East,West Bengal,Furniture,Furniture,Office Chair,4,14654,10,52754.4,48723.74,4030.66,Debit Card,Delivered,2025-07-04,Pallavi
+ORD00571,2025-06-29,CUST0121,Aarav Verma,East,Odisha,Appliances,Appliances,Mixer Grinder,5,8656,5,41116.0,37287.0,3829.0,UPI,Delivered,2025-07-06,Mohit
+ORD00400,2025-06-29,CUST0232,Sneha Kumar,West,Goa,Electronics,Electronics,Laptop Pro 14,5,57917,10,260626.5,204547.55,56078.95,UPI,Delivered,2025-06-30,Tarun
+ORD00430,2025-06-29,CUST0291,Tanya Singh,North,Punjab,Electronics,Electronics,Laptop Pro 14,3,69356,0,208068.0,170854.52,37213.48,UPI,Delivered,2025-07-06,Yash
+ORD00731,2025-06-30,CUST0237,Tanya Patel,North,Punjab,Furniture,Furniture,Office Chair,1,16360,15,13906.0,13810.93,95.07,UPI,Processing,2025-07-01,Deepak
+ORD00438,2025-06-30,CUST0147,Rohan Mehta,West,Rajasthan,Furniture,Furniture,Study Table,4,12178,15,41405.2,39235.99,2169.21,Net Banking,Delivered,2025-07-05,Sonia
+ORD00888,2025-07-01,CUST0287,Neha Gupta,North,Haryana,Furniture,Furniture,Study Table,2,8299,10,14938.2,13212.68,1725.52,Credit Card,Returned,2025-07-07,Sonia
+ORD00597,2025-07-01,CUST0138,Rohan Mehta,East,Bihar,Appliances,Appliances,Microwave Oven,3,9410,10,25407.0,19987.68,5419.32,Credit Card,Delivered,2025-07-07,Pallavi
+ORD00131,2025-07-01,CUST0262,Neha Gupta,South,Karnataka,Electronics,Electronics,Laptop Pro 14,3,56813,15,144873.15,131397.45,13475.7,UPI,Cancelled,2025-07-04,Raj
+ORD00019,2025-07-02,CUST0207,Pooja Malhotra,South,Karnataka,Electronics,Electronics,LED TV 55,4,59495,10,214182.0,209417.93,4764.07,Cash on Delivery,Delivered,2025-07-09,Mohit
+ORD00468,2025-07-02,CUST0228,Tanya Yadav,West,Maharashtra,Accessories,Accessories,Keyboard,5,1071,5,5087.25,4780.46,306.79,Net Banking,Processing,2025-07-09,Raj
+ORD00448,2025-07-02,CUST0286,Kavya Patel,West,Rajasthan,Electronics,Electronics,Laptop Pro 14,2,61380,0,122760.0,102986.09,19773.91,UPI,Delivered,2025-07-03,Yash
+ORD00027,2025-07-03,CUST0216,Vikram Gupta,North,Punjab,Appliances,Appliances,Washing Machine,2,50926,10,91666.8,90725.22,941.58,Credit Card,Processing,2025-07-10,Yash
+ORD00088,2025-07-03,CUST0240,Rohan Gupta,East,West Bengal,Appliances,Appliances,Mixer Grinder,3,8382,0,25146.0,18872.67,6273.33,Debit Card,Delivered,2025-07-08,Tarun
+ORD00609,2025-07-03,CUST0207,Pooja Malhotra,East,Odisha,Electronics,Electronics,Wireless Headphones,5,4940,20,19760.0,19171.46,588.54,UPI,Delivered,2025-07-10,Raj
+ORD00562,2025-07-03,CUST0225,Rahul Verma,North,Uttar Pradesh,Furniture,Furniture,Bookshelf,2,11867,0,23734.0,18037.71,5696.29,Cash on Delivery,Delivered,2025-07-07,Aman
+ORD00981,2025-07-04,CUST0111,Priya Joshi,South,Karnataka,Accessories,Accessories,Phone Cover,3,1003,20,2407.2,2527.76,-120.56,UPI,Delivered,2025-07-08,Pallavi
+ORD00028,2025-07-04,CUST0223,Kavya Verma,East,Jharkhand,Accessories,Accessories,Mouse,1,1878,5,1784.1,1484.89,299.21,Net Banking,Processing,2025-07-05,Raj
+ORD00751,2025-07-04,CUST0148,Ravi Malhotra,North,Uttar Pradesh,Appliances,Appliances,Refrigerator,4,35382,15,120298.8,124098.49,-3799.69,UPI,Returned,2025-07-05,Deepak
+ORD00325,2025-07-04,CUST0227,Manish Gupta,West,Rajasthan,Accessories,Accessories,Keyboard,1,1178,20,942.4,919.8,22.6,UPI,Delivered,2025-07-08,Deepak
+ORD00878,2025-07-04,CUST0243,Rahul Sharma,East,Jharkhand,Furniture,Furniture,Sofa Set,2,67919,15,115462.3,108927.52,6534.78,Debit Card,Processing,2025-07-10,Raj
+ORD00831,2025-07-05,CUST0186,Amit Singh,North,Uttar Pradesh,Accessories,Accessories,Keyboard,3,1365,0,4095.0,3260.11,834.89,UPI,Delivered,2025-07-08,Varun
+ORD00318,2025-07-05,CUST0124,Vikram Yadav,North,Delhi,Appliances,Appliances,Mixer Grinder,4,4540,5,17252.0,15264.85,1987.15,Credit Card,Delivered,2025-07-07,Yash
+ORD00422,2025-07-06,CUST0256,Priya Singh,West,Rajasthan,Electronics,Electronics,Laptop Pro 14,4,64499,15,219296.6,221178.95,-1882.35,Net Banking,Delivered,2025-07-10,Varun
+ORD00806,2025-07-06,CUST0295,Arjun Gupta,West,Rajasthan,Electronics,Electronics,Wireless Headphones,2,8746,10,15742.8,13124.42,2618.38,UPI,Cancelled,2025-07-07,Varun
+ORD00943,2025-07-06,CUST0263,Aarav Sharma,East,West Bengal,Electronics,Electronics,Tablet Plus,3,21665,15,55245.75,51191.85,4053.9,UPI,Delivered,2025-07-11,Mohit
+ORD00419,2025-07-06,CUST0211,Pooja Mehta,East,West Bengal,Appliances,Appliances,Washing Machine,2,32570,15,55369.0,47023.98,8345.02,Credit Card,Processing,2025-07-13,Mohit
+ORD00890,2025-07-06,CUST0237,Tanya Patel,North,Punjab,Electronics,Electronics,Smartphone X,1,22994,15,19544.9,15639.91,3904.99,UPI,Delivered,2025-07-13,Pallavi
+ORD00352,2025-07-07,CUST0155,Arjun Yadav,West,Maharashtra,Furniture,Furniture,Office Chair,3,14379,10,38823.3,37046.11,1777.19,Credit Card,Shipped,2025-07-14,Varun
+ORD00860,2025-07-08,CUST0185,Sneha Verma,North,Punjab,Electronics,Electronics,LED TV 55,1,38010,5,36109.5,31238.08,4871.42,UPI,Shipped,2025-07-14,Sonia
+ORD00698,2025-07-08,CUST0118,Ravi Patel,East,Jharkhand,Appliances,Appliances,Refrigerator,1,67886,5,64491.7,49028.09,15463.61,Debit Card,Shipped,2025-07-13,Varun
+ORD00153,2025-07-09,CUST0287,Neha Gupta,North,Delhi,Furniture,Furniture,Bed Frame,2,46091,10,82963.8,74440.85,8522.95,Credit Card,Delivered,2025-07-12,Aman
+ORD00650,2025-07-09,CUST0119,Kavya Gupta,South,Tamil Nadu,Electronics,Electronics,LED TV 55,1,61532,10,55378.8,46401.68,8977.12,Net Banking,Delivered,2025-07-14,Sonia
+ORD00418,2025-07-10,CUST0151,Tanya Malhotra,South,Tamil Nadu,Appliances,Appliances,Washing Machine,5,37511,0,187555.0,138112.56,49442.44,Credit Card,Delivered,2025-07-14,Aman
+ORD00190,2025-07-10,CUST0102,Rahul Joshi,North,Punjab,Appliances,Appliances,Washing Machine,1,51709,15,43952.65,41825.92,2126.73,Debit Card,Delivered,2025-07-14,Yash
+ORD00794,2025-07-10,CUST0205,Kavya Joshi,East,West Bengal,Electronics,Electronics,Smartphone X,2,19552,15,33238.4,29400.61,3837.79,Credit Card,Delivered,2025-07-17,Aman
+ORD00262,2025-07-11,CUST0105,Rohan Kumar,West,Goa,Electronics,Electronics,Laptop Pro 14,1,71172,0,71172.0,52494.17,18677.83,UPI,Delivered,2025-07-13,Deepak
+ORD00904,2025-07-11,CUST0215,Amit Yadav,East,Odisha,Electronics,Electronics,Smartphone X,2,21089,10,37960.2,30270.31,7689.89,Credit Card,Delivered,2025-07-15,Raj
+ORD00774,2025-07-11,CUST0156,Rohan Gupta,South,Kerala,Appliances,Appliances,Air Conditioner,5,39533,5,187781.75,148351.13,39430.62,Net Banking,Delivered,2025-07-12,Aman
+ORD00736,2025-07-11,CUST0193,Amit Patel,West,Gujarat,Electronics,Electronics,Laptop Pro 14,5,69271,5,329037.25,305367.86,23669.39,UPI,Shipped,2025-07-18,Varun
+ORD00469,2025-07-11,CUST0208,Ankit Sharma,North,Delhi,Furniture,Furniture,Bookshelf,2,9806,10,17650.8,15608.23,2042.57,UPI,Delivered,2025-07-18,Yash
+ORD00079,2025-07-12,CUST0106,Rohan Singh,South,Telangana,Furniture,Furniture,Sofa Set,3,38009,20,91221.6,78754.13,12467.47,Debit Card,Shipped,2025-07-19,Kavita
+ORD00273,2025-07-12,CUST0265,Tanya Joshi,West,Maharashtra,Furniture,Furniture,Bed Frame,5,26488,10,119196.0,116517.85,2678.15,UPI,Cancelled,2025-07-13,Pallavi
+ORD00045,2025-07-13,CUST0256,Priya Singh,North,Uttar Pradesh,Appliances,Appliances,Washing Machine,5,24080,15,102340.0,91360.51,10979.49,Debit Card,Delivered,2025-07-19,Deepak
+ORD00017,2025-07-13,CUST0169,Simran Kumar,South,Karnataka,Appliances,Appliances,Microwave Oven,1,12037,10,10833.3,9863.79,969.51,Net Banking,Delivered,2025-07-20,Raj
+ORD00203,2025-07-13,CUST0143,Tanya Verma,North,Punjab,Appliances,Appliances,Mixer Grinder,1,5462,15,4642.7,4174.46,468.24,UPI,Shipped,2025-07-15,Tarun
+ORD00663,2025-07-14,CUST0272,Aarav Verma,East,Odisha,Electronics,Electronics,Tablet Plus,2,26962,15,45835.4,47895.47,-2060.07,Credit Card,Delivered,2025-07-21,Aman
+ORD00091,2025-07-14,CUST0217,Nisha Sharma,North,Haryana,Electronics,Electronics,Smartphone X,2,27627,20,44203.2,39137.84,5065.36,Net Banking,Shipped,2025-07-17,Mohit
+ORD00288,2025-07-15,CUST0262,Neha Gupta,East,West Bengal,Furniture,Furniture,Sofa Set,1,64255,5,61042.25,47689.21,13353.04,UPI,Delivered,2025-07-16,Deepak
+ORD00205,2025-07-15,CUST0135,Sneha Malhotra,East,West Bengal,Electronics,Electronics,Smartphone X,1,23296,10,20966.4,15945.53,5020.87,Cash on Delivery,Delivered,2025-07-20,Deepak
+ORD00807,2025-07-15,CUST0277,Simran Joshi,West,Maharashtra,Furniture,Furniture,Sofa Set,2,57922,15,98467.4,93856.55,4610.85,UPI,Processing,2025-07-18,Kavita
+ORD00824,2025-07-16,CUST0156,Rohan Gupta,South,Kerala,Electronics,Electronics,Wireless Headphones,1,5772,5,5483.4,4741.22,742.18,Credit Card,Cancelled,2025-07-17,Aman
+ORD00118,2025-07-16,CUST0263,Aarav Sharma,North,Uttar Pradesh,Appliances,Appliances,Washing Machine,4,30531,10,109911.6,97319.98,12591.62,Credit Card,Delivered,2025-07-23,Tarun
+ORD00991,2025-07-16,CUST0257,Amit Malhotra,West,Gujarat,Appliances,Appliances,Refrigerator,1,55302,15,47006.7,48269.98,-1263.28,Debit Card,Processing,2025-07-22,Varun
+ORD00567,2025-07-16,CUST0250,Simran Kumar,South,Kerala,Electronics,Electronics,Tablet Plus,2,21001,15,35701.7,34078.98,1622.72,Debit Card,Processing,2025-07-19,Kavita
+ORD00183,2025-07-16,CUST0107,Amit Malhotra,West,Rajasthan,Electronics,Electronics,LED TV 55,5,64809,5,307842.75,255520.87,52321.88,Credit Card,Delivered,2025-07-23,Sonia
+ORD00399,2025-07-16,CUST0266,Manish Singh,West,Rajasthan,Electronics,Electronics,Smartphone X,3,23586,0,70758.0,62212.42,8545.58,Debit Card,Cancelled,2025-07-22,Aman
+ORD00154,2025-07-18,CUST0145,Vikram Yadav,South,Karnataka,Electronics,Electronics,Tablet Plus,5,32726,10,147267.0,135280.79,11986.21,Net Banking,Delivered,2025-07-24,Varun
+ORD00491,2025-07-19,CUST0107,Amit Malhotra,South,Telangana,Electronics,Electronics,Wireless Headphones,3,2483,10,6704.1,5915.02,789.08,Debit Card,Delivered,2025-07-22,Mohit
+ORD00923,2025-07-19,CUST0143,Tanya Verma,West,Maharashtra,Electronics,Electronics,Tablet Plus,2,18364,15,31218.8,30022.72,1196.08,UPI,Cancelled,2025-07-26,Sonia
+ORD00232,2025-07-19,CUST0207,Pooja Malhotra,East,West Bengal,Electronics,Electronics,Smartphone X,1,49658,5,47175.1,39270.15,7904.95,Net Banking,Shipped,2025-07-21,Tarun
+ORD00098,2025-07-20,CUST0221,Arjun Mehta,South,Tamil Nadu,Accessories,Accessories,Mouse,2,879,10,1582.2,1509.48,72.72,Net Banking,Shipped,2025-07-21,Pallavi
+ORD00502,2025-07-21,CUST0293,Nisha Singh,East,Bihar,Furniture,Furniture,Bookshelf,3,11265,10,30415.5,26791.55,3623.95,Cash on Delivery,Delivered,2025-07-23,Aman
+ORD00237,2025-07-21,CUST0183,Tanya Patel,South,Telangana,Accessories,Accessories,Keyboard,1,4429,5,4207.55,3731.1,476.45,Credit Card,Shipped,2025-07-23,Mohit
+ORD00033,2025-07-21,CUST0114,Priya Verma,North,Punjab,Electronics,Electronics,Tablet Plus,5,17646,5,83818.5,68433.76,15384.74,UPI,Delivered,2025-07-24,Aman
+ORD00602,2025-07-21,CUST0210,Tanya Mehta,South,Karnataka,Accessories,Accessories,Phone Cover,1,634,10,570.6,478.5,92.1,Net Banking,Returned,2025-07-25,Varun
+ORD00600,2025-07-22,CUST0124,Vikram Yadav,North,Punjab,Electronics,Electronics,LED TV 55,2,69635,10,125343.0,98815.48,26527.52,Credit Card,Delivered,2025-07-23,Deepak
+ORD00199,2025-07-23,CUST0129,Meera Patel,West,Gujarat,Furniture,Furniture,Bed Frame,4,38918,0,155672.0,119378.26,36293.74,Credit Card,Delivered,2025-07-28,Raj
+ORD00624,2025-07-23,CUST0268,Kavya Patel,South,Kerala,Accessories,Accessories,Webcam,1,4157,10,3741.3,3591.88,149.42,UPI,Delivered,2025-07-26,Tarun
+ORD00396,2025-07-23,CUST0237,Tanya Patel,West,Goa,Accessories,Accessories,Phone Cover,5,1150,15,4887.5,4747.31,140.19,UPI,Delivered,2025-07-28,Deepak
+ORD00839,2025-07-24,CUST0239,Sneha Singh,East,West Bengal,Appliances,Appliances,Air Conditioner,5,59079,5,280625.25,235303.57,45321.68,Cash on Delivery,Delivered,2025-07-27,Yash
+ORD00493,2025-07-24,CUST0237,Tanya Patel,South,Kerala,Furniture,Furniture,Bookshelf,2,13916,10,25048.8,20358.91,4689.89,Cash on Delivery,Delivered,2025-07-29,Deepak
+ORD00002,2025-07-24,CUST0293,Nisha Singh,West,Goa,Electronics,Electronics,Laptop Pro 14,4,60402,15,205366.8,212633.79,-7266.99,Net Banking,Delivered,2025-07-31,Pallavi
+ORD00056,2025-07-24,CUST0176,Aarav Yadav,West,Rajasthan,Appliances,Appliances,Mixer Grinder,2,3684,20,5894.4,5529.04,365.36,UPI,Shipped,2025-07-29,Pallavi
+ORD00124,2025-07-24,CUST0260,Sneha Kumar,North,Delhi,Accessories,Accessories,Mouse,5,1756,15,7463.0,7597.88,-134.88,Credit Card,Delivered,2025-07-26,Sonia
+ORD00845,2025-07-25,CUST0295,Arjun Gupta,North,Haryana,Appliances,Appliances,Microwave Oven,5,7143,5,33929.25,26735.35,7193.9,UPI,Delivered,2025-08-01,Tarun
+ORD00126,2025-07-26,CUST0248,Kavya Malhotra,South,Tamil Nadu,Appliances,Appliances,Washing Machine,5,28477,15,121027.25,117510.82,3516.43,Credit Card,Shipped,2025-08-01,Tarun
+ORD00851,2025-07-26,CUST0251,Neha Singh,North,Uttar Pradesh,Electronics,Electronics,Laptop Pro 14,5,59243,15,251782.75,240069.41,11713.34,Net Banking,Delivered,2025-07-28,Tarun
+ORD00870,2025-07-26,CUST0104,Pooja Verma,West,Rajasthan,Appliances,Appliances,Air Conditioner,3,52432,10,141566.4,115165.13,26401.27,UPI,Delivered,2025-07-28,Sonia
+ORD00057,2025-07-26,CUST0231,Tanya Malhotra,North,Haryana,Appliances,Appliances,Air Conditioner,4,64493,10,232174.8,199358.27,32816.53,Cash on Delivery,Delivered,2025-07-28,Kavita
+ORD00543,2025-07-26,CUST0121,Aarav Verma,North,Delhi,Appliances,Appliances,Microwave Oven,5,16637,10,74866.5,62521.18,12345.32,UPI,Shipped,2025-07-29,Deepak
+ORD00752,2025-07-26,CUST0248,Kavya Malhotra,West,Maharashtra,Appliances,Appliances,Air Conditioner,1,46149,10,41534.1,32574.85,8959.25,UPI,Returned,2025-07-30,Pallavi
+ORD00409,2025-07-27,CUST0238,Pooja Malhotra,West,Rajasthan,Appliances,Appliances,Washing Machine,3,28691,5,81769.35,75843.65,5925.7,UPI,Delivered,2025-07-31,Sonia
+ORD00147,2025-07-27,CUST0141,Arjun Verma,East,West Bengal,Electronics,Electronics,LED TV 55,4,49506,15,168320.4,136009.81,32310.59,Cash on Delivery,Delivered,2025-07-29,Kavita
+ORD00661,2025-07-27,CUST0287,Neha Gupta,South,Tamil Nadu,Electronics,Electronics,Wireless Headphones,5,2085,0,10425.0,7386.66,3038.34,Credit Card,Delivered,2025-07-28,Pallavi
+ORD00837,2025-07-27,CUST0184,Tanya Verma,West,Gujarat,Accessories,Accessories,Keyboard,4,3049,10,10976.4,8436.65,2539.75,Net Banking,Delivered,2025-07-30,Kavita
+ORD00821,2025-07-27,CUST0219,Sneha Joshi,West,Goa,Electronics,Electronics,Laptop Pro 14,4,59368,10,213724.8,187621.6,26103.2,Credit Card,Delivered,2025-08-02,Raj
+ORD00342,2025-07-27,CUST0130,Meera Gupta,South,Telangana,Electronics,Electronics,Laptop Pro 14,5,76598,0,382990.0,279652.44,103337.56,Debit Card,Delivered,2025-07-28,Deepak
+ORD00488,2025-07-29,CUST0104,Pooja Verma,South,Tamil Nadu,Electronics,Electronics,LED TV 55,2,56452,0,112904.0,82121.14,30782.86,Credit Card,Delivered,2025-08-04,Pallavi
+ORD00590,2025-07-30,CUST0102,Rahul Joshi,North,Punjab,Electronics,Electronics,Smartphone X,3,18145,15,46269.75,39332.47,6937.28,Credit Card,Delivered,2025-07-31,Mohit
+ORD00608,2025-07-30,CUST0228,Tanya Yadav,South,Karnataka,Electronics,Electronics,Wireless Headphones,4,1740,15,5916.0,5554.15,361.85,Credit Card,Returned,2025-08-03,Kavita
+ORD00166,2025-07-30,CUST0172,Amit Sharma,West,Rajasthan,Accessories,Accessories,Keyboard,1,4203,10,3782.7,3081.11,701.59,UPI,Delivered,2025-08-02,Kavita
+ORD00523,2025-07-30,CUST0112,Ravi Gupta,West,Goa,Appliances,Appliances,Air Conditioner,2,61875,10,111375.0,94310.57,17064.43,UPI,Delivered,2025-08-04,Yash
+ORD00512,2025-07-31,CUST0221,Arjun Mehta,South,Karnataka,Appliances,Appliances,Refrigerator,3,42645,15,108744.75,91736.68,17008.07,Debit Card,Delivered,2025-08-01,Deepak
+ORD00208,2025-07-31,CUST0130,Meera Gupta,East,Jharkhand,Electronics,Electronics,Smartphone X,3,31921,10,86186.7,83621.74,2564.96,Cash on Delivery,Delivered,2025-08-03,Varun
+ORD00849,2025-07-31,CUST0132,Arjun Verma,East,West Bengal,Electronics,Electronics,Smartphone X,2,22582,5,42905.8,39466.25,3439.55,Debit Card,Delivered,2025-08-04,Raj
+ORD00520,2025-07-31,CUST0190,Vikram Mehta,North,Delhi,Electronics,Electronics,Tablet Plus,1,21768,5,20679.6,17391.2,3288.4,Credit Card,Delivered,2025-08-02,Mohit
+ORD00740,2025-08-01,CUST0208,Ankit Sharma,South,Tamil Nadu,Furniture,Furniture,Bed Frame,1,30861,10,27774.9,20994.2,6780.7,Debit Card,Delivered,2025-08-08,Deepak
+ORD00746,2025-08-02,CUST0253,Pooja Gupta,West,Gujarat,Furniture,Furniture,Bookshelf,5,8593,5,40816.75,34149.0,6667.75,Debit Card,Delivered,2025-08-08,Yash
+ORD00084,2025-08-03,CUST0272,Aarav Verma,North,Haryana,Furniture,Furniture,Sofa Set,2,51025,15,86742.5,78442.62,8299.88,Debit Card,Returned,2025-08-06,Yash
+ORD00326,2025-08-03,CUST0195,Karan Sharma,West,Maharashtra,Furniture,Furniture,Bed Frame,1,48734,0,48734.0,35952.61,12781.39,UPI,Delivered,2025-08-06,Kavita
+ORD00812,2025-08-03,CUST0242,Priya Yadav,West,Maharashtra,Appliances,Appliances,Mixer Grinder,2,5405,5,10269.5,9140.18,1129.32,Net Banking,Delivered,2025-08-09,Yash
+ORD00884,2025-08-03,CUST0175,Kavya Kumar,North,Punjab,Appliances,Appliances,Microwave Oven,5,10276,5,48811.0,36024.97,12786.03,Cash on Delivery,Delivered,2025-08-10,Deepak
+ORD00053,2025-08-04,CUST0245,Simran Sharma,West,Gujarat,Electronics,Electronics,Wireless Headphones,3,2769,5,7891.65,7286.67,604.98,UPI,Delivered,2025-08-09,Raj
+ORD00494,2025-08-04,CUST0137,Tanya Sharma,North,Uttar Pradesh,Appliances,Appliances,Refrigerator,1,38143,5,36235.85,26354.98,9880.87,Net Banking,Processing,2025-08-10,Deepak
+ORD00492,2025-08-04,CUST0163,Neha Verma,East,West Bengal,Accessories,Accessories,Keyboard,5,1051,5,4992.25,3980.7,1011.55,Debit Card,Cancelled,2025-08-09,Sonia
+ORD00507,2025-08-05,CUST0225,Rahul Verma,West,Maharashtra,Furniture,Furniture,Sofa Set,4,28775,10,103590.0,102086.89,1503.11,Credit Card,Delivered,2025-08-10,Deepak
+ORD00907,2025-08-06,CUST0178,Meera Yadav,West,Goa,Accessories,Accessories,Webcam,5,5718,10,25731.0,23607.39,2123.61,UPI,Delivered,2025-08-08,Yash
+ORD00704,2025-08-06,CUST0282,Ankit Singh,North,Delhi,Electronics,Electronics,Laptop Pro 14,5,62776,10,282492.0,267267.87,15224.13,Cash on Delivery,Delivered,2025-08-07,Yash
+ORD00710,2025-08-06,CUST0156,Rohan Gupta,East,Jharkhand,Electronics,Electronics,LED TV 55,1,58110,10,52299.0,47977.55,4321.45,Credit Card,Delivered,2025-08-12,Mohit
+ORD00489,2025-08-06,CUST0193,Amit Patel,West,Goa,Appliances,Appliances,Microwave Oven,1,12480,10,11232.0,10852.08,379.92,Net Banking,Delivered,2025-08-12,Aman
+ORD00391,2025-08-06,CUST0229,Kavya Sharma,West,Gujarat,Appliances,Appliances,Air Conditioner,1,50863,5,48319.85,40672.76,7647.09,Credit Card,Delivered,2025-08-08,Raj
+ORD00813,2025-08-07,CUST0259,Neha Sharma,North,Delhi,Electronics,Electronics,Wireless Headphones,1,10869,10,9782.1,9192.23,589.87,Cash on Delivery,Delivered,2025-08-08,Deepak
+ORD00708,2025-08-07,CUST0212,Nisha Singh,West,Gujarat,Appliances,Appliances,Refrigerator,1,72578,5,68949.1,64452.76,4496.34,Debit Card,Delivered,2025-08-09,Tarun
+ORD00030,2025-08-08,CUST0124,Vikram Yadav,North,Uttar Pradesh,Furniture,Furniture,Study Table,2,17622,10,31719.6,28773.21,2946.39,Credit Card,Delivered,2025-08-09,Aman
+ORD00047,2025-08-09,CUST0134,Amit Sharma,South,Tamil Nadu,Electronics,Electronics,Tablet Plus,5,38780,10,174510.0,153606.94,20903.06,Debit Card,Delivered,2025-08-13,Aman
+ORD00254,2025-08-09,CUST0174,Neha Singh,South,Tamil Nadu,Appliances,Appliances,Mixer Grinder,2,3870,0,7740.0,6686.01,1053.99,UPI,Delivered,2025-08-13,Kavita
+ORD00748,2025-08-09,CUST0192,Manish Sharma,East,West Bengal,Furniture,Furniture,Study Table,1,14366,10,12929.4,10375.75,2553.65,Debit Card,Processing,2025-08-14,Mohit
+ORD00155,2025-08-09,CUST0118,Ravi Patel,West,Goa,Electronics,Electronics,LED TV 55,2,53610,15,91137.0,94412.24,-3275.24,Cash on Delivery,Delivered,2025-08-16,Pallavi
+ORD00213,2025-08-09,CUST0257,Amit Malhotra,East,Odisha,Appliances,Appliances,Mixer Grinder,1,6889,10,6200.1,4866.01,1334.09,Credit Card,Delivered,2025-08-13,Aman
+ORD00792,2025-08-09,CUST0243,Rahul Sharma,East,West Bengal,Appliances,Appliances,Air Conditioner,3,63324,10,170974.8,157072.13,13902.67,Net Banking,Delivered,2025-08-14,Sonia
+ORD00184,2025-08-09,CUST0299,Priya Kumar,West,Gujarat,Electronics,Electronics,Wireless Headphones,5,3284,15,13957.0,11310.35,2646.65,Credit Card,Shipped,2025-08-10,Deepak
+ORD00941,2025-08-09,CUST0251,Neha Singh,South,Karnataka,Electronics,Electronics,Smartphone X,2,28358,5,53880.2,38729.22,15150.98,Credit Card,Delivered,2025-08-14,Yash
+ORD00344,2025-08-09,CUST0261,Ankit Mehta,South,Karnataka,Accessories,Accessories,Phone Cover,5,207,15,879.75,838.73,41.02,Debit Card,Shipped,2025-08-14,Raj
+ORD00169,2025-08-10,CUST0222,Nisha Mehta,North,Haryana,Electronics,Electronics,Wireless Headphones,3,4840,15,12342.0,12447.99,-105.99,Net Banking,Delivered,2025-08-17,Kavita
+ORD00769,2025-08-10,CUST0281,Ankit Joshi,South,Karnataka,Electronics,Electronics,Laptop Pro 14,1,59920,15,50932.0,43103.15,7828.85,Credit Card,Delivered,2025-08-16,Mohit
+ORD00445,2025-08-10,CUST0127,Aarav Yadav,West,Goa,Electronics,Electronics,Smartphone X,1,35719,10,32147.1,26516.77,5630.33,Credit Card,Delivered,2025-08-14,Kavita
+ORD00572,2025-08-10,CUST0191,Rohan Patel,West,Maharashtra,Appliances,Appliances,Washing Machine,3,33703,5,96053.55,79548.14,16505.41,Debit Card,Delivered,2025-08-12,Raj
+ORD00886,2025-08-11,CUST0267,Simran Sharma,North,Delhi,Electronics,Electronics,LED TV 55,2,40499,20,64798.4,71716.39,-6917.99,Cash on Delivery,Processing,2025-08-13,Sonia
+ORD00024,2025-08-11,CUST0206,Simran Patel,South,Karnataka,Furniture,Furniture,Bed Frame,4,24411,10,87879.6,74836.76,13042.84,UPI,Delivered,2025-08-12,Tarun
+ORD00823,2025-08-12,CUST0241,Rahul Patel,South,Karnataka,Appliances,Appliances,Microwave Oven,5,15096,15,64158.0,55933.24,8224.76,Credit Card,Cancelled,2025-08-18,Varun
+ORD00862,2025-08-13,CUST0116,Tanya Kumar,South,Kerala,Furniture,Furniture,Bed Frame,5,18067,10,81301.5,62404.81,18896.69,Debit Card,Delivered,2025-08-19,Tarun
+ORD00440,2025-08-14,CUST0196,Nisha Sharma,North,Punjab,Electronics,Electronics,Wireless Headphones,3,11336,15,28906.8,24176.62,4730.18,Net Banking,Delivered,2025-08-20,Aman
+ORD00760,2025-08-15,CUST0225,Rahul Verma,West,Rajasthan,Electronics,Electronics,LED TV 55,2,54572,5,103686.8,88150.18,15536.62,Net Banking,Delivered,2025-08-18,Mohit
+ORD00559,2025-08-15,CUST0248,Kavya Malhotra,West,Goa,Furniture,Furniture,Study Table,3,17345,15,44229.75,43289.76,939.99,Debit Card,Delivered,2025-08-20,Pallavi
+ORD00534,2025-08-15,CUST0116,Tanya Kumar,East,Odisha,Furniture,Furniture,Bookshelf,4,15428,10,55540.8,49123.27,6417.53,Cash on Delivery,Delivered,2025-08-20,Sonia
+ORD00785,2025-08-16,CUST0234,Rahul Singh,North,Haryana,Appliances,Appliances,Mixer Grinder,4,7290,10,26244.0,22654.28,3589.72,Cash on Delivery,Delivered,2025-08-21,Sonia
+ORD00366,2025-08-16,CUST0103,Ankit Singh,South,Telangana,Electronics,Electronics,Tablet Plus,5,26469,10,119110.5,101150.78,17959.72,Credit Card,Processing,2025-08-18,Yash
+ORD00228,2025-08-16,CUST0203,Aarav Joshi,South,Karnataka,Electronics,Electronics,Laptop Pro 14,4,65304,15,222033.6,198605.26,23428.34,Debit Card,Delivered,2025-08-18,Tarun
+ORD00846,2025-08-16,CUST0226,Aarav Verma,South,Kerala,Electronics,Electronics,LED TV 55,2,45681,10,82225.8,68281.46,13944.34,UPI,Cancelled,2025-08-21,Sonia
+ORD00269,2025-08-17,CUST0200,Kavya Patel,South,Karnataka,Electronics,Electronics,Laptop Pro 14,5,63219,5,300290.25,278802.97,21487.28,Credit Card,Delivered,2025-08-20,Kavita
+ORD00503,2025-08-17,CUST0277,Simran Joshi,South,Karnataka,Electronics,Electronics,Wireless Headphones,4,10797,0,43188.0,31912.06,11275.94,Debit Card,Delivered,2025-08-24,Yash
+ORD00799,2025-08-19,CUST0283,Rohan Verma,East,West Bengal,Appliances,Appliances,Mixer Grinder,3,3234,15,8246.7,7307.47,939.23,Debit Card,Delivered,2025-08-26,Varun
+ORD00893,2025-08-19,CUST0162,Arjun Malhotra,West,Gujarat,Electronics,Electronics,LED TV 55,2,61111,10,109999.8,100154.45,9845.35,Credit Card,Delivered,2025-08-21,Varun
+ORD00619,2025-08-19,CUST0248,Kavya Malhotra,West,Rajasthan,Accessories,Accessories,Webcam,4,5105,10,18378.0,15535.56,2842.44,Net Banking,Delivered,2025-08-23,Sonia
+ORD00995,2025-08-20,CUST0255,Amit Kumar,South,Tamil Nadu,Appliances,Appliances,Mixer Grinder,2,6730,10,12114.0,11201.55,912.45,UPI,Processing,2025-08-27,Tarun
+ORD00905,2025-08-20,CUST0242,Priya Yadav,South,Kerala,Appliances,Appliances,Microwave Oven,1,7523,0,7523.0,6343.1,1179.9,UPI,Processing,2025-08-27,Varun
+ORD00021,2025-08-20,CUST0270,Rahul Verma,East,Bihar,Electronics,Electronics,LED TV 55,3,42837,10,115659.9,89584.6,26075.3,UPI,Cancelled,2025-08-23,Deepak
+ORD00595,2025-08-21,CUST0256,Priya Singh,West,Maharashtra,Electronics,Electronics,Smartphone X,2,46464,0,92928.0,67842.78,25085.22,Credit Card,Delivered,2025-08-25,Raj
+ORD00011,2025-08-21,CUST0136,Priya Kumar,North,Punjab,Appliances,Appliances,Mixer Grinder,5,5602,15,23808.5,23861.27,-52.77,UPI,Delivered,2025-08-22,Aman
+ORD00018,2025-08-22,CUST0145,Vikram Yadav,East,Odisha,Furniture,Furniture,Sofa Set,4,53633,10,193078.8,149275.54,43803.26,Debit Card,Delivered,2025-08-24,Raj
+ORD00536,2025-08-22,CUST0245,Simran Sharma,West,Rajasthan,Electronics,Electronics,Tablet Plus,4,21852,20,69926.4,70760.12,-833.72,Cash on Delivery,Delivered,2025-08-23,Sonia
+ORD00026,2025-08-22,CUST0146,Arjun Joshi,West,Gujarat,Electronics,Electronics,Wireless Headphones,2,2192,15,3726.4,3538.66,187.74,UPI,Processing,2025-08-26,Sonia
+ORD00411,2025-08-22,CUST0248,Kavya Malhotra,South,Telangana,Electronics,Electronics,Laptop Pro 14,4,84189,0,336756.0,295964.64,40791.36,Credit Card,Processing,2025-08-28,Varun
+ORD00859,2025-08-22,CUST0266,Manish Singh,East,West Bengal,Appliances,Appliances,Microwave Oven,3,12694,10,34273.8,32185.91,2087.89,Credit Card,Delivered,2025-08-24,Tarun
+ORD00236,2025-08-22,CUST0248,Kavya Malhotra,West,Goa,Appliances,Appliances,Mixer Grinder,4,2990,10,10764.0,9597.61,1166.39,UPI,Delivered,2025-08-29,Aman
+ORD00361,2025-08-23,CUST0106,Rohan Singh,South,Kerala,Electronics,Electronics,Tablet Plus,4,31955,10,115038.0,90084.22,24953.78,Credit Card,Delivered,2025-08-28,Aman
+ORD00994,2025-08-23,CUST0103,Ankit Singh,East,Odisha,Appliances,Appliances,Microwave Oven,3,13998,5,39894.3,34151.78,5742.52,Debit Card,Delivered,2025-08-26,Aman
+ORD00471,2025-08-23,CUST0251,Neha Singh,North,Uttar Pradesh,Furniture,Furniture,Bed Frame,2,26802,5,50923.8,40726.62,10197.18,Credit Card,Delivered,2025-08-29,Aman
+ORD00356,2025-08-23,CUST0248,Kavya Malhotra,East,Bihar,Electronics,Electronics,Wireless Headphones,4,9175,5,34865.0,32484.55,2380.45,Debit Card,Delivered,2025-08-27,Mohit
+ORD00101,2025-08-23,CUST0269,Ankit Yadav,North,Punjab,Electronics,Electronics,LED TV 55,1,35924,15,30535.4,24799.49,5735.91,Debit Card,Delivered,2025-08-25,Deepak
+ORD00087,2025-08-23,CUST0222,Nisha Mehta,West,Gujarat,Electronics,Electronics,Wireless Headphones,2,11282,15,19179.4,18511.3,668.1,Cash on Delivery,Shipped,2025-08-30,Pallavi
+ORD00729,2025-08-23,CUST0168,Ravi Singh,North,Punjab,Electronics,Electronics,LED TV 55,5,42099,0,210495.0,168249.92,42245.08,Credit Card,Shipped,2025-08-28,Aman
+ORD00015,2025-08-23,CUST0275,Priya Verma,North,Haryana,Accessories,Accessories,Keyboard,2,4322,0,8644.0,6401.24,2242.76,Net Banking,Delivered,2025-08-25,Kavita
+ORD00133,2025-08-24,CUST0259,Neha Sharma,North,Haryana,Furniture,Furniture,Study Table,4,21308,20,68185.6,66134.09,2051.51,Credit Card,Cancelled,2025-08-31,Yash
+ORD00957,2025-08-24,CUST0106,Rohan Singh,East,West Bengal,Furniture,Furniture,Bed Frame,3,50786,10,137122.2,112434.74,24687.46,UPI,Shipped,2025-08-28,Tarun
+ORD00230,2025-08-24,CUST0104,Pooja Verma,East,Jharkhand,Electronics,Electronics,Tablet Plus,4,19758,5,75080.4,64576.88,10503.52,UPI,Delivered,2025-08-28,Tarun
+ORD00613,2025-08-25,CUST0231,Tanya Malhotra,East,Odisha,Furniture,Furniture,Bed Frame,3,50574,5,144135.9,136513.24,7622.66,Net Banking,Shipped,2025-08-26,Kavita
+ORD00779,2025-08-26,CUST0257,Amit Malhotra,West,Rajasthan,Electronics,Electronics,Wireless Headphones,5,3915,10,17617.5,15747.89,1869.61,UPI,Processing,2025-08-31,Tarun
+ORD00850,2025-08-27,CUST0180,Amit Malhotra,East,Odisha,Electronics,Electronics,Wireless Headphones,2,7531,10,13555.8,11092.64,2463.16,UPI,Delivered,2025-08-29,Kavita
+ORD00524,2025-08-27,CUST0280,Karan Gupta,West,Goa,Electronics,Electronics,LED TV 55,4,41054,5,156005.2,129486.69,26518.51,Credit Card,Delivered,2025-08-30,Aman
+ORD00129,2025-08-28,CUST0136,Priya Kumar,North,Punjab,Electronics,Electronics,Tablet Plus,3,17062,5,48626.7,41582.02,7044.68,Net Banking,Cancelled,2025-09-01,Tarun
+ORD00062,2025-08-29,CUST0194,Vikram Singh,South,Tamil Nadu,Furniture,Furniture,Bookshelf,2,9606,0,19212.0,14173.7,5038.3,Credit Card,Delivered,2025-09-02,Sonia
+ORD00226,2025-08-29,CUST0191,Rohan Patel,North,Delhi,Electronics,Electronics,LED TV 55,5,41040,0,205200.0,146526.22,58673.78,Net Banking,Delivered,2025-09-02,Pallavi
+ORD00490,2025-08-29,CUST0195,Karan Sharma,West,Rajasthan,Appliances,Appliances,Refrigerator,4,68801,10,247683.6,244183.23,3500.37,UPI,Processing,2025-08-31,Yash
+ORD00754,2025-08-30,CUST0291,Tanya Singh,South,Tamil Nadu,Appliances,Appliances,Air Conditioner,3,30992,0,92976.0,67507.04,25468.96,Debit Card,Shipped,2025-09-03,Pallavi
+ORD00252,2025-08-31,CUST0101,Neha Malhotra,South,Telangana,Electronics,Electronics,Wireless Headphones,3,3887,5,11077.95,8844.62,2233.33,Credit Card,Delivered,2025-09-06,Aman
+ORD00873,2025-08-31,CUST0211,Pooja Mehta,East,West Bengal,Appliances,Appliances,Microwave Oven,3,16943,10,45746.1,45233.18,512.92,Cash on Delivery,Delivered,2025-09-01,Pallavi
+ORD00808,2025-08-31,CUST0260,Sneha Kumar,West,Rajasthan,Electronics,Electronics,Laptop Pro 14,3,62950,0,188850.0,131418.91,57431.09,Net Banking,Delivered,2025-09-05,Aman
+ORD00080,2025-08-31,CUST0153,Arjun Malhotra,North,Uttar Pradesh,Electronics,Electronics,Tablet Plus,5,21748,5,103303.0,78973.59,24329.41,Net Banking,Delivered,2025-09-07,Yash
+ORD00659,2025-08-31,CUST0273,Kavya Kumar,East,Bihar,Furniture,Furniture,Study Table,5,22323,0,111615.0,96350.15,15264.85,Credit Card,Delivered,2025-09-06,Deepak
+ORD00762,2025-08-31,CUST0262,Neha Gupta,South,Karnataka,Furniture,Furniture,Study Table,2,23727,10,42708.6,35611.37,7097.23,Cash on Delivery,Delivered,2025-09-01,Pallavi
+ORD00930,2025-09-01,CUST0188,Rahul Mehta,North,Uttar Pradesh,Appliances,Appliances,Mixer Grinder,1,5838,10,5254.2,4289.57,964.63,Net Banking,Shipped,2025-09-02,Pallavi
+ORD00103,2025-09-01,CUST0251,Neha Singh,South,Karnataka,Furniture,Furniture,Office Chair,5,10506,5,49903.5,44541.49,5362.01,Net Banking,Processing,2025-09-08,Raj
+ORD00157,2025-09-01,CUST0201,Kavya Sharma,East,Jharkhand,Electronics,Electronics,Wireless Headphones,2,5706,0,11412.0,9320.54,2091.46,Debit Card,Delivered,2025-09-07,Tarun
+ORD00049,2025-09-01,CUST0243,Rahul Sharma,East,Bihar,Furniture,Furniture,Bed Frame,5,25797,10,116086.5,113270.4,2816.1,Debit Card,Delivered,2025-09-03,Sonia
+ORD00574,2025-09-01,CUST0112,Ravi Gupta,East,West Bengal,Electronics,Electronics,LED TV 55,3,41256,5,117579.6,92460.56,25119.04,Credit Card,Processing,2025-09-08,Yash
+ORD00891,2025-09-02,CUST0198,Arjun Singh,West,Gujarat,Electronics,Electronics,Tablet Plus,5,30627,5,145478.25,131425.18,14053.07,UPI,Processing,2025-09-03,Aman
+ORD00854,2025-09-02,CUST0197,Priya Yadav,West,Gujarat,Appliances,Appliances,Mixer Grinder,5,3857,10,17356.5,14872.1,2484.4,Net Banking,Delivered,2025-09-03,Mohit
+ORD00113,2025-09-02,CUST0159,Aarav Yadav,West,Gujarat,Electronics,Electronics,Tablet Plus,4,26410,10,95076.0,80197.82,14878.18,Credit Card,Delivered,2025-09-03,Sonia
+ORD00369,2025-09-02,CUST0116,Tanya Kumar,North,Delhi,Furniture,Furniture,Office Chair,4,11232,0,44928.0,32238.94,12689.06,UPI,Delivered,2025-09-08,Pallavi
+ORD00978,2025-09-02,CUST0118,Ravi Patel,North,Delhi,Electronics,Electronics,Laptop Pro 14,5,81835,10,368257.5,310143.72,58113.78,Debit Card,Delivered,2025-09-07,Raj
+ORD00927,2025-09-02,CUST0266,Manish Singh,North,Uttar Pradesh,Electronics,Electronics,Laptop Pro 14,1,77469,5,73595.55,64933.36,8662.19,Credit Card,Shipped,2025-09-09,Mohit
+ORD00694,2025-09-02,CUST0216,Vikram Gupta,North,Uttar Pradesh,Electronics,Electronics,Tablet Plus,3,37988,10,102567.6,97278.41,5289.19,Net Banking,Cancelled,2025-09-07,Yash
+ORD00940,2025-09-03,CUST0107,Amit Malhotra,East,West Bengal,Furniture,Furniture,Bed Frame,1,18363,10,16526.7,16038.7,488.0,UPI,Delivered,2025-09-08,Mohit
+ORD00340,2025-09-03,CUST0159,Aarav Yadav,North,Delhi,Appliances,Appliances,Washing Machine,5,27033,0,135165.0,115109.01,20055.99,UPI,Delivered,2025-09-07,Tarun
+ORD00709,2025-09-04,CUST0146,Arjun Joshi,North,Uttar Pradesh,Accessories,Accessories,Mouse,5,2526,10,11367.0,9724.65,1642.35,Credit Card,Returned,2025-09-11,Yash
+ORD00063,2025-09-04,CUST0207,Pooja Malhotra,West,Rajasthan,Appliances,Appliances,Microwave Oven,3,10956,10,29581.2,22728.76,6852.44,UPI,Processing,2025-09-06,Yash
+ORD00253,2025-09-06,CUST0292,Karan Kumar,West,Rajasthan,Furniture,Furniture,Study Table,5,9693,10,43618.5,39273.43,4345.07,Net Banking,Delivered,2025-09-08,Raj
+ORD00275,2025-09-06,CUST0272,Aarav Verma,East,Jharkhand,Electronics,Electronics,LED TV 55,2,53981,20,86369.6,74977.73,11391.87,Net Banking,Delivered,2025-09-09,Pallavi
+ORD00207,2025-09-06,CUST0176,Aarav Yadav,North,Punjab,Appliances,Appliances,Mixer Grinder,3,8230,15,20986.5,19434.93,1551.57,Credit Card,Delivered,2025-09-09,Varun
+ORD00470,2025-09-06,CUST0278,Tanya Kumar,West,Goa,Accessories,Accessories,Webcam,3,7065,10,19075.5,15826.77,3248.73,Debit Card,Delivered,2025-09-09,Raj
+ORD00735,2025-09-06,CUST0212,Nisha Singh,South,Kerala,Accessories,Accessories,Mouse,5,2242,5,10649.5,9384.62,1264.88,Net Banking,Delivered,2025-09-07,Deepak
+ORD00216,2025-09-06,CUST0243,Rahul Sharma,North,Haryana,Electronics,Electronics,Tablet Plus,4,37837,15,128645.8,132870.64,-4224.84,Credit Card,Returned,2025-09-08,Mohit
+ORD00626,2025-09-07,CUST0112,Ravi Gupta,South,Tamil Nadu,Appliances,Appliances,Microwave Oven,5,14325,15,60881.25,58382.77,2498.48,UPI,Processing,2025-09-11,Sonia
+ORD00263,2025-09-07,CUST0262,Neha Gupta,North,Haryana,Accessories,Accessories,Phone Cover,4,788,5,2994.4,2189.81,804.59,UPI,Delivered,2025-09-08,Deepak
+ORD00307,2025-09-07,CUST0224,Manish Kumar,East,Odisha,Electronics,Electronics,Laptop Pro 14,4,76905,15,261477.0,250992.97,10484.03,UPI,Processing,2025-09-10,Aman
+ORD00152,2025-09-07,CUST0123,Rahul Singh,North,Punjab,Electronics,Electronics,LED TV 55,5,62281,0,311405.0,275366.63,36038.37,Credit Card,Shipped,2025-09-14,Raj
+ORD00357,2025-09-07,CUST0172,Amit Sharma,North,Haryana,Appliances,Appliances,Washing Machine,1,46648,0,46648.0,41442.43,5205.57,Credit Card,Delivered,2025-09-08,Raj
+ORD00788,2025-09-08,CUST0113,Aarav Gupta,South,Karnataka,Electronics,Electronics,LED TV 55,1,60161,10,54144.9,47376.37,6768.53,UPI,Delivered,2025-09-09,Mohit
+ORD00173,2025-09-08,CUST0112,Ravi Gupta,East,West Bengal,Appliances,Appliances,Mixer Grinder,4,5397,15,18349.8,18791.1,-441.3,Debit Card,Delivered,2025-09-11,Pallavi
+ORD00298,2025-09-08,CUST0153,Arjun Malhotra,North,Punjab,Electronics,Electronics,Laptop Pro 14,2,81337,10,146406.6,144466.03,1940.57,Net Banking,Delivered,2025-09-13,Yash
+ORD00538,2025-09-08,CUST0252,Nisha Mehta,North,Haryana,Furniture,Furniture,Sofa Set,1,49426,10,44483.4,38296.07,6187.33,Cash on Delivery,Shipped,2025-09-12,Varun
+ORD00541,2025-09-08,CUST0223,Kavya Verma,West,Maharashtra,Electronics,Electronics,Smartphone X,5,53489,5,254072.75,214879.5,39193.25,Net Banking,Shipped,2025-09-15,Varun
+ORD00817,2025-09-09,CUST0298,Aarav Yadav,East,Jharkhand,Furniture,Furniture,Bookshelf,4,9599,5,36476.2,31534.68,4941.52,Credit Card,Processing,2025-09-10,Pallavi
+ORD00639,2025-09-09,CUST0119,Kavya Gupta,North,Haryana,Accessories,Accessories,Phone Cover,5,477,10,2146.5,1694.34,452.16,Cash on Delivery,Delivered,2025-09-16,Varun
+ORD00517,2025-09-09,CUST0248,Kavya Malhotra,South,Telangana,Electronics,Electronics,Tablet Plus,1,22951,10,20655.9,20026.58,629.32,UPI,Shipped,2025-09-15,Sonia
+ORD00826,2025-09-09,CUST0157,Neha Yadav,West,Gujarat,Accessories,Accessories,Webcam,3,4378,5,12477.3,11447.76,1029.54,Credit Card,Delivered,2025-09-15,Varun
+ORD00673,2025-09-09,CUST0154,Tanya Verma,North,Haryana,Furniture,Furniture,Study Table,1,20327,5,19310.65,17491.93,1818.72,UPI,Delivered,2025-09-13,Mohit
+ORD00638,2025-09-10,CUST0220,Ankit Yadav,North,Haryana,Appliances,Appliances,Refrigerator,1,51991,10,46791.9,39276.74,7515.16,UPI,Delivered,2025-09-12,Aman
+ORD00479,2025-09-10,CUST0209,Pooja Sharma,West,Gujarat,Furniture,Furniture,Study Table,3,18891,10,51005.7,45171.73,5833.97,Cash on Delivery,Delivered,2025-09-17,Raj
+ORD00548,2025-09-10,CUST0273,Kavya Kumar,East,Bihar,Furniture,Furniture,Bed Frame,3,41488,0,124464.0,102430.15,22033.85,Debit Card,Delivered,2025-09-16,Varun
+ORD00404,2025-09-10,CUST0181,Tanya Joshi,West,Maharashtra,Electronics,Electronics,LED TV 55,5,44947,5,213498.25,185873.89,27624.36,Debit Card,Processing,2025-09-17,Varun
+ORD00353,2025-09-11,CUST0182,Vikram Gupta,East,Bihar,Electronics,Electronics,Wireless Headphones,2,5971,5,11344.9,9543.89,1801.01,Debit Card,Delivered,2025-09-13,Mohit
+ORD00692,2025-09-11,CUST0129,Meera Patel,South,Karnataka,Appliances,Appliances,Microwave Oven,5,13678,0,68390.0,59150.33,9239.67,Credit Card,Delivered,2025-09-17,Deepak
+ORD00343,2025-09-11,CUST0104,Pooja Verma,North,Delhi,Furniture,Furniture,Sofa Set,3,62480,15,159324.0,165488.74,-6164.74,UPI,Delivered,2025-09-14,Varun
+ORD00551,2025-09-11,CUST0248,Kavya Malhotra,East,Jharkhand,Appliances,Appliances,Washing Machine,2,33523,10,60341.4,53505.87,6835.53,UPI,Shipped,2025-09-13,Yash
+ORD00848,2025-09-12,CUST0185,Sneha Verma,West,Goa,Electronics,Electronics,Laptop Pro 14,1,58228,15,49493.8,40521.95,8971.85,Debit Card,Shipped,2025-09-14,Mohit
+ORD00840,2025-09-12,CUST0288,Ankit Malhotra,East,Bihar,Electronics,Electronics,LED TV 55,4,68980,15,234532.0,224951.69,9580.31,Net Banking,Delivered,2025-09-13,Deepak
+ORD00629,2025-09-12,CUST0185,Sneha Verma,North,Haryana,Electronics,Electronics,Wireless Headphones,4,5330,15,18122.0,14677.54,3444.46,Net Banking,Delivered,2025-09-15,Deepak
+ORD00146,2025-09-12,CUST0166,Pooja Yadav,North,Uttar Pradesh,Electronics,Electronics,Smartphone X,4,54630,10,196668.0,156159.14,40508.86,UPI,Cancelled,2025-09-16,Varun
+ORD00819,2025-09-13,CUST0269,Ankit Yadav,North,Punjab,Furniture,Furniture,Bed Frame,2,29049,10,52288.2,47449.92,4838.28,UPI,Delivered,2025-09-19,Pallavi
+ORD00724,2025-09-13,CUST0174,Neha Singh,West,Rajasthan,Electronics,Electronics,Laptop Pro 14,1,74465,10,67018.5,65705.8,1312.7,Net Banking,Delivered,2025-09-20,Deepak
+ORD00003,2025-09-13,CUST0297,Neha Singh,West,Gujarat,Accessories,Accessories,Mouse,2,1967,5,3737.3,2842.7,894.6,Cash on Delivery,Delivered,2025-09-17,Kavita
+ORD00550,2025-09-13,CUST0219,Sneha Joshi,West,Rajasthan,Electronics,Electronics,LED TV 55,5,35215,15,149663.75,151117.6,-1453.85,UPI,Delivered,2025-09-16,Kavita
+ORD00838,2025-09-14,CUST0227,Manish Gupta,South,Karnataka,Electronics,Electronics,Laptop Pro 14,5,62011,10,279049.5,274789.68,4259.82,Net Banking,Processing,2025-09-16,Aman
+ORD00655,2025-09-14,CUST0153,Arjun Malhotra,South,Telangana,Furniture,Furniture,Office Chair,3,5060,0,15180.0,13162.12,2017.88,UPI,Delivered,2025-09-17,Deepak
+ORD00929,2025-09-14,CUST0122,Ravi Kumar,East,Odisha,Electronics,Electronics,Laptop Pro 14,4,80464,15,273577.6,269048.58,4529.02,Net Banking,Shipped,2025-09-15,Aman
+ORD00093,2025-09-14,CUST0236,Arjun Kumar,West,Gujarat,Electronics,Electronics,Smartphone X,5,30720,10,138240.0,120504.97,17735.03,UPI,Processing,2025-09-19,Pallavi
+ORD00139,2025-09-15,CUST0252,Nisha Mehta,South,Tamil Nadu,Electronics,Electronics,Laptop Pro 14,2,60831,0,121662.0,97092.8,24569.2,Debit Card,Delivered,2025-09-18,Pallavi
+ORD00397,2025-09-15,CUST0157,Neha Yadav,West,Goa,Electronics,Electronics,Wireless Headphones,3,7826,15,19956.3,18206.97,1749.33,Debit Card,Processing,2025-09-20,Sonia
+ORD00348,2025-09-16,CUST0225,Rahul Verma,North,Haryana,Accessories,Accessories,Phone Cover,1,967,10,870.3,776.67,93.63,Net Banking,Delivered,2025-09-19,Pallavi
+ORD00936,2025-09-16,CUST0150,Priya Joshi,South,Karnataka,Electronics,Electronics,Smartphone X,4,42054,20,134572.8,147593.67,-13020.87,Credit Card,Delivered,2025-09-19,Aman
+ORD00172,2025-09-16,CUST0295,Arjun Gupta,North,Haryana,Electronics,Electronics,Laptop Pro 14,4,79942,10,287791.2,252916.65,34874.55,UPI,Delivered,2025-09-18,Sonia
+ORD00225,2025-09-17,CUST0122,Ravi Kumar,North,Uttar Pradesh,Electronics,Electronics,Laptop Pro 14,1,83756,5,79568.2,66122.39,13445.81,UPI,Processing,2025-09-20,Tarun
+ORD00699,2025-09-17,CUST0275,Priya Verma,North,Uttar Pradesh,Accessories,Accessories,Webcam,3,2047,15,5219.85,4258.58,961.27,UPI,Delivered,2025-09-24,Raj
+ORD00345,2025-09-19,CUST0109,Meera Malhotra,South,Karnataka,Accessories,Accessories,Phone Cover,5,266,5,1263.5,1015.57,247.93,UPI,Cancelled,2025-09-24,Mohit
+ORD00944,2025-09-19,CUST0184,Tanya Verma,West,Rajasthan,Electronics,Electronics,Laptop Pro 14,2,67921,15,115465.7,102591.35,12874.35,UPI,Delivered,2025-09-25,Mohit
+ORD00176,2025-09-20,CUST0229,Kavya Sharma,North,Punjab,Electronics,Electronics,LED TV 55,1,69806,10,62825.4,52941.5,9883.9,Credit Card,Delivered,2025-09-24,Yash
+ORD00260,2025-09-20,CUST0295,Arjun Gupta,North,Punjab,Accessories,Accessories,USB Hub,5,1613,5,7661.75,7185.8,475.95,Credit Card,Processing,2025-09-25,Yash
+ORD00530,2025-09-20,CUST0223,Kavya Verma,West,Maharashtra,Appliances,Appliances,Washing Machine,3,44852,15,114372.6,94443.4,19929.2,UPI,Delivered,2025-09-22,Mohit
+ORD00513,2025-09-20,CUST0218,Nisha Joshi,West,Gujarat,Electronics,Electronics,Laptop Pro 14,1,68668,20,54934.4,58182.55,-3248.15,Cash on Delivery,Shipped,2025-09-24,Sonia
+ORD00302,2025-09-20,CUST0113,Aarav Gupta,East,West Bengal,Electronics,Electronics,LED TV 55,5,42349,15,179983.25,187477.01,-7493.76,Debit Card,Shipped,2025-09-22,Yash
+ORD00039,2025-09-21,CUST0177,Nisha Mehta,East,Odisha,Appliances,Appliances,Air Conditioner,5,41927,10,188671.5,152047.26,36624.24,UPI,Delivered,2025-09-26,Varun
+ORD00194,2025-09-21,CUST0271,Amit Patel,East,West Bengal,Electronics,Electronics,Wireless Headphones,5,11443,10,51493.5,42241.42,9252.08,UPI,Cancelled,2025-09-25,Deepak
+ORD00405,2025-09-22,CUST0272,Aarav Verma,South,Telangana,Accessories,Accessories,Keyboard,1,2277,15,1935.45,1980.56,-45.11,UPI,Processing,2025-09-29,Tarun
+ORD00786,2025-09-22,CUST0262,Neha Gupta,West,Goa,Appliances,Appliances,Air Conditioner,4,47308,10,170308.8,166194.72,4114.08,Cash on Delivery,Delivered,2025-09-27,Aman
+ORD00615,2025-09-22,CUST0163,Neha Verma,West,Gujarat,Electronics,Electronics,Wireless Headphones,2,10302,10,18543.6,15845.2,2698.4,UPI,Delivered,2025-09-23,Tarun
+ORD00328,2025-09-22,CUST0240,Rohan Gupta,East,Bihar,Electronics,Electronics,Smartphone X,3,19191,0,57573.0,45267.53,12305.47,Credit Card,Delivered,2025-09-23,Yash
+ORD00510,2025-09-23,CUST0204,Sneha Gupta,West,Goa,Appliances,Appliances,Refrigerator,4,46445,0,185780.0,146614.78,39165.22,Net Banking,Delivered,2025-09-28,Yash
+ORD00321,2025-09-23,CUST0272,Aarav Verma,East,Bihar,Appliances,Appliances,Microwave Oven,2,17839,5,33894.1,29750.06,4144.04,UPI,Delivered,2025-09-24,Tarun
+ORD00414,2025-09-23,CUST0216,Vikram Gupta,East,Bihar,Accessories,Accessories,Phone Cover,4,333,10,1198.8,920.56,278.24,Credit Card,Shipped,2025-09-28,Tarun
+ORD00130,2025-09-23,CUST0242,Priya Yadav,East,Jharkhand,Appliances,Appliances,Air Conditioner,5,49880,15,211990.0,172921.56,39068.44,Debit Card,Delivered,2025-09-25,Kavita
+ORD00496,2025-09-24,CUST0211,Pooja Mehta,South,Kerala,Appliances,Appliances,Refrigerator,5,29907,10,134581.5,123206.65,11374.85,Debit Card,Delivered,2025-09-29,Deepak
+ORD00200,2025-09-24,CUST0215,Amit Yadav,West,Maharashtra,Furniture,Furniture,Office Chair,5,16995,10,76477.5,69860.52,6616.98,UPI,Processing,2025-09-28,Pallavi
+ORD00726,2025-09-25,CUST0236,Arjun Kumar,West,Gujarat,Electronics,Electronics,Laptop Pro 14,3,58161,5,165758.85,150149.8,15609.05,Credit Card,Delivered,2025-09-26,Deepak
+ORD00475,2025-09-25,CUST0247,Ankit Gupta,East,Jharkhand,Electronics,Electronics,Tablet Plus,2,26516,10,47728.8,43702.59,4026.21,Cash on Delivery,Delivered,2025-09-26,Sonia
+ORD00525,2025-09-25,CUST0259,Neha Sharma,West,Rajasthan,Furniture,Furniture,Office Chair,4,6505,5,24719.0,21008.77,3710.23,Debit Card,Shipped,2025-09-27,Mohit
+ORD00189,2025-09-26,CUST0157,Neha Yadav,East,Odisha,Accessories,Accessories,Phone Cover,2,1198,5,2276.2,1779.13,497.07,Debit Card,Delivered,2025-09-29,Tarun
+ORD00889,2025-09-27,CUST0158,Kavya Malhotra,North,Delhi,Electronics,Electronics,Tablet Plus,3,37202,5,106025.7,79357.19,26668.51,Net Banking,Delivered,2025-10-04,Sonia
+ORD00266,2025-09-28,CUST0242,Priya Yadav,West,Maharashtra,Appliances,Appliances,Microwave Oven,3,13772,5,39250.2,36107.16,3143.04,Net Banking,Delivered,2025-09-29,Tarun
+ORD00533,2025-09-28,CUST0114,Priya Verma,West,Goa,Electronics,Electronics,Wireless Headphones,2,3051,0,6102.0,4255.01,1846.99,UPI,Delivered,2025-10-04,Aman
+ORD00322,2025-09-28,CUST0287,Neha Gupta,West,Gujarat,Electronics,Electronics,Laptop Pro 14,1,81355,5,77287.25,68049.13,9238.12,Credit Card,Delivered,2025-10-04,Mohit
+ORD00012,2025-09-28,CUST0143,Tanya Verma,West,Maharashtra,Appliances,Appliances,Refrigerator,1,58979,10,53081.1,40357.46,12723.64,UPI,Delivered,2025-10-03,Raj
+ORD00719,2025-09-29,CUST0242,Priya Yadav,North,Punjab,Appliances,Appliances,Microwave Oven,5,13413,5,63711.75,55397.98,8313.77,Cash on Delivery,Delivered,2025-10-01,Aman
+ORD00901,2025-09-29,CUST0226,Aarav Verma,North,Haryana,Furniture,Furniture,Study Table,1,8996,15,7646.6,6713.45,933.15,Cash on Delivery,Delivered,2025-10-06,Kavita
+ORD00436,2025-09-29,CUST0229,Kavya Sharma,West,Goa,Appliances,Appliances,Washing Machine,1,54479,15,46307.15,46135.25,171.9,Debit Card,Shipped,2025-10-02,Tarun
+ORD00611,2025-09-30,CUST0102,Rahul Joshi,North,Uttar Pradesh,Electronics,Electronics,LED TV 55,2,44599,5,84738.1,72507.37,12230.73,Net Banking,Delivered,2025-10-01,Pallavi
+ORD00214,2025-09-30,CUST0220,Ankit Yadav,North,Punjab,Electronics,Electronics,Wireless Headphones,3,2866,10,7738.2,7364.91,373.29,Debit Card,Delivered,2025-10-03,Deepak
+ORD00485,2025-09-30,CUST0150,Priya Joshi,East,Bihar,Electronics,Electronics,Laptop Pro 14,5,70386,10,316737.0,296463.43,20273.57,Net Banking,Delivered,2025-10-06,Sonia
+ORD00577,2025-09-30,CUST0279,Rohan Gupta,North,Delhi,Electronics,Electronics,Smartphone X,1,34678,10,31210.2,29029.17,2181.03,Credit Card,Shipped,2025-10-03,Sonia
+ORD00945,2025-09-30,CUST0171,Ankit Singh,North,Uttar Pradesh,Accessories,Accessories,Mouse,4,2336,15,7942.4,8253.82,-311.42,Credit Card,Delivered,2025-10-05,Sonia
+ORD00383,2025-10-01,CUST0106,Rohan Singh,East,Odisha,Electronics,Electronics,Laptop Pro 14,1,70187,10,63168.3,62736.77,431.53,UPI,Delivered,2025-10-08,Sonia
+ORD00456,2025-10-01,CUST0272,Aarav Verma,South,Karnataka,Accessories,Accessories,USB Hub,2,1821,10,3277.8,2768.31,509.49,Credit Card,Delivered,2025-10-08,Yash
+ORD00573,2025-10-01,CUST0128,Priya Verma,South,Karnataka,Electronics,Electronics,Smartphone X,5,31329,10,140980.5,125245.4,15735.1,Net Banking,Processing,2025-10-06,Kavita
+ORD00558,2025-10-01,CUST0117,Simran Malhotra,North,Punjab,Electronics,Electronics,Laptop Pro 14,3,81907,10,221148.9,170636.57,50512.33,UPI,Returned,2025-10-07,Sonia
+ORD00660,2025-10-02,CUST0103,Ankit Singh,East,Jharkhand,Electronics,Electronics,Smartphone X,2,30352,10,54633.6,42949.27,11684.33,Cash on Delivery,Delivered,2025-10-05,Mohit
+ORD00219,2025-10-03,CUST0243,Rahul Sharma,East,Jharkhand,Electronics,Electronics,LED TV 55,3,55923,5,159380.55,133284.2,26096.35,Debit Card,Delivered,2025-10-08,Deepak
+ORD00934,2025-10-04,CUST0246,Nisha Joshi,East,West Bengal,Accessories,Accessories,USB Hub,4,1046,10,3765.6,3159.05,606.55,Credit Card,Delivered,2025-10-09,Sonia
+ORD00960,2025-10-04,CUST0208,Ankit Sharma,West,Maharashtra,Appliances,Appliances,Refrigerator,3,36521,5,104084.85,98277.68,5807.17,Credit Card,Delivered,2025-10-07,Sonia
+ORD00375,2025-10-05,CUST0263,Aarav Sharma,North,Haryana,Electronics,Electronics,Smartphone X,4,25297,5,96128.6,84718.09,11410.51,UPI,Delivered,2025-10-07,Sonia
+ORD00908,2025-10-05,CUST0215,Amit Yadav,South,Karnataka,Appliances,Appliances,Washing Machine,5,52429,5,249037.75,187387.08,61650.67,Credit Card,Shipped,2025-10-11,Mohit
+ORD00217,2025-10-06,CUST0111,Priya Joshi,South,Tamil Nadu,Accessories,Accessories,Webcam,2,5579,15,9484.3,9823.29,-338.99,UPI,Shipped,2025-10-09,Deepak
+ORD00238,2025-10-06,CUST0297,Neha Singh,North,Punjab,Appliances,Appliances,Washing Machine,4,27974,10,100706.4,84351.01,16355.39,UPI,Delivered,2025-10-09,Pallavi
+ORD00292,2025-10-06,CUST0262,Neha Gupta,North,Uttar Pradesh,Appliances,Appliances,Microwave Oven,1,9476,0,9476.0,7457.78,2018.22,Credit Card,Delivered,2025-10-11,Kavita
+ORD00681,2025-10-07,CUST0258,Vikram Joshi,West,Maharashtra,Appliances,Appliances,Microwave Oven,2,12269,5,23311.1,20619.17,2691.93,Cash on Delivery,Delivered,2025-10-11,Varun
+ORD00127,2025-10-07,CUST0249,Rohan Gupta,West,Maharashtra,Appliances,Appliances,Air Conditioner,5,47400,15,201450.0,185708.37,15741.63,Debit Card,Delivered,2025-10-13,Sonia
+ORD00782,2025-10-07,CUST0205,Kavya Joshi,East,Odisha,Appliances,Appliances,Refrigerator,1,46122,15,39203.7,36572.7,2631.0,Debit Card,Shipped,2025-10-11,Raj
+ORD00563,2025-10-07,CUST0235,Simran Joshi,North,Uttar Pradesh,Electronics,Electronics,LED TV 55,1,63229,15,53744.65,46011.69,7732.96,Credit Card,Cancelled,2025-10-12,Tarun
+ORD00389,2025-10-08,CUST0232,Sneha Kumar,West,Rajasthan,Furniture,Furniture,Bookshelf,3,7389,15,18841.95,17231.0,1610.95,Credit Card,Delivered,2025-10-09,Deepak
+ORD00776,2025-10-08,CUST0183,Tanya Patel,North,Uttar Pradesh,Electronics,Electronics,Wireless Headphones,3,4383,10,11834.1,11750.85,83.25,UPI,Delivered,2025-10-09,Kavita
+ORD00858,2025-10-08,CUST0268,Kavya Patel,South,Karnataka,Appliances,Appliances,Washing Machine,4,39107,10,140785.2,140671.06,114.14,UPI,Shipped,2025-10-13,Mohit
+ORD00466,2025-10-08,CUST0186,Amit Singh,South,Telangana,Electronics,Electronics,Tablet Plus,2,32796,10,59032.8,55992.21,3040.59,UPI,Delivered,2025-10-12,Mohit
+ORD00457,2025-10-09,CUST0168,Ravi Singh,North,Punjab,Electronics,Electronics,Tablet Plus,2,37388,5,71037.2,61366.05,9671.15,Debit Card,Processing,2025-10-11,Varun
+ORD00521,2025-10-09,CUST0101,Neha Malhotra,East,West Bengal,Furniture,Furniture,Bookshelf,5,13130,10,59085.0,56912.78,2172.22,UPI,Delivered,2025-10-13,Sonia
+ORD00312,2025-10-09,CUST0124,Vikram Yadav,North,Uttar Pradesh,Appliances,Appliances,Washing Machine,3,36175,5,103098.75,80251.71,22847.04,UPI,Delivered,2025-10-13,Deepak
+ORD00853,2025-10-10,CUST0160,Arjun Gupta,North,Punjab,Furniture,Furniture,Study Table,4,18496,10,66585.6,61346.57,5239.03,Net Banking,Cancelled,2025-10-13,Kavita
+ORD00759,2025-10-10,CUST0103,Ankit Singh,West,Gujarat,Electronics,Electronics,Smartphone X,2,38906,10,70030.8,55936.72,14094.08,UPI,Delivered,2025-10-15,Sonia
+ORD00067,2025-10-11,CUST0258,Vikram Joshi,North,Uttar Pradesh,Furniture,Furniture,Study Table,2,23081,5,43853.9,36296.01,7557.89,Debit Card,Delivered,2025-10-12,Raj
+ORD00195,2025-10-12,CUST0101,Neha Malhotra,South,Karnataka,Electronics,Electronics,Tablet Plus,2,25472,15,43302.4,39670.05,3632.35,UPI,Delivered,2025-10-18,Deepak
+ORD00992,2025-10-13,CUST0112,Ravi Gupta,East,Odisha,Electronics,Electronics,Laptop Pro 14,4,66283,15,225362.2,189522.45,35839.75,Credit Card,Returned,2025-10-17,Mohit
+ORD00750,2025-10-13,CUST0264,Meera Verma,East,Odisha,Furniture,Furniture,Office Chair,2,8672,5,16476.8,14559.96,1916.84,Credit Card,Shipped,2025-10-14,Mohit
+ORD00482,2025-10-14,CUST0242,Priya Yadav,East,West Bengal,Electronics,Electronics,Smartphone X,4,23454,0,93816.0,65198.58,28617.42,Credit Card,Delivered,2025-10-17,Mohit
+ORD00222,2025-10-14,CUST0102,Rahul Joshi,East,Bihar,Appliances,Appliances,Mixer Grinder,1,8879,5,8435.05,6293.64,2141.41,UPI,Delivered,2025-10-21,Varun
+ORD00553,2025-10-15,CUST0131,Priya Malhotra,East,West Bengal,Appliances,Appliances,Refrigerator,5,31153,5,147976.75,108031.4,39945.35,Debit Card,Delivered,2025-10-21,Raj
+ORD00428,2025-10-15,CUST0212,Nisha Singh,West,Maharashtra,Accessories,Accessories,USB Hub,1,2125,5,2018.75,1594.93,423.82,Net Banking,Delivered,2025-10-18,Yash
+ORD00031,2025-10-15,CUST0135,Sneha Malhotra,East,Bihar,Appliances,Appliances,Microwave Oven,1,7441,15,6324.85,5616.83,708.02,UPI,Delivered,2025-10-19,Pallavi
+ORD00498,2025-10-16,CUST0235,Simran Joshi,North,Haryana,Appliances,Appliances,Mixer Grinder,5,3524,5,16739.0,15641.08,1097.92,Cash on Delivery,Cancelled,2025-10-20,Tarun
+ORD00311,2025-10-17,CUST0233,Pooja Joshi,South,Tamil Nadu,Appliances,Appliances,Refrigerator,2,33753,0,67506.0,59125.03,8380.97,Debit Card,Returned,2025-10-22,Deepak
+ORD00570,2025-10-18,CUST0188,Rahul Mehta,South,Karnataka,Appliances,Appliances,Mixer Grinder,1,3579,15,3042.15,2633.83,408.32,Credit Card,Delivered,2025-10-22,Deepak
+ORD00331,2025-10-19,CUST0119,Kavya Gupta,South,Kerala,Accessories,Accessories,Webcam,3,2911,15,7423.05,7378.86,44.19,Debit Card,Delivered,2025-10-23,Mohit
+ORD00330,2025-10-19,CUST0177,Nisha Mehta,North,Haryana,Electronics,Electronics,Smartphone X,5,24297,0,121485.0,92721.78,28763.22,Net Banking,Delivered,2025-10-21,Sonia
+ORD00997,2025-10-19,CUST0158,Kavya Malhotra,West,Rajasthan,Accessories,Accessories,Webcam,2,6005,20,9608.0,10463.13,-855.13,Cash on Delivery,Cancelled,2025-10-26,Sonia
+ORD00569,2025-10-20,CUST0249,Rohan Gupta,West,Goa,Accessories,Accessories,Phone Cover,4,671,5,2549.8,2088.88,460.92,Debit Card,Returned,2025-10-25,Varun
+ORD00980,2025-10-20,CUST0236,Arjun Kumar,East,West Bengal,Appliances,Appliances,Air Conditioner,5,35127,20,140508.0,135345.65,5162.35,UPI,Delivered,2025-10-25,Tarun
+ORD00487,2025-10-20,CUST0104,Pooja Verma,North,Haryana,Furniture,Furniture,Study Table,4,21894,0,87576.0,70600.99,16975.01,Credit Card,Delivered,2025-10-27,Sonia
+ORD00168,2025-10-20,CUST0196,Nisha Sharma,North,Punjab,Accessories,Accessories,Phone Cover,5,628,15,2669.0,2308.23,360.77,UPI,Delivered,2025-10-23,Aman
+ORD00568,2025-10-20,CUST0185,Sneha Verma,South,Tamil Nadu,Electronics,Electronics,Tablet Plus,1,26113,0,26113.0,20193.72,5919.28,Credit Card,Delivered,2025-10-27,Yash
+ORD00658,2025-10-21,CUST0137,Tanya Sharma,South,Kerala,Furniture,Furniture,Sofa Set,4,27895,5,106001.0,89200.76,16800.24,Debit Card,Delivered,2025-10-22,Kavita
+ORD00291,2025-10-22,CUST0229,Kavya Sharma,North,Haryana,Furniture,Furniture,Sofa Set,2,62016,0,124032.0,88767.26,35264.74,Credit Card,Returned,2025-10-27,Kavita
+ORD00043,2025-10-23,CUST0151,Tanya Malhotra,North,Delhi,Furniture,Furniture,Bookshelf,3,14846,10,40084.2,39415.28,668.92,Credit Card,Delivered,2025-10-27,Kavita
+ORD00014,2025-10-23,CUST0142,Vikram Singh,North,Uttar Pradesh,Accessories,Accessories,Mouse,3,1952,0,5856.0,4791.09,1064.91,UPI,Delivered,2025-10-29,Tarun
+ORD00442,2025-10-24,CUST0157,Neha Yadav,West,Gujarat,Electronics,Electronics,LED TV 55,5,37716,5,179151.0,136856.51,42294.49,Credit Card,Cancelled,2025-10-28,Pallavi
+ORD00645,2025-10-24,CUST0285,Kavya Verma,North,Delhi,Accessories,Accessories,USB Hub,3,2326,5,6629.1,6220.97,408.13,Net Banking,Delivered,2025-10-25,Raj
+ORD00179,2025-10-24,CUST0271,Amit Patel,West,Rajasthan,Accessories,Accessories,Mouse,4,2254,15,7663.6,7751.01,-87.41,Credit Card,Shipped,2025-10-25,Sonia
+ORD00010,2025-10-25,CUST0147,Rohan Mehta,West,Maharashtra,Electronics,Electronics,Laptop Pro 14,5,71122,15,302268.5,312883.54,-10615.04,UPI,Delivered,2025-10-31,Raj
+ORD00526,2025-10-25,CUST0194,Vikram Singh,South,Kerala,Furniture,Furniture,Office Chair,3,14053,10,37943.1,30421.81,7521.29,Net Banking,Delivered,2025-10-27,Deepak
+ORD00627,2025-10-25,CUST0236,Arjun Kumar,South,Tamil Nadu,Furniture,Furniture,Bed Frame,2,20159,15,34270.3,30380.08,3890.22,UPI,Delivered,2025-10-27,Yash
+ORD00175,2025-10-26,CUST0159,Aarav Yadav,East,West Bengal,Electronics,Electronics,LED TV 55,4,55425,10,199530.0,154586.53,44943.47,UPI,Shipped,2025-10-31,Sonia
+ORD00161,2025-10-27,CUST0208,Ankit Sharma,South,Karnataka,Furniture,Furniture,Bookshelf,1,9089,10,8180.1,7713.73,466.37,Net Banking,Delivered,2025-11-01,Aman
+ORD00656,2025-10-27,CUST0202,Vikram Verma,North,Delhi,Electronics,Electronics,LED TV 55,2,44269,5,84111.1,64351.81,19759.29,Debit Card,Processing,2025-11-01,Varun
+ORD00899,2025-10-27,CUST0119,Kavya Gupta,North,Haryana,Appliances,Appliances,Microwave Oven,2,8532,0,17064.0,12218.93,4845.07,UPI,Processing,2025-10-30,Varun
+ORD00809,2025-10-27,CUST0106,Rohan Singh,South,Karnataka,Appliances,Appliances,Washing Machine,3,39380,15,100419.0,84167.62,16251.38,Debit Card,Delivered,2025-11-03,Deepak
+ORD00912,2025-10-28,CUST0224,Manish Kumar,North,Delhi,Appliances,Appliances,Microwave Oven,1,12190,0,12190.0,8952.16,3237.84,UPI,Delivered,2025-10-31,Raj
+ORD00903,2025-10-28,CUST0209,Pooja Sharma,North,Delhi,Furniture,Furniture,Bookshelf,5,15619,20,62476.0,63403.36,-927.36,Credit Card,Shipped,2025-11-04,Kavita
+ORD00646,2025-10-28,CUST0231,Tanya Malhotra,West,Rajasthan,Appliances,Appliances,Mixer Grinder,1,5685,10,5116.5,4615.32,501.18,Credit Card,Delivered,2025-10-29,Tarun
+ORD00007,2025-10-28,CUST0252,Nisha Mehta,North,Uttar Pradesh,Appliances,Appliances,Washing Machine,2,49151,10,88471.8,68396.74,20075.06,UPI,Delivered,2025-11-02,Varun
+ORD00910,2025-10-30,CUST0113,Aarav Gupta,South,Telangana,Electronics,Electronics,LED TV 55,2,54506,5,103561.4,77202.45,26358.95,UPI,Delivered,2025-11-03,Tarun
+ORD00086,2025-10-30,CUST0146,Arjun Joshi,South,Karnataka,Appliances,Appliances,Air Conditioner,4,57832,10,208195.2,192829.36,15365.84,UPI,Delivered,2025-11-03,Mohit
+ORD00810,2025-10-30,CUST0169,Simran Kumar,North,Uttar Pradesh,Appliances,Appliances,Air Conditioner,4,56870,5,216106.0,158352.02,57753.98,UPI,Delivered,2025-10-31,Aman
+ORD00270,2025-10-30,CUST0111,Priya Joshi,South,Kerala,Electronics,Electronics,Tablet Plus,2,38464,15,65388.8,59216.78,6172.02,UPI,Delivered,2025-11-03,Aman
+ORD00594,2025-10-31,CUST0122,Ravi Kumar,South,Kerala,Appliances,Appliances,Air Conditioner,4,46576,10,167673.6,135322.93,32350.67,UPI,Delivered,2025-11-07,Aman
+ORD00519,2025-10-31,CUST0239,Sneha Singh,West,Gujarat,Furniture,Furniture,Study Table,2,10199,10,18358.2,15907.3,2450.9,Net Banking,Delivered,2025-11-01,Varun
+ORD00576,2025-10-31,CUST0128,Priya Verma,West,Gujarat,Electronics,Electronics,Smartphone X,4,42746,15,145336.4,119500.77,25835.63,UPI,Delivered,2025-11-02,Sonia
+ORD00793,2025-10-31,CUST0281,Ankit Joshi,East,West Bengal,Appliances,Appliances,Air Conditioner,1,43393,5,41223.35,29925.82,11297.53,UPI,Delivered,2025-11-02,Varun
+ORD00218,2025-10-31,CUST0244,Pooja Singh,West,Maharashtra,Electronics,Electronics,Laptop Pro 14,1,84090,10,75681.0,74632.25,1048.75,UPI,Delivered,2025-11-06,Tarun
+ORD00706,2025-10-31,CUST0162,Arjun Malhotra,West,Gujarat,Appliances,Appliances,Mixer Grinder,2,6291,0,12582.0,10852.25,1729.75,UPI,Delivered,2025-11-05,Pallavi
+ORD00486,2025-11-02,CUST0285,Kavya Verma,West,Rajasthan,Furniture,Furniture,Bed Frame,2,42327,10,76188.6,61087.22,15101.38,Credit Card,Returned,2025-11-08,Mohit
+ORD00370,2025-11-02,CUST0200,Kavya Patel,North,Haryana,Electronics,Electronics,LED TV 55,5,35798,10,161091.0,132235.34,28855.66,Debit Card,Delivered,2025-11-03,Yash
+ORD00423,2025-11-03,CUST0265,Tanya Joshi,North,Delhi,Electronics,Electronics,Laptop Pro 14,2,76378,10,137480.4,106537.37,30943.03,Credit Card,Delivered,2025-11-07,Yash
+ORD00074,2025-11-03,CUST0283,Rohan Verma,West,Gujarat,Furniture,Furniture,Bed Frame,2,33966,20,54345.6,51863.39,2482.21,Credit Card,Delivered,2025-11-10,Raj
+ORD00394,2025-11-03,CUST0178,Meera Yadav,West,Rajasthan,Electronics,Electronics,Wireless Headphones,4,5812,10,20923.2,18944.74,1978.46,Credit Card,Delivered,2025-11-08,Kavita
+ORD00937,2025-11-03,CUST0110,Rahul Patel,North,Uttar Pradesh,Accessories,Accessories,USB Hub,5,1537,0,7685.0,6101.95,1583.05,Net Banking,Delivered,2025-11-04,Aman
+ORD00004,2025-11-03,CUST0255,Amit Kumar,East,Jharkhand,Accessories,Accessories,USB Hub,2,2369,5,4501.1,3655.76,845.34,Net Banking,Processing,2025-11-08,Pallavi
+ORD00413,2025-11-03,CUST0282,Ankit Singh,West,Gujarat,Accessories,Accessories,Mouse,3,2662,10,7187.4,6400.89,786.51,Credit Card,Delivered,2025-11-05,Mohit
+ORD00333,2025-11-03,CUST0159,Aarav Yadav,North,Haryana,Furniture,Furniture,Sofa Set,3,33334,10,90001.8,78474.82,11526.98,Debit Card,Delivered,2025-11-08,Yash
+ORD00749,2025-11-04,CUST0163,Neha Verma,West,Gujarat,Furniture,Furniture,Study Table,2,22630,5,42997.0,39140.83,3856.17,Net Banking,Delivered,2025-11-08,Yash
+ORD00680,2025-11-04,CUST0246,Nisha Joshi,West,Rajasthan,Furniture,Furniture,Bed Frame,5,52629,15,223673.25,211378.25,12295.0,Net Banking,Delivered,2025-11-10,Aman
+ORD00349,2025-11-04,CUST0110,Rahul Patel,South,Kerala,Furniture,Furniture,Study Table,5,11616,10,52272.0,45709.49,6562.51,Debit Card,Delivered,2025-11-11,Sonia
+ORD00071,2025-11-04,CUST0269,Ankit Yadav,West,Maharashtra,Electronics,Electronics,Smartphone X,2,43785,10,78813.0,63696.58,15116.42,UPI,Delivered,2025-11-05,Mohit
+ORD00816,2025-11-04,CUST0275,Priya Verma,East,Jharkhand,Appliances,Appliances,Microwave Oven,1,13481,0,13481.0,10581.75,2899.25,UPI,Delivered,2025-11-05,Yash
+ORD00243,2025-11-04,CUST0115,Rahul Malhotra,West,Maharashtra,Appliances,Appliances,Refrigerator,5,62650,10,281925.0,214275.17,67649.83,Credit Card,Delivered,2025-11-09,Deepak
+ORD00355,2025-11-04,CUST0198,Arjun Singh,North,Haryana,Appliances,Appliances,Refrigerator,3,44932,15,114576.6,114381.76,194.84,UPI,Cancelled,2025-11-07,Yash
+ORD00718,2025-11-05,CUST0146,Arjun Joshi,West,Rajasthan,Electronics,Electronics,Wireless Headphones,1,5144,5,4886.8,4330.29,556.51,Credit Card,Shipped,2025-11-07,Kavita
+ORD00554,2025-11-05,CUST0218,Nisha Joshi,East,Jharkhand,Electronics,Electronics,Wireless Headphones,2,8950,10,16110.0,12811.92,3298.08,Debit Card,Shipped,2025-11-11,Mohit
+ORD00892,2025-11-05,CUST0291,Tanya Singh,West,Rajasthan,Electronics,Electronics,Wireless Headphones,5,8989,5,42697.75,31428.53,11269.22,UPI,Delivered,2025-11-10,Deepak
+ORD00381,2025-11-06,CUST0290,Nisha Patel,North,Haryana,Furniture,Furniture,Bed Frame,2,29970,5,56943.0,44745.26,12197.74,Cash on Delivery,Delivered,2025-11-12,Mohit
+ORD00675,2025-11-07,CUST0219,Sneha Joshi,South,Telangana,Accessories,Accessories,USB Hub,2,501,10,901.8,734.09,167.71,Net Banking,Delivered,2025-11-09,Aman
+ORD00137,2025-11-07,CUST0176,Aarav Yadav,East,Odisha,Electronics,Electronics,Wireless Headphones,4,2731,10,9831.6,7521.6,2310.0,Cash on Delivery,Delivered,2025-11-08,Kavita
+ORD00459,2025-11-07,CUST0271,Amit Patel,North,Delhi,Furniture,Furniture,Sofa Set,2,30603,10,55085.4,47414.43,7670.97,Cash on Delivery,Delivered,2025-11-13,Aman
+ORD00898,2025-11-07,CUST0120,Amit Singh,West,Rajasthan,Electronics,Electronics,LED TV 55,4,46819,5,177912.2,152222.83,25689.37,Cash on Delivery,Delivered,2025-11-14,Raj
+ORD00474,2025-11-08,CUST0232,Sneha Kumar,West,Goa,Appliances,Appliances,Air Conditioner,5,64159,10,288715.5,220913.63,67801.87,Credit Card,Delivered,2025-11-09,Sonia
+ORD00514,2025-11-08,CUST0289,Kavya Kumar,West,Goa,Electronics,Electronics,Wireless Headphones,4,5935,10,21366.0,21287.29,78.71,Debit Card,Processing,2025-11-13,Mohit
+ORD00579,2025-11-09,CUST0149,Tanya Singh,South,Kerala,Appliances,Appliances,Microwave Oven,1,15617,10,14055.3,12990.48,1064.82,Credit Card,Delivered,2025-11-12,Kavita
+ORD00365,2025-11-09,CUST0103,Ankit Singh,West,Goa,Appliances,Appliances,Microwave Oven,2,8174,5,15530.6,12579.13,2951.47,Credit Card,Delivered,2025-11-12,Kavita
+ORD00879,2025-11-10,CUST0211,Pooja Mehta,North,Punjab,Accessories,Accessories,Keyboard,4,2301,0,9204.0,8143.54,1060.46,UPI,Delivered,2025-11-14,Sonia
+ORD00669,2025-11-10,CUST0113,Aarav Gupta,North,Delhi,Appliances,Appliances,Refrigerator,4,67725,15,230265.0,243540.83,-13275.83,Credit Card,Delivered,2025-11-14,Varun
+ORD00814,2025-11-12,CUST0247,Ankit Gupta,West,Goa,Electronics,Electronics,Tablet Plus,5,15153,5,71976.75,63460.13,8516.62,Debit Card,Returned,2025-11-13,Kavita
+ORD00483,2025-11-12,CUST0234,Rahul Singh,South,Karnataka,Electronics,Electronics,Tablet Plus,5,18150,5,86212.5,65579.0,20633.5,UPI,Delivered,2025-11-19,Kavita
+ORD00527,2025-11-13,CUST0243,Rahul Sharma,South,Karnataka,Appliances,Appliances,Microwave Oven,3,17832,15,45471.6,46980.17,-1508.57,Cash on Delivery,Delivered,2025-11-19,Varun
+ORD00984,2025-11-13,CUST0218,Nisha Joshi,North,Punjab,Appliances,Appliances,Air Conditioner,5,43749,5,207807.75,194180.12,13627.63,UPI,Delivered,2025-11-18,Deepak
+ORD00061,2025-11-14,CUST0106,Rohan Singh,South,Karnataka,Appliances,Appliances,Mixer Grinder,4,8311,5,31581.8,27311.32,4270.48,Credit Card,Delivered,2025-11-18,Sonia
+ORD00450,2025-11-14,CUST0276,Arjun Patel,North,Delhi,Electronics,Electronics,LED TV 55,4,35463,20,113481.6,99771.41,13710.19,Net Banking,Delivered,2025-11-19,Yash
+ORD00416,2025-11-14,CUST0295,Arjun Gupta,South,Tamil Nadu,Electronics,Electronics,Tablet Plus,3,37424,15,95431.2,94138.06,1293.14,UPI,Delivered,2025-11-20,Mohit
+ORD00565,2025-11-14,CUST0203,Aarav Joshi,South,Tamil Nadu,Appliances,Appliances,Refrigerator,1,32897,5,31252.15,29395.01,1857.14,UPI,Delivered,2025-11-21,Sonia
+ORD00852,2025-11-14,CUST0160,Arjun Gupta,West,Rajasthan,Appliances,Appliances,Washing Machine,4,35647,10,128329.2,126321.38,2007.82,Cash on Delivery,Delivered,2025-11-20,Mohit
+ORD00315,2025-11-15,CUST0235,Simran Joshi,West,Rajasthan,Furniture,Furniture,Study Table,4,21622,10,77839.2,67598.8,10240.4,UPI,Shipped,2025-11-19,Deepak
+ORD00280,2025-11-15,CUST0166,Pooja Yadav,West,Rajasthan,Appliances,Appliances,Air Conditioner,3,32881,0,98643.0,78666.6,19976.4,Credit Card,Returned,2025-11-18,Kavita
+ORD00282,2025-11-15,CUST0106,Rohan Singh,South,Telangana,Electronics,Electronics,Wireless Headphones,1,7122,15,6053.7,5485.4,568.3,Credit Card,Delivered,2025-11-19,Sonia
+ORD00506,2025-11-15,CUST0135,Sneha Malhotra,North,Punjab,Accessories,Accessories,Phone Cover,3,1126,10,3040.2,2822.19,218.01,Debit Card,Shipped,2025-11-22,Tarun
+ORD00420,2025-11-15,CUST0181,Tanya Joshi,West,Goa,Electronics,Electronics,Smartphone X,4,33474,5,127201.2,110784.18,16417.02,Credit Card,Processing,2025-11-17,Sonia
+ORD00188,2025-11-16,CUST0224,Manish Kumar,East,Odisha,Electronics,Electronics,Laptop Pro 14,1,83706,10,75335.4,69197.74,6137.66,Debit Card,Delivered,2025-11-21,Raj
+ORD00453,2025-11-17,CUST0287,Neha Gupta,South,Tamil Nadu,Electronics,Electronics,LED TV 55,4,38158,15,129737.2,136638.98,-6901.78,UPI,Delivered,2025-11-21,Varun
+ORD00354,2025-11-17,CUST0236,Arjun Kumar,North,Uttar Pradesh,Appliances,Appliances,Washing Machine,2,34940,5,66386.0,49533.57,16852.43,UPI,Delivered,2025-11-22,Yash
+ORD00564,2025-11-18,CUST0145,Vikram Yadav,North,Delhi,Appliances,Appliances,Refrigerator,4,33583,5,127615.4,111134.81,16480.59,Cash on Delivery,Delivered,2025-11-23,Kavita
+ORD00367,2025-11-18,CUST0202,Vikram Verma,West,Gujarat,Electronics,Electronics,Smartphone X,3,18178,0,54534.0,46617.07,7916.93,Debit Card,Processing,2025-11-22,Pallavi
+ORD00671,2025-11-19,CUST0179,Amit Patel,North,Punjab,Accessories,Accessories,Mouse,5,2899,15,12320.75,10216.49,2104.26,UPI,Delivered,2025-11-23,Raj
+ORD00376,2025-11-20,CUST0223,Kavya Verma,South,Kerala,Electronics,Electronics,Wireless Headphones,5,4584,5,21774.0,20313.88,1460.12,Credit Card,Shipped,2025-11-23,Tarun
+ORD00362,2025-11-20,CUST0179,Amit Patel,East,Odisha,Electronics,Electronics,Smartphone X,3,35174,0,105522.0,93437.33,12084.67,Credit Card,Delivered,2025-11-23,Tarun
+ORD00293,2025-11-20,CUST0119,Kavya Gupta,West,Rajasthan,Electronics,Electronics,Tablet Plus,4,19603,0,78412.0,66060.43,12351.57,Debit Card,Delivered,2025-11-23,Raj
+ORD00388,2025-11-20,CUST0185,Sneha Verma,North,Uttar Pradesh,Electronics,Electronics,Tablet Plus,3,16390,10,44253.0,33536.31,10716.69,UPI,Delivered,2025-11-27,Raj
+ORD00985,2025-11-20,CUST0115,Rahul Malhotra,West,Goa,Electronics,Electronics,Laptop Pro 14,3,78508,5,223747.8,177563.46,46184.34,Debit Card,Delivered,2025-11-24,Pallavi
+ORD00158,2025-11-20,CUST0141,Arjun Verma,West,Rajasthan,Electronics,Electronics,Smartphone X,4,48951,10,176223.6,134818.08,41405.52,Cash on Delivery,Processing,2025-11-25,Sonia
+ORD00035,2025-11-20,CUST0120,Amit Singh,West,Maharashtra,Furniture,Furniture,Bed Frame,5,24533,10,110398.5,88569.43,21829.07,UPI,Delivered,2025-11-25,Varun
+ORD00403,2025-11-20,CUST0280,Karan Gupta,East,Bihar,Furniture,Furniture,Study Table,1,10793,10,9713.7,7450.98,2262.72,Debit Card,Delivered,2025-11-25,Sonia
+ORD00795,2025-11-21,CUST0169,Simran Kumar,North,Uttar Pradesh,Appliances,Appliances,Microwave Oven,3,9120,10,24624.0,22356.65,2267.35,Debit Card,Delivered,2025-11-25,Deepak
+ORD00964,2025-11-21,CUST0206,Simran Patel,South,Tamil Nadu,Appliances,Appliances,Refrigerator,1,32732,10,29458.8,27438.62,2020.18,Debit Card,Delivered,2025-11-23,Kavita
+ORD00336,2025-11-22,CUST0259,Neha Sharma,North,Uttar Pradesh,Electronics,Electronics,Smartphone X,5,27873,5,132396.75,101223.07,31173.68,Net Banking,Delivered,2025-11-26,Mohit
+ORD00286,2025-11-22,CUST0242,Priya Yadav,North,Uttar Pradesh,Electronics,Electronics,Laptop Pro 14,5,60650,5,288087.5,227859.46,60228.04,Debit Card,Delivered,2025-11-28,Sonia
+ORD00250,2025-11-22,CUST0204,Sneha Gupta,West,Maharashtra,Electronics,Electronics,Wireless Headphones,5,6754,5,32081.5,28084.53,3996.97,UPI,Returned,2025-11-29,Sonia
+ORD00484,2025-11-22,CUST0127,Aarav Yadav,East,Jharkhand,Appliances,Appliances,Microwave Oven,1,16797,20,13437.6,12214.85,1222.75,Debit Card,Cancelled,2025-11-27,Sonia
+ORD00728,2025-11-22,CUST0243,Rahul Sharma,West,Maharashtra,Appliances,Appliances,Air Conditioner,2,60435,10,108783.0,91955.15,16827.85,Credit Card,Returned,2025-11-24,Sonia
+ORD00953,2025-11-23,CUST0159,Aarav Yadav,North,Haryana,Electronics,Electronics,Laptop Pro 14,2,60204,5,114387.6,81896.43,32491.17,Debit Card,Delivered,2025-11-25,Raj
+ORD00922,2025-11-23,CUST0299,Priya Kumar,South,Kerala,Appliances,Appliances,Microwave Oven,2,7534,15,12807.8,12432.2,375.6,Debit Card,Delivered,2025-11-26,Tarun
+ORD00150,2025-11-23,CUST0266,Manish Singh,South,Telangana,Electronics,Electronics,Wireless Headphones,2,11142,10,20055.6,16329.46,3726.14,UPI,Delivered,2025-11-27,Pallavi
+ORD00596,2025-11-23,CUST0129,Meera Patel,South,Kerala,Electronics,Electronics,Smartphone X,1,26243,0,26243.0,19459.51,6783.49,UPI,Returned,2025-11-25,Sonia
+ORD00716,2025-11-23,CUST0103,Ankit Singh,West,Rajasthan,Electronics,Electronics,Tablet Plus,5,32000,15,136000.0,127406.16,8593.84,Net Banking,Delivered,2025-11-29,Sonia
+ORD00105,2025-11-23,CUST0253,Pooja Gupta,West,Goa,Electronics,Electronics,Laptop Pro 14,3,84449,0,253347.0,185021.23,68325.77,UPI,Delivered,2025-11-30,Varun
+ORD00604,2025-11-25,CUST0205,Kavya Joshi,North,Delhi,Electronics,Electronics,Laptop Pro 14,5,74583,20,298332.0,299314.05,-982.05,Credit Card,Processing,2025-12-01,Kavita
+ORD00178,2025-11-25,CUST0104,Pooja Verma,South,Kerala,Appliances,Appliances,Mixer Grinder,2,6770,10,12186.0,10847.6,1338.4,Credit Card,Delivered,2025-11-26,Sonia
+ORD00722,2025-11-25,CUST0177,Nisha Mehta,North,Delhi,Appliances,Appliances,Refrigerator,1,63333,5,60166.35,50037.32,10129.03,Net Banking,Delivered,2025-11-29,Yash
+ORD00432,2025-11-26,CUST0219,Sneha Joshi,West,Goa,Furniture,Furniture,Bookshelf,5,13399,10,60295.5,51896.92,8398.58,Debit Card,Delivered,2025-11-28,Kavita
+ORD00607,2025-11-26,CUST0171,Ankit Singh,North,Uttar Pradesh,Appliances,Appliances,Air Conditioner,5,59511,10,267799.5,209948.92,57850.58,UPI,Delivered,2025-12-03,Pallavi
+ORD00346,2025-11-27,CUST0188,Rahul Mehta,East,Jharkhand,Accessories,Accessories,Keyboard,1,4986,0,4986.0,3941.06,1044.94,UPI,Delivered,2025-12-04,Pallavi
+ORD00358,2025-11-28,CUST0255,Amit Kumar,East,Bihar,Furniture,Furniture,Bookshelf,1,4198,10,3778.2,3195.45,582.75,Debit Card,Returned,2025-12-02,Tarun
+ORD00966,2025-11-28,CUST0260,Sneha Kumar,South,Telangana,Electronics,Electronics,Smartphone X,4,45518,5,172968.4,134101.4,38867.0,UPI,Shipped,2025-12-02,Mohit
+ORD00283,2025-11-29,CUST0279,Rohan Gupta,South,Kerala,Electronics,Electronics,LED TV 55,4,36378,15,123685.2,114378.09,9307.11,Debit Card,Delivered,2025-11-30,Sonia
+ORD00077,2025-11-29,CUST0295,Arjun Gupta,West,Goa,Furniture,Furniture,Bed Frame,2,22675,10,40815.0,34947.99,5867.01,Credit Card,Delivered,2025-11-30,Tarun
+ORD00020,2025-11-29,CUST0222,Nisha Mehta,South,Kerala,Furniture,Furniture,Bookshelf,2,7715,0,15430.0,13743.63,1686.37,UPI,Delivered,2025-12-03,Pallavi
+ORD00599,2025-11-30,CUST0210,Tanya Mehta,North,Punjab,Appliances,Appliances,Microwave Oven,4,9964,0,39856.0,27760.96,12095.04,Net Banking,Cancelled,2025-12-04,Varun
+ORD00320,2025-12-01,CUST0167,Ravi Sharma,North,Punjab,Electronics,Electronics,Smartphone X,5,39435,5,187316.25,161373.58,25942.67,Debit Card,Cancelled,2025-12-05,Aman
+ORD00539,2025-12-01,CUST0158,Kavya Malhotra,South,Kerala,Electronics,Electronics,LED TV 55,1,66551,10,59895.9,47813.77,12082.13,Debit Card,Processing,2025-12-07,Mohit
+ORD00938,2025-12-01,CUST0111,Priya Joshi,West,Maharashtra,Accessories,Accessories,Webcam,5,4325,5,20543.75,16872.05,3671.7,Cash on Delivery,Delivered,2025-12-08,Deepak
+ORD00083,2025-12-02,CUST0219,Sneha Joshi,South,Karnataka,Appliances,Appliances,Refrigerator,3,46565,10,125725.5,96208.32,29517.18,UPI,Delivered,2025-12-06,Varun
+ORD00338,2025-12-02,CUST0142,Vikram Singh,West,Gujarat,Appliances,Appliances,Refrigerator,4,48225,10,173610.0,141086.57,32523.43,Cash on Delivery,Delivered,2025-12-09,Varun
+ORD00686,2025-12-02,CUST0162,Arjun Malhotra,East,West Bengal,Appliances,Appliances,Refrigerator,1,63897,5,60702.15,52453.45,8248.7,Debit Card,Delivered,2025-12-09,Sonia
+ORD00204,2025-12-02,CUST0285,Kavya Verma,West,Rajasthan,Accessories,Accessories,Mouse,2,1963,0,3926.0,3299.78,626.22,Credit Card,Returned,2025-12-04,Pallavi
+ORD00896,2025-12-02,CUST0131,Priya Malhotra,North,Punjab,Appliances,Appliances,Microwave Oven,1,9831,5,9339.45,8123.95,1215.5,UPI,Delivered,2025-12-08,Yash
+ORD00948,2025-12-03,CUST0146,Arjun Joshi,West,Gujarat,Furniture,Furniture,Bookshelf,2,15197,15,25834.9,24338.46,1496.44,Net Banking,Delivered,2025-12-08,Aman
+ORD00744,2025-12-03,CUST0134,Amit Sharma,East,West Bengal,Appliances,Appliances,Refrigerator,1,31565,10,28408.5,24363.09,4045.41,UPI,Processing,2025-12-10,Mohit
+ORD00961,2025-12-04,CUST0102,Rahul Joshi,North,Punjab,Electronics,Electronics,Tablet Plus,1,32249,10,29024.1,24165.71,4858.39,Debit Card,Delivered,2025-12-11,Varun
+ORD00685,2025-12-05,CUST0148,Ravi Malhotra,West,Gujarat,Appliances,Appliances,Air Conditioner,3,40740,15,103887.0,97834.12,6052.88,Debit Card,Delivered,2025-12-09,Raj
+ORD00075,2025-12-05,CUST0135,Sneha Malhotra,West,Rajasthan,Electronics,Electronics,LED TV 55,1,66097,10,59487.3,58190.71,1296.59,Net Banking,Shipped,2025-12-07,Yash
+ORD00306,2025-12-06,CUST0153,Arjun Malhotra,West,Maharashtra,Appliances,Appliances,Mixer Grinder,2,3962,10,7131.6,6160.66,970.94,UPI,Shipped,2025-12-08,Mohit
+ORD00246,2025-12-06,CUST0135,Sneha Malhotra,West,Gujarat,Electronics,Electronics,Tablet Plus,5,20585,10,92632.5,77005.02,15627.48,Net Banking,Delivered,2025-12-11,Varun
+ORD00949,2025-12-07,CUST0242,Priya Yadav,West,Gujarat,Furniture,Furniture,Office Chair,1,16998,5,16148.1,12378.8,3769.3,Net Banking,Delivered,2025-12-11,Aman
+ORD00465,2025-12-07,CUST0299,Priya Kumar,West,Maharashtra,Furniture,Furniture,Office Chair,3,16695,5,47580.75,37336.64,10244.11,Credit Card,Delivered,2025-12-09,Mohit
+ORD00702,2025-12-07,CUST0282,Ankit Singh,North,Punjab,Electronics,Electronics,Tablet Plus,5,20338,10,91521.0,72881.48,18639.52,UPI,Delivered,2025-12-09,Varun
+ORD00401,2025-12-08,CUST0164,Vikram Kumar,North,Delhi,Electronics,Electronics,Smartphone X,4,49186,10,177069.6,156809.94,20259.66,Cash on Delivery,Returned,2025-12-09,Tarun
+ORD00652,2025-12-08,CUST0123,Rahul Singh,East,West Bengal,Appliances,Appliances,Microwave Oven,3,7178,20,17227.2,18722.63,-1495.43,Credit Card,Delivered,2025-12-12,Yash
+ORD00100,2025-12-09,CUST0224,Manish Kumar,North,Punjab,Electronics,Electronics,LED TV 55,4,47070,0,188280.0,155907.48,32372.52,UPI,Delivered,2025-12-16,Raj
+ORD00674,2025-12-09,CUST0231,Tanya Malhotra,East,Bihar,Furniture,Furniture,Sofa Set,3,60474,15,154208.7,134751.87,19456.83,UPI,Delivered,2025-12-16,Mohit
+ORD00766,2025-12-09,CUST0199,Ravi Verma,East,Jharkhand,Electronics,Electronics,LED TV 55,4,66376,15,225678.4,200195.08,25483.32,Debit Card,Delivered,2025-12-13,Kavita
+ORD00308,2025-12-09,CUST0279,Rohan Gupta,South,Kerala,Accessories,Accessories,Mouse,2,744,10,1339.2,1263.9,75.3,Credit Card,Delivered,2025-12-16,Kavita
+ORD00206,2025-12-09,CUST0296,Amit Mehta,North,Delhi,Appliances,Appliances,Washing Machine,3,36745,15,93699.75,79935.94,13763.81,Net Banking,Processing,2025-12-11,Sonia
+ORD00664,2025-12-09,CUST0119,Kavya Gupta,North,Punjab,Electronics,Electronics,Wireless Headphones,2,2034,15,3457.8,3137.65,320.15,Credit Card,Delivered,2025-12-15,Yash
+ORD00257,2025-12-10,CUST0289,Kavya Kumar,West,Rajasthan,Electronics,Electronics,Laptop Pro 14,4,71184,15,242025.6,249356.07,-7330.47,Cash on Delivery,Delivered,2025-12-16,Aman
+ORD00871,2025-12-10,CUST0101,Neha Malhotra,South,Kerala,Electronics,Electronics,Tablet Plus,4,30116,15,102394.4,93769.18,8625.22,Cash on Delivery,Shipped,2025-12-12,Sonia
+ORD00347,2025-12-10,CUST0229,Kavya Sharma,East,Bihar,Appliances,Appliances,Air Conditioner,1,37533,0,37533.0,30518.67,7014.33,Debit Card,Delivered,2025-12-14,Yash
+ORD00933,2025-12-10,CUST0270,Rahul Verma,West,Maharashtra,Electronics,Electronics,LED TV 55,5,54324,5,258039.0,186239.87,71799.13,UPI,Delivered,2025-12-16,Varun
+ORD00544,2025-12-10,CUST0257,Amit Malhotra,East,Jharkhand,Furniture,Furniture,Office Chair,2,15490,10,27882.0,21712.1,6169.9,Credit Card,Delivered,2025-12-17,Pallavi
+ORD00734,2025-12-11,CUST0206,Simran Patel,East,Jharkhand,Accessories,Accessories,Webcam,4,7301,15,24823.4,23590.27,1233.13,Cash on Delivery,Delivered,2025-12-16,Aman
+ORD00359,2025-12-11,CUST0289,Kavya Kumar,West,Gujarat,Appliances,Appliances,Air Conditioner,3,57777,10,155997.9,123032.72,32965.18,UPI,Shipped,2025-12-15,Varun
+ORD00504,2025-12-12,CUST0294,Kavya Gupta,West,Gujarat,Electronics,Electronics,Wireless Headphones,1,3490,5,3315.5,2722.51,592.99,UPI,Delivered,2025-12-17,Mohit
+ORD00368,2025-12-12,CUST0139,Rahul Yadav,West,Maharashtra,Furniture,Furniture,Study Table,1,24118,10,21706.2,18821.44,2884.76,UPI,Delivered,2025-12-17,Kavita
+ORD00679,2025-12-13,CUST0181,Tanya Joshi,West,Rajasthan,Furniture,Furniture,Bed Frame,5,28891,5,137232.25,114304.07,22928.18,Credit Card,Delivered,2025-12-15,Varun
+ORD00919,2025-12-13,CUST0165,Pooja Patel,West,Goa,Furniture,Furniture,Sofa Set,2,37479,5,71210.1,52417.97,18792.13,UPI,Returned,2025-12-18,Tarun
+ORD00149,2025-12-14,CUST0224,Manish Kumar,North,Haryana,Electronics,Electronics,Laptop Pro 14,5,69318,10,311931.0,254035.49,57895.51,Credit Card,Processing,2025-12-15,Pallavi
+ORD00741,2025-12-14,CUST0150,Priya Joshi,South,Tamil Nadu,Electronics,Electronics,Wireless Headphones,3,2166,0,6498.0,4590.41,1907.59,UPI,Delivered,2025-12-15,Deepak
+ORD00857,2025-12-14,CUST0142,Vikram Singh,North,Haryana,Electronics,Electronics,Tablet Plus,1,27486,5,26111.7,20367.04,5744.66,Debit Card,Delivered,2025-12-16,Sonia
+ORD00743,2025-12-14,CUST0269,Ankit Yadav,West,Rajasthan,Appliances,Appliances,Air Conditioner,2,35840,10,64512.0,59388.93,5123.07,Cash on Delivery,Delivered,2025-12-19,Pallavi
+ORD00102,2025-12-15,CUST0171,Ankit Singh,East,West Bengal,Appliances,Appliances,Washing Machine,5,48478,20,193912.0,195024.82,-1112.82,Debit Card,Processing,2025-12-20,Pallavi
+ORD00452,2025-12-15,CUST0244,Pooja Singh,East,Jharkhand,Electronics,Electronics,Tablet Plus,2,35651,15,60606.7,51006.38,9600.32,Credit Card,Delivered,2025-12-18,Sonia
+ORD00081,2025-12-15,CUST0228,Tanya Yadav,West,Maharashtra,Furniture,Furniture,Bed Frame,3,35857,10,96813.9,86540.38,10273.52,Credit Card,Delivered,2025-12-18,Raj
+ORD00191,2025-12-15,CUST0185,Sneha Verma,North,Haryana,Appliances,Appliances,Refrigerator,4,73429,5,279030.2,237642.37,41387.83,UPI,Cancelled,2025-12-18,Yash
+ORD00449,2025-12-17,CUST0299,Priya Kumar,South,Kerala,Accessories,Accessories,Phone Cover,5,815,5,3871.25,2840.92,1030.33,Debit Card,Delivered,2025-12-19,Mohit
+ORD00106,2025-12-17,CUST0190,Vikram Mehta,North,Uttar Pradesh,Electronics,Electronics,Smartphone X,2,53163,10,95693.4,92944.76,2748.64,UPI,Delivered,2025-12-23,Raj
+ORD00552,2025-12-18,CUST0221,Arjun Mehta,West,Maharashtra,Electronics,Electronics,LED TV 55,3,45364,20,108873.6,100872.45,8001.15,UPI,Delivered,2025-12-20,Raj
+ORD00614,2025-12-19,CUST0203,Aarav Joshi,North,Uttar Pradesh,Appliances,Appliances,Air Conditioner,2,37995,10,68391.0,61833.66,6557.34,Debit Card,Processing,2025-12-25,Raj
+ORD00909,2025-12-19,CUST0191,Rohan Patel,North,Uttar Pradesh,Electronics,Electronics,Smartphone X,4,33732,10,121435.2,112177.23,9257.97,Debit Card,Delivered,2025-12-24,Deepak
+ORD00990,2025-12-19,CUST0120,Amit Singh,West,Goa,Furniture,Furniture,Office Chair,4,13669,10,49208.4,39660.03,9548.37,UPI,Delivered,2025-12-22,Pallavi
+ORD00309,2025-12-20,CUST0230,Amit Joshi,West,Rajasthan,Appliances,Appliances,Microwave Oven,1,15236,10,13712.4,10708.94,3003.46,Debit Card,Delivered,2025-12-21,Mohit
+ORD00319,2025-12-20,CUST0178,Meera Yadav,North,Punjab,Electronics,Electronics,Tablet Plus,5,38283,5,181844.25,147467.12,34377.13,UPI,Processing,2025-12-27,Pallavi
+ORD00395,2025-12-20,CUST0248,Kavya Malhotra,South,Karnataka,Electronics,Electronics,Tablet Plus,4,16515,10,59454.0,57547.26,1906.74,Credit Card,Delivered,2025-12-21,Pallavi
+ORD00641,2025-12-21,CUST0243,Rahul Sharma,North,Punjab,Electronics,Electronics,Wireless Headphones,3,3410,0,10230.0,8073.42,2156.58,UPI,Returned,2025-12-27,Yash
+ORD00451,2025-12-21,CUST0178,Meera Yadav,West,Rajasthan,Electronics,Electronics,Tablet Plus,2,24158,5,45900.2,38092.91,7807.29,Credit Card,Delivered,2025-12-26,Pallavi
+ORD00117,2025-12-22,CUST0246,Nisha Joshi,West,Maharashtra,Electronics,Electronics,Wireless Headphones,1,5586,15,4748.1,4973.3,-225.2,Debit Card,Delivered,2025-12-23,Deepak
+ORD00605,2025-12-22,CUST0285,Kavya Verma,North,Punjab,Appliances,Appliances,Mixer Grinder,4,5079,10,18284.4,14959.17,3325.23,Debit Card,Delivered,2025-12-24,Raj
+ORD00688,2025-12-22,CUST0249,Rohan Gupta,South,Tamil Nadu,Electronics,Electronics,Smartphone X,3,35285,10,95269.5,73952.71,21316.79,Credit Card,Delivered,2025-12-26,Kavita
+ORD00921,2025-12-23,CUST0230,Amit Joshi,West,Maharashtra,Electronics,Electronics,LED TV 55,2,47665,5,90563.5,79784.61,10778.89,Credit Card,Delivered,2025-12-29,Mohit
+ORD00245,2025-12-23,CUST0241,Rahul Patel,North,Uttar Pradesh,Electronics,Electronics,Tablet Plus,4,17987,5,68350.6,58715.95,9634.65,Net Banking,Delivered,2025-12-27,Varun
+ORD00593,2025-12-23,CUST0118,Ravi Patel,North,Punjab,Electronics,Electronics,Wireless Headphones,3,6065,10,16375.5,15962.19,413.31,Credit Card,Processing,2025-12-29,Yash
+ORD00104,2025-12-24,CUST0148,Ravi Malhotra,East,Odisha,Furniture,Furniture,Study Table,5,20650,5,98087.5,73310.67,24776.83,UPI,Delivered,2025-12-26,Tarun
+ORD00790,2025-12-24,CUST0237,Tanya Patel,West,Goa,Electronics,Electronics,Laptop Pro 14,1,55495,10,49945.5,41711.59,8233.91,Credit Card,Delivered,2025-12-28,Aman
+ORD00145,2025-12-24,CUST0245,Simran Sharma,South,Karnataka,Furniture,Furniture,Sofa Set,5,27936,15,118728.0,109447.01,9280.99,Net Banking,Returned,2025-12-28,Pallavi
+ORD00069,2025-12-24,CUST0290,Nisha Patel,North,Haryana,Electronics,Electronics,Tablet Plus,1,15421,15,13107.85,13803.77,-695.92,Net Banking,Delivered,2025-12-31,Kavita
+ORD00068,2025-12-25,CUST0170,Ankit Verma,West,Maharashtra,Electronics,Electronics,Smartphone X,3,44347,10,119736.9,102645.86,17091.04,Cash on Delivery,Delivered,2025-12-29,Varun
+ORD00509,2025-12-25,CUST0177,Nisha Mehta,West,Goa,Furniture,Furniture,Bed Frame,5,39029,10,175630.5,134510.35,41120.15,Cash on Delivery,Delivered,2025-12-31,Raj
+ORD00690,2025-12-25,CUST0208,Ankit Sharma,North,Uttar Pradesh,Appliances,Appliances,Washing Machine,5,33360,15,141780.0,121665.28,20114.72,UPI,Delivered,2025-12-28,Tarun
+ORD00647,2025-12-25,CUST0210,Tanya Mehta,East,Odisha,Electronics,Electronics,LED TV 55,3,53300,10,143910.0,137137.46,6772.54,Net Banking,Cancelled,2025-12-30,Tarun
+ORD00458,2025-12-26,CUST0259,Neha Sharma,South,Telangana,Appliances,Appliances,Air Conditioner,4,38881,15,132195.4,110171.34,22024.06,Credit Card,Delivered,2026-01-01,Kavita
+ORD00425,2025-12-26,CUST0120,Amit Singh,North,Punjab,Electronics,Electronics,Tablet Plus,3,36692,0,110076.0,84205.06,25870.94,Debit Card,Delivered,2025-12-31,Pallavi
+ORD00242,2025-12-27,CUST0260,Sneha Kumar,West,Rajasthan,Furniture,Furniture,Bookshelf,2,9014,5,17126.6,14829.52,2297.08,UPI,Shipped,2025-12-30,Aman
+ORD00022,2025-12-27,CUST0120,Amit Singh,North,Punjab,Furniture,Furniture,Study Table,2,8301,10,14941.8,13233.77,1708.03,Credit Card,Processing,2026-01-03,Yash
+ORD00211,2025-12-28,CUST0205,Kavya Joshi,East,West Bengal,Furniture,Furniture,Bed Frame,1,35575,5,33796.25,27977.44,5818.81,Cash on Delivery,Delivered,2025-12-31,Varun
+ORD00180,2025-12-28,CUST0126,Rohan Malhotra,North,Uttar Pradesh,Furniture,Furniture,Study Table,5,11683,15,49652.75,52054.21,-2401.46,Net Banking,Processing,2025-12-29,Sonia
+ORD00820,2025-12-29,CUST0253,Pooja Gupta,South,Tamil Nadu,Appliances,Appliances,Microwave Oven,5,7786,5,36983.5,33134.61,3848.89,Credit Card,Delivered,2026-01-01,Yash
+ORD00251,2025-12-30,CUST0184,Tanya Verma,South,Karnataka,Electronics,Electronics,Wireless Headphones,5,2573,10,11578.5,9107.94,2470.56,Net Banking,Delivered,2025-12-31,Kavita
+ORD00777,2025-12-30,CUST0251,Neha Singh,North,Delhi,Electronics,Electronics,Wireless Headphones,3,5712,10,15422.4,13303.83,2118.57,Credit Card,Delivered,2026-01-04,Mohit
+ORD00032,2025-12-30,CUST0150,Priya Joshi,North,Delhi,Electronics,Electronics,LED TV 55,4,45073,10,162262.8,156548.18,5714.62,Net Banking,Delivered,2026-01-02,Sonia
+ORD00781,2025-12-31,CUST0207,Pooja Malhotra,East,Bihar,Appliances,Appliances,Refrigerator,5,47385,10,213232.5,197106.67,16125.83,UPI,Delivered,2026-01-07,Pallavi
+ORD00695,2025-12-31,CUST0258,Vikram Joshi,North,Uttar Pradesh,Furniture,Furniture,Bed Frame,2,47062,15,80005.4,71272.07,8733.33,Net Banking,Delivered,2026-01-07,Varun
+ORD00531,2025-12-31,CUST0110,Rahul Patel,West,Gujarat,Furniture,Furniture,Sofa Set,3,48620,15,123981.0,118572.26,5408.74,Cash on Delivery,Delivered,2026-01-05,Raj
